@@ -1,0 +1,53 @@
+FIPS_Region,FIPS_Division,FIPS_State,State_Name,Region,Division
+1,1,9,Connecticut,Northeast,New England
+1,1,23,Maine,Northeast,New England
+1,1,25,Massachusetts,Northeast,New England
+1,1,33,New Hampshire,Northeast,New England
+1,1,44,Rhode Island,Northeast,New England
+1,1,50,Vermont,Northeast,New England
+1,2,34,New Jersey,Northeast,Middle Atlantic
+1,2,36,New York City,Northeast,Middle Atlantic
+1,2,36,New York,Northeast,Middle Atlantic
+1,2,42,Pennsylvania,Northeast,Middle Atlantic
+2,3,17,Illinois,Midwest,East North Central
+2,3,18,Indiana,Midwest,East North Central
+2,3,26,Michigan,Midwest,East North Central
+2,3,39,Ohio,Midwest,East North Central
+2,3,55,Wisconsin,Midwest,East North Central
+2,4,19,Iowa,Midwest,West North Central
+2,4,20,Kansas,Midwest,West North Central
+2,4,27,Minnesota,Midwest,West North Central
+2,4,29,Missouri,Midwest,West North Central
+2,4,31,Nebraska,Midwest,West North Central
+2,4,38,North Dakota,Midwest,West North Central
+2,4,46,South Dakota,Midwest,West North Central
+3,5,10,Delaware,South,South Atlantic
+3,5,11,District of Columbia,South,South Atlantic
+3,5,12,Florida,South,South Atlantic
+3,5,13,Georgia,South,South Atlantic
+3,5,24,Maryland,South,South Atlantic
+3,5,37,North Carolina,South,South Atlantic
+3,5,45,South Carolina,South,South Atlantic
+3,5,51,Virginia,South,South Atlantic
+3,5,54,West Virginia,South,South Atlantic
+3,6,1,Alabama,South,East South Central
+3,6,21,Kentucky,South,East South Central
+3,6,28,Mississippi,South,East South Central
+3,6,47,Tennessee,South,East South Central
+3,7,5,Arkansas,South,West South Central
+3,7,22,Louisiana,South,West South Central
+3,7,40,Oklahoma,South,West South Central
+3,7,48,Texas,South,West South Central
+4,8,4,Arizona,West,Mountain
+4,8,8,Colorado,West,Mountain
+4,8,16,Idaho,West,Mountain
+4,8,30,Montana,West,Mountain
+4,8,32,Nevada,West,Mountain
+4,8,35,New Mexico,West,Mountain
+4,8,49,Utah,West,Mountain
+4,8,56,Wyoming,West,Mountain
+4,9,2,Alaska,West,Pacific
+4,9,6,California,West,Pacific
+4,9,15,Hawaii,West,Pacific
+4,9,41,Oregon,West,Pacific
+4,9,53,Washington,West,Pacific
