@@ -1,4 +1,4 @@
-# Code for "Hidden in the Aggregate: The Deadliest Month on Record for Overdose in the United States"
+# Code for "COVID-19 and the Drug Overdose Crisis: Uncovering the Deadliest Months in the United States, January-July 2020"
 
 ## Directory Layout
 - __src/:__ Contains python scripts used in analysis
