@@ -1,5 +1,11 @@
 # Code for "COVID-19 and the Drug Overdose Crisis: Uncovering the Deadliest Months in the United States, January-July 2020"
 
+## Monthly Overdose Deaths From January 2014 to September 2020: United States
+![Overdose Deaths Jan 2014 Sept 2020](visuals/fig_1.png)
+
+## Monthly Overdose Deaths From January 2014 to September 2020: Select U.S. States
+![Overdose Deaths Jan 2014 Sept 2020 - state level](visuals/fig_2.png)
+
 ## Directory Layout
 - __src/:__ Contains python scripts used in analysis
     - __defilter_data.py:__ Disaggregates rolling sum data
@@ -8,6 +14,7 @@
     - __tests/:__ Unit tests to ensure desired functions work as intended
 - __input/:__ Input datafiles used for analysis
 - __output/:__ Generated intermediate files
+- __visuals/:__ Generated figures and tables
 - __CDC_overdose_monthly_recovery.ipynb:__ Python notebook used to disaggregate CDC overdose death data and calculate errors in that process
 - __CDC_monthly_imputation.R:__ Imputes missing data from monthly "ground truth" overdose data
 - __CDC_monthly_recovery_analysis.R:__ Run analysis and visualizations of monthly overdose data. Used to generate figures in manuscript.
