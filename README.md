@@ -20,6 +20,7 @@
 - __CDC_overdose_monthly_recovery.ipynb:__ Python notebook used to disaggregate CDC overdose death data and calculate errors in that process
 - __CDC_monthly_imputation.R:__ Imputes missing data from monthly "ground truth" overdose data
 - __CDC_monthly_recovery_analysis.R:__ Run analysis and visualizations of monthly overdose data. Used to generate figures in manuscript.
+- __Useable_Overdose_Data_Through_Sep_2020.csv:__ Cleaned monthly overdose death data by state. Intended for use by others.
 
 ## Programming Environment
 
