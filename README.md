@@ -1,5 +1,7 @@
 # Code for "COVID-19 and the Drug Overdose Crisis: Uncovering the Deadliest Months in the United States, January-July 2020"
 
+- Overdose data by state for analysis purposes in: `Useable_Overdose_Data_Through_Sep_2020.csv`
+
 ## Monthly Overdose Deaths From January 2014 to September 2020: United States
 ![Overdose Deaths Jan 2014 Sept 2020](visuals/fig_1.png)
 
