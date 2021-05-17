@@ -4,10 +4,10 @@ _Updated 05-16-2021_
 
 - Overdose data by state for analysis purposes in: `Useable_Overdose_Data_Through_Oct_2020.csv`
 
-## Monthly Overdose Deaths From January 2014 to September 2020: United States
+## Monthly Overdose Deaths From January 2014 to October 2020: United States
 ![Overdose Deaths Jan 2014 October 2020](visuals/fig_1.png)
 
-## Monthly Overdose Deaths From January 2014 to September 2020: Select U.S. States
+## Monthly Overdose Deaths From January 2014 to October 2020: Select U.S. States
 ![Overdose Deaths Jan 2014 October 2020 - state level](visuals/fig_2.png)
 
 ## Directory Layout
