@@ -13,3 +13,6 @@ venv
 
 # Mac OS Files
 .DS_Store
+
+# Intermediate file
+output/ground_truth_states_imputation.csv
