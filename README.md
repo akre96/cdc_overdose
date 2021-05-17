@@ -19,6 +19,7 @@ _Updated 05-16-2021_
 - __input/:__ Input datafiles used for analysis
 - __output/:__ Generated intermediate files
 - __visuals/:__ Generated figures and tables
+    - __state_timeseries_2021-05-16.pdf:__ State by state data
 - __CDC_overdose_monthly_recovery.ipynb:__ Python notebook used to disaggregate CDC overdose death data and calculate errors in that process
 - __CDC_monthly_imputation.R:__ Imputes missing data from monthly "ground truth" overdose data
 - __CDC_monthly_recovery_analysis.R:__ Run analysis and visualizations of monthly overdose data. Used to generate figures in manuscript.
