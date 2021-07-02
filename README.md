@@ -1,14 +1,20 @@
 # Code for "COVID-19 and the Drug Overdose Crisis: Uncovering the Deadliest Months in the United States, January-July 2020"
 
-_Updated 05-16-2021_
+Paper:  
+
+Friedman, J. & Akre, S. COVID-19 and the Drug Overdose Crisis: Uncovering the Deadliest Months in the United States, January‒July 2020. Am J Public Health e1–e8 (2021). doi:10.2105/ajph.2021.306256
+
+
+
+_Updated 06-22-2021_
 
 - Overdose data by state for analysis purposes in: `Useable_Overdose_Data_Through_Oct_2020.csv`
 
-## Monthly Overdose Deaths From January 2014 to October 2020: United States
-![Overdose Deaths Jan 2014 October 2020](visuals/fig_1.png)
+## Monthly Overdose Deaths:  United States
+![Overdose Deaths](visuals/fig_1.png)
 
-## Monthly Overdose Deaths From January 2014 to October 2020: Select U.S. States
-![Overdose Deaths Jan 2014 October 2020 - state level](visuals/fig_2.png)
+## Monthly Overdose Deaths: Select U.S. States
+![Overdose Deaths - state level](visuals/fig_2.png)
 
 ## Directory Layout
 - __src/:__ Contains python scripts used in analysis
