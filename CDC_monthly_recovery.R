@@ -37,7 +37,7 @@ cdc[,num_blanks:=sum(blank,na.rm=T),by=.(`Month Code`,Division)]
 cdc[is.na(Deaths),Deaths:=missing_deaths/num_blanks]
 
 #confirm no missings
-nrow(cdc[is.na(Deaths)]) 
+nrow(cdc[is.na(Deaths)])
 
 #save imputed ground truth for export to python
 cdc <- cdc[,c("State_Name","Year","Month Code","Division","Region","Deaths")]
@@ -67,7 +67,7 @@ cdc[,mono:=month+(((year)-2010)*12)]
 
 cdc2 <- cdc[mono!=120]
 for (c.d in sort(unique(aggs[date>"2019-11-01",date]))){
- 
+
 c.agg <- aggs[date==c.d]
 c.mono <- unique(c.agg$mono)
 c.fin <- cdc2[mono<c.mono & mono >(c.mono-12)]
@@ -149,7 +149,7 @@ cdc.rec.d.w[,per_chg:=((deaths_2020-deaths_2019)/(deaths_2019))*100]
 gg1 <- ggplot(cdc.rec.n,aes(y=deaths,ymin=deaths_lower,ymax=deaths_upper,x=month,color=factor(year),fill=factor(year))) +
 geom_segment(size=1.5,aes(y=deaths_lower,yend=deaths_upper,x=month,xend=month,color=factor(year)))+
 geom_line(size=2,alpha=.8)+
-geom_point(size=4,shape=21,color="black",stroke=1.1) + 
+geom_point(size=4,shape=21,color="black",stroke=1.1) +
 theme_bw() +
 scale_y_continuous(limits=c(3000,9500),breaks=seq(0,9000,1000))+
 scale_x_continuous(breaks=seq(1,12,1),labels=month.abb)+
@@ -163,7 +163,7 @@ axis.text=element_text(size=10,face="bold"),
 axis.title=element_text(size=10,face="bold")
 )
 
-#Prep shapefile 
+#Prep shapefile
 shp.st <- readOGR(paste0(root,"/ref/cb_2018_us_state_20m/cb_2018_us_state_20m.shp"),layer='cb_2018_us_state_20m')
 shp <- readOGR(paste0(root,"/ref/cb_2018_us_division_20m/cb_2018_us_division_20m.shp"),layer='cb_2018_us_division_20m')
 shp$level <- shp$NAME
@@ -229,7 +229,7 @@ cdc.rec[,deaths_pc:=deaths/pop*1000000]
 cdc.rec[,deaths_pc_upper:=deaths_upper/pop*1000000]
 cdc.rec[,deaths_pc_lower:=deaths_lower/pop*1000000]
 
-#order accordingly 
+#order accordingly
 cdc.rec <- cdc.rec[order(deaths_pc)]
 
 #define order in graph
@@ -269,7 +269,7 @@ dev.off()
 
 #Number Plug for manuscript (note comments reflect values through July 2020)
 View(cdc.rec[State_Name%in%c.st&month==5&year==2020,c("State_Name","deaths_pc","deaths_pc_lower","deaths_pc_upper")])
-#After recovering monthly values, we find that 9,192 (95% prediction interval: 8,988- 9,396) 
+#After recovering monthly values, we find that 9,192 (95% prediction interval: 8,988- 9,396)
 #people died of overdose in May 2020-making it the deadliest month on record-representing a
 cdc.rec.n[year==2020&month==5,deaths]
 cdc.rec.n[year==2020&month==5,deaths_upper]
@@ -285,20 +285,20 @@ cdc.rec.n[year==2020&month==5,deaths_lower]
 (((cdc.rec.n[year==2020&month==6,deaths_upper] /  cdc.rec.n[year==2019&month==6,deaths]))-1)*100
 (((cdc.rec.n[year==2020&month==6,deaths_lower] /  cdc.rec.n[year==2019&month==6,deaths]))-1)*100
 
-#Mortality rates increased again in July 2020, reaching 43.6% (40.4%-46.9%) above July 2019. 
+#Mortality rates increased again in July 2020, reaching 43.6% (40.4%-46.9%) above July 2019.
 (((cdc.rec.n[year==2020&month==7,deaths] /  cdc.rec.n[year==2019&month==7,deaths]))-1)*100
 (((cdc.rec.n[year==2020&month==7,deaths_upper] /  cdc.rec.n[year==2019&month==7,deaths]))-1)*100
 (((cdc.rec.n[year==2020&month==7,deaths_lower] /  cdc.rec.n[year==2019&month==7,deaths]))-1)*100
 
 
-#Overall, values in the first seven months of 2020 were elevated by 34.8% (31.9% - 37.8%) relative to the equivalent months of 2019. 
+#Overall, values in the first seven months of 2020 were elevated by 34.8% (31.9% - 37.8%) relative to the equivalent months of 2019.
 (((sum(cdc.rec.n[year==2020&month<8,deaths]) /  sum(cdc.rec.n[year==2019&month<8,deaths])))-1)*100
 (((sum(cdc.rec.n[year==2020&month<8,deaths_lower]) /  sum(cdc.rec.n[year==2019&month<8,deaths])))-1)*100
 (((sum(cdc.rec.n[year==2020&month<8,deaths_upper]) /  sum(cdc.rec.n[year==2019&month<8,deaths])))-1)*100
 
 
-#To put this in perspective, if the final values through December 2020 were to be elevated by a similar margin, 
-#we would expect a total of 92 to 96 thousand deaths to eventually be recorded for the year. 
+#To put this in perspective, if the final values through December 2020 were to be elevated by a similar margin,
+#we would expect a total of 92 to 96 thousand deaths to eventually be recorded for the year.
 70630 * 1.35
 70630 * 1.32
 70630 * 1.38
@@ -306,7 +306,7 @@ cdc.rec.n[year==2020&month==5,deaths_lower]
 
 
 #West Virginia, Kentucky, and Tennessee had the highest per-capita death rates in May 2020 of
-#93.2 (81.7- 104.7), 56.0 (52.1- 59.8) and 51.0 (48.2- 53.7) per million inhabitants, respectively, 
+#93.2 (81.7- 104.7), 56.0 (52.1- 59.8) and 51.0 (48.2- 53.7) per million inhabitants, respectively,
 round(cdc.rec[year==2020&month==5&State_Name=="West Virginia",deaths_pc],1)
 round(cdc.rec[year==2020&month==5&State_Name=="West Virginia",deaths_pc_lower],1)
 round(cdc.rec[year==2020&month==5&State_Name=="West Virginia",deaths_pc_upper],1)
@@ -346,7 +346,7 @@ temp[deaths_lower<10,deaths_lower:=10]
 ggs1 <- ggplot(temp[State_Name%in%c.st&year>2013],aes(y=deaths,ymin=deaths_lower,ymax=deaths_upper,x=month,color=factor(year),fill=factor(year))) +
 geom_segment(size=1.5,aes(y=deaths_lower,yend=deaths_upper,x=month,xend=month,color=factor(year)))+
 geom_line(size=1,alpha=1)+ facet_wrap(~State_Name,scales="free",nrow=8) +
-geom_point(size=3,shape=21,stroke=1.1,color="black") + 
+geom_point(size=3,shape=21,stroke=1.1,color="black") +
 theme_bw() +
 #scale_y_continuous(limits=c(3000,9500),breaks=seq(0,9000,1000))+
 scale_x_continuous(breaks=seq(1,12,1),labels=month.abb)+
@@ -371,7 +371,7 @@ temp[deaths_lower<10,deaths_lower:=10]
 ggs2 <- ggplot(temp[year>2013],aes(y=deaths,ymin=deaths_lower,ymax=deaths_upper,x=month,color=factor(year),fill=factor(year))) +
   geom_segment(size=1.5,aes(y=deaths_lower,yend=deaths_upper,x=month,xend=month,color=factor(year)))+
   geom_line(size=1,alpha=1)+ facet_wrap(~Division,scales="free") +
-  geom_point(size=3,shape=21,stroke=1.1,color="black") + 
+  geom_point(size=3,shape=21,stroke=1.1,color="black") +
   theme_bw() +
   #scale_y_continuous(limits=c(3000,9500),breaks=seq(0,9000,1000))+
   scale_x_continuous(breaks=seq(1,12,1),labels=month.abb)+
@@ -445,7 +445,7 @@ write.csv(t1,paste0(root,"/visuals/CDC_Recovery_table1_",Sys.Date(),".csv"),row.
 
 
 
-#Supplemental Figure 4 - Comparing % increases in May 2020 compared to rolling 12 month periods 
+#Supplemental Figure 4 - Comparing % increases in May 2020 compared to rolling 12 month periods
 
 #state level % increases in May 2020 for states with enough sample size
 sf4 <- dcast.data.table(cdc.rec[State_Name%in%c.st&month==5&year%in%c(2019,2020)],State_Name~year,value.var=c("deaths","deaths_upper","deaths_lower","pop"))
@@ -486,9 +486,9 @@ pdf(paste0(root,"/visuals/CDC_Recovery_supp_figure4_",Sys.Date(),".pdf"),height=
 ggs4
 dev.off()
 
-#The overall R2 between the percent increase in monthly data from May 2020 and 12-month rolling sums 
+#The overall R2 between the percent increase in monthly data from May 2020 and 12-month rolling sums
 #ending in May 2020 was 0.272
-cor(sf4$per_chg,sf4$per_chg_agg)^2  
+cor(sf4$per_chg,sf4$per_chg_agg)^2
 
 
 #Table of average and std dev of percent errors
@@ -502,7 +502,7 @@ setnames(st2.d,"Division","Location")
 st2 <- rbind(st2.n,st2.d,st2.s)
 write.csv(st2,paste0(root,"/visuals/CDC_Recovery_supplemental_table2_",Sys.Date(),".csv"),row.names = F)
 
-#For 44 states, the MAPE was found to be below 10%, indicating relatively reliable predictive performance. 
+#For 44 states, the MAPE was found to be below 10%, indicating relatively reliable predictive performance.
 nrow(st2.s[mape<10])
 
 
