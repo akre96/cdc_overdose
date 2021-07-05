@@ -11,9 +11,9 @@ root <- "C:/Users/josep/Google Drive/MS1/research/covid_NEMSIS_OHCA"
 
 #load final monthly mortality files
 #state-level
-cdc_state <- fread(paste0(root,"/data/CDC_2020/ground_truth_states_with_supressed.csv"))
+cdc_state <- fread(paste0(root,"/input/ground_truth_states_with_supressed.csv"))
 #division-level
-cdc_division <- fread(paste0(root,"/data/CDC_2020/ground_truth_divisions_with_supressed.csv"))
+cdc_division <- fread(paste0(root,"/input/ground_truth_divisions_with_supressed.csv"))
 #state-division mapping
 st.rg.map <- fread(paste0(root,"/ref/state_region_division_map.csv"))
 
@@ -45,7 +45,7 @@ cdc <- cdc[order(State_Name,Year,`Month Code`)]
 write.csv(cdc,paste0(root,"/data/CDC_2020/ground_truth_states_imputation.csv"),row.names=F)
 
 #-------------Load Output From Python -- Post Recovery Process--------------------#
-cdc.rec <- fread(paste0(root,"/data/CDC_2020/monthly_overdose_computed_m2.csv"))
+cdc.rec <- fread(paste0(root,"/output//monthly_overdose_computed_m2.csv"))
 cdc.rec[,date:=as.Date(timestamp,format="%m/%d/%Y")]
 cdc.rec[,month:=month(date)]
 cdc.rec[,year:=year(date)]
@@ -58,7 +58,7 @@ setnames(cdc,"Year","year")
 
 #---------------Double Check Findings (Duplicate Core Analysis in R)------------------------#
 #implement recovery in R, compare to python
-aggs <- fread(paste0(root,"/data/CDC_2020/CDC_ts.csv"))
+aggs <- fread(paste0(root,"/input/CDC_ts.csv"))
 setnames(aggs,"location","State_Name")
 aggs[,date:=as.Date(end_date,format="%m/%d/%Y")]
 
@@ -89,7 +89,7 @@ cdc.rec <- rbind(cdc.rec[year==2020],cdc,fill=T)
 cdc.rec[is.na(raw_predicted_val),raw_predicted_val:=Deaths]
 
 #merge on state-level pops for calcuting rates
-pop <- fread(paste0(root,"/data/CDC_2020/state_pops.csv"))
+pop <- fread(paste0(root,"/input/state_pops.csv"))
 pop[,State_Name:=str_remove(State_Name,".")]
 pop <- melt.data.table(pop,id.vars = "State_Name",variable.name = "year",value.name = "pop")
 pop[,pop:=as.numeric(str_remove_all(pop,","))]
@@ -101,7 +101,7 @@ cdc.rec.d <- cdc.rec[,.(deaths=sum(raw_predicted_val),pop=sum(pop)),by=.(month,y
 
 #add standard errors at state,division, national level
 #state
-errors <- fread(paste0(root,"/data/CDC_2020/full_error.csv"))
+errors <- fread(paste0(root,"/output/full_error.csv"))
 setnames(errors,"location","State_Name")
 errors <- merge(errors,st.rg.map,by="State_Name")
 se.s <- errors[,.(sd_pe=sd(percent_error,na.rm=T),mpe=median(percent_error,na.rm=T),mape=median(abs(percent_error),na.rm=T)),by=.(month_out,State_Name)]
@@ -455,7 +455,7 @@ sf4[,per_chg_upper:=((deaths_upper_2020-deaths_2019)/(deaths_2019))*100]
 sf4[,per_chg_lower:=((deaths_lower_2020-deaths_2019)/(deaths_2019))*100]
 
 #stave level % increases in 12 month rolling period ending in May 2020
-aggs <- fread(paste0(root,"/data/CDC_2020/CDC_ts_July2020.csv"))
+aggs <- fread(paste0(root,"/input/CDC_ts.csv"))
 setnames(aggs,"location","State_Name")
 aggs[,date:=as.Date(end_date,format="%m/%d/%Y")]
 aggs <- aggs[end_date%in%c("5/1/2020","5/1/2019")]
