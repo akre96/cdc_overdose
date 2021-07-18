@@ -34,7 +34,7 @@ def calculate_error(
             prev_truth = time_filt.loc[
                 data.location == loc, 'Deaths'
                 ].values
-            estimates = dd.defilter(
+            estimates = dd.unroll_sum(
                     time_filt.loc[
                         time_filt.location == loc, 'predicted_val'
                     ].iloc[k-1:].values, k, prev_truth[:k-1]
