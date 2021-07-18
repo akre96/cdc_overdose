@@ -6,7 +6,7 @@ Friedman, J. & Akre, S. COVID-19 and the Drug Overdose Crisis: Uncovering the De
 
 
 
-_Updated 06-22-2021_
+_Updated 07-17-2021_
 
 - Overdose data by state for analysis purposes in: `Useable_Overdose_Data_Through_Oct_2020.csv`
 
