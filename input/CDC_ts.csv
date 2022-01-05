@@ -1,3747 +1,3906 @@
-location,end_date,predicted_val,,,
-Alabama,5/1/2020,887,,,
-Alabama,4/1/2020,835,,,
-Alabama,3/1/2020,806,,,
-Alabama,2/1/2020,784,,,
-Alabama,1/1/2020,766,,,
-Alabama,12/1/2019,754,,,
-Alabama,11/1/2019,766,,,
-Alabama,10/1/2019,760,,,
-Alabama,9/1/2019,733,,,
-Alabama,8/1/2019,745,,,
-Alabama,7/1/2019,728,,,
-Alabama,6/1/2019,733,,,
-Alabama,5/1/2019,713,,,
-Alabama,4/1/2019,712,,,
-Alabama,3/1/2019,714,,,
-Alabama,2/1/2019,713,,,
-Alabama,1/1/2019,732,,,
-Alabama,12/1/2018,753,,,
-Alabama,11/1/2018,756,,,
-Alabama,10/1/2018,766,,,
-Alabama,9/1/2018,770,,,
-Alabama,8/1/2018,761,,,
-Alabama,7/1/2018,775,,,
-Alabama,6/1/2018,779,,,
-Alabama,5/1/2018,801,,,
-Alabama,4/1/2018,797,,,
-Alabama,3/1/2018,797,,,
-Alabama,2/1/2018,811,,,
-Alabama,1/1/2018,796,,,
-Alabama,12/1/2017,818,,,
-Alabama,11/1/2017,812,,,
-Alabama,10/1/2017,813,,,
-Alabama,9/1/2017,814,,,
-Alabama,8/1/2017,823,,,
-Alabama,7/1/2017,824,,,
-Alabama,6/1/2017,821,,,
-Alabama,5/1/2017,830,,,
-Alabama,4/1/2017,814,,,
-Alabama,3/1/2017,815,,,
-Alabama,2/1/2017,780,,,
-Alabama,1/1/2017,784,,,
-Alabama,12/1/2016,762,,,
-Alabama,11/1/2016,740,,,
-Alabama,10/1/2016,726,,,
-Alabama,9/1/2016,715,,,
-Alabama,8/1/2016,705,,,
-Alabama,7/1/2016,702,,,
-Alabama,6/1/2016,693,,,
-Alabama,5/1/2016,674,,,
-Alabama,4/1/2016,697,,,
-Alabama,3/1/2016,702,,,
-Alabama,2/1/2016,732,,,
-Alabama,1/1/2016,730,,,
-Alabama,12/1/2015,745,,,
-Alabama,11/1/2015,748,,,
-Alabama,10/1/2015,755,,,
-Alabama,9/1/2015,771,,,
-Alabama,8/1/2015,763,,,
-Alabama,7/1/2015,770,,,
-Alabama,6/1/2015,785,,,
-Alabama,5/1/2015,782,,,
-Alabama,4/1/2015,764,,,
-Alabama,3/1/2015,758,,,
-Alabama,2/1/2015,749,,,
-Alabama,1/1/2015,742,,,
-Alaska,5/1/2020,129,,,
-Alaska,4/1/2020,121,,,
-Alaska,3/1/2020,118,,,
-Alaska,2/1/2020,125,,,
-Alaska,1/1/2020,134,,,
-Alaska,12/1/2019,133,,,
-Alaska,11/1/2019,139,,,
-Alaska,10/1/2019,146,,,
-Alaska,9/1/2019,136,,,
-Alaska,8/1/2019,130,,,
-Alaska,7/1/2019,135,,,
-Alaska,6/1/2019,132,,,
-Alaska,5/1/2019,128,,,
-Alaska,4/1/2019,119,,,
-Alaska,3/1/2019,124,,,
-Alaska,2/1/2019,115,,,
-Alaska,1/1/2019,107,,,
-Alaska,12/1/2018,105,,,
-Alaska,11/1/2018,106,,,
-Alaska,10/1/2018,99,,,
-Alaska,9/1/2018,100,,,
-Alaska,8/1/2018,110,,,
-Alaska,7/1/2018,116,,,
-Alaska,6/1/2018,125,,,
-Alaska,5/1/2018,126,,,
-Alaska,4/1/2018,142,,,
-Alaska,3/1/2018,136,,,
-Alaska,2/1/2018,139,,,
-Alaska,1/1/2018,138,,,
-Alaska,12/1/2017,141,,,
-Alaska,11/1/2017,138,,,
-Alaska,10/1/2017,144,,,
-Alaska,9/1/2017,148,,,
-Alaska,8/1/2017,138,,,
-Alaska,7/1/2017,129,,,
-Alaska,6/1/2017,123,,,
-Alaska,5/1/2017,121,,,
-Alaska,4/1/2017,118,,,
-Alaska,3/1/2017,127,,,
-Alaska,2/1/2017,125,,,
-Alaska,1/1/2017,127,,,
-Alaska,12/1/2016,130,,,
-Alaska,11/1/2016,134,,,
-Alaska,10/1/2016,132,,,
-Alaska,9/1/2016,132,,,
-Alaska,8/1/2016,138,,,
-Alaska,7/1/2016,143,,,
-Alaska,6/1/2016,138,,,
-Alaska,5/1/2016,140,,,
-Alaska,4/1/2016,132,,,
-Alaska,3/1/2016,125,,,
-Alaska,2/1/2016,128,,,
-Alaska,1/1/2016,126,,,
-Alaska,12/1/2015,121,,,
-Alaska,11/1/2015,115,,,
-Alaska,10/1/2015,120,,,
-Alaska,9/1/2015,125,,,
-Alaska,8/1/2015,124,,,
-Alaska,7/1/2015,117,,,
-Alaska,6/1/2015,121,,,
-Alaska,5/1/2015,125,,,
-Alaska,4/1/2015,126,,,
-Alaska,3/1/2015,125,,,
-Alaska,2/1/2015,127,,,
-Alaska,1/1/2015,126,,,
-Arizona,5/1/2020,2240,,,
-Arizona,4/1/2020,2158,,,
-Arizona,3/1/2020,2113,,,
-Arizona,2/1/2020,2070,,,
-Arizona,1/1/2020,2026,,,
-Arizona,12/1/2019,1982,,,
-Arizona,11/1/2019,1960,,,
-Arizona,10/1/2019,1960,,,
-Arizona,9/1/2019,1913,,,
-Arizona,8/1/2019,1846,,,
-Arizona,7/1/2019,1832,,,
-Arizona,6/1/2019,1797,,,
-Arizona,5/1/2019,1805,,,
-Arizona,4/1/2019,1788,,,
-Arizona,3/1/2019,1784,,,
-Arizona,2/1/2019,1762,,,
-Arizona,1/1/2019,1733,,,
-Arizona,12/1/2018,1748,,,
-Arizona,11/1/2018,1724,,,
-Arizona,10/1/2018,1694,,,
-Arizona,9/1/2018,1698,,,
-Arizona,8/1/2018,1702,,,
-Arizona,7/1/2018,1681,,,
-Arizona,6/1/2018,1638,,,
-Arizona,5/1/2018,1643,,,
-Arizona,4/1/2018,1649,,,
-Arizona,3/1/2018,1633,,,
-Arizona,2/1/2018,1623,,,
-Arizona,1/1/2018,1611,,,
-Arizona,12/1/2017,1597,,,
-Arizona,11/1/2017,1579,,,
-Arizona,10/1/2017,1572,,,
-Arizona,9/1/2017,1576,,,
-Arizona,8/1/2017,1554,,,
-Arizona,7/1/2017,1539,,,
-Arizona,6/1/2017,1553,,,
-Arizona,5/1/2017,1540,,,
-Arizona,4/1/2017,1524,,,
-Arizona,3/1/2017,1538,,,
-Arizona,2/1/2017,1518,,,
-Arizona,1/1/2017,1523,,,
-Arizona,12/1/2016,1498,,,
-Arizona,11/1/2016,1483,,,
-Arizona,10/1/2016,1481,,,
-Arizona,9/1/2016,1467,,,
-Arizona,8/1/2016,1469,,,
-Arizona,7/1/2016,1473,,,
-Arizona,6/1/2016,1408,,,
-Arizona,5/1/2016,1377,,,
-Arizona,4/1/2016,1357,,,
-Arizona,3/1/2016,1332,,,
-Arizona,2/1/2016,1324,,,
-Arizona,1/1/2016,1318,,,
-Arizona,12/1/2015,1292,,,
-Arizona,11/1/2015,1298,,,
-Arizona,10/1/2015,1297,,,
-Arizona,9/1/2015,1277,,,
-Arizona,8/1/2015,1279,,,
-Arizona,7/1/2015,1244,,,
-Arizona,6/1/2015,1254,,,
-Arizona,5/1/2015,1228,,,
-Arizona,4/1/2015,1218,,,
-Arizona,3/1/2015,1219,,,
-Arizona,2/1/2015,1221,,,
-Arizona,1/1/2015,1236,,,
-Arkansas,5/1/2020,417,,,
-Arkansas,4/1/2020,404,,,
-Arkansas,3/1/2020,386,,,
-Arkansas,2/1/2020,370,,,
-Arkansas,1/1/2020,367,,,
-Arkansas,12/1/2019,362,,,
-Arkansas,11/1/2019,364,,,
-Arkansas,10/1/2019,359,,,
-Arkansas,9/1/2019,356,,,
-Arkansas,8/1/2019,357,,,
-Arkansas,7/1/2019,383,,,
-Arkansas,6/1/2019,397,,,
-Arkansas,5/1/2019,414,,,
-Arkansas,4/1/2019,436,,,
-Arkansas,3/1/2019,440,,,
-Arkansas,2/1/2019,452,,,
-Arkansas,1/1/2019,439,,,
-Arkansas,12/1/2018,435,,,
-Arkansas,11/1/2018,447,,,
-Arkansas,10/1/2018,458,,,
-Arkansas,9/1/2018,449,,,
-Arkansas,8/1/2018,456,,,
-Arkansas,7/1/2018,452,,,
-Arkansas,6/1/2018,448,,,
-Arkansas,5/1/2018,444,,,
-Arkansas,4/1/2018,426,,,
-Arkansas,3/1/2018,431,,,
-Arkansas,2/1/2018,425,,,
-Arkansas,1/1/2018,428,,,
-Arkansas,12/1/2017,426,,,
-Arkansas,11/1/2017,413,,,
-Arkansas,10/1/2017,412,,,
-Arkansas,9/1/2017,415,,,
-Arkansas,8/1/2017,408,,,
-Arkansas,7/1/2017,397,,,
-Arkansas,6/1/2017,400,,,
-Arkansas,5/1/2017,385,,,
-Arkansas,4/1/2017,388,,,
-Arkansas,3/1/2017,386,,,
-Arkansas,2/1/2017,383,,,
-Arkansas,1/1/2017,386,,,
-Arkansas,12/1/2016,388,,,
-Arkansas,11/1/2016,380,,,
-Arkansas,10/1/2016,374,,,
-Arkansas,9/1/2016,381,,,
-Arkansas,8/1/2016,385,,,
-Arkansas,7/1/2016,380,,,
-Arkansas,6/1/2016,371,,,
-Arkansas,5/1/2016,378,,,
-Arkansas,4/1/2016,374,,,
-Arkansas,3/1/2016,365,,,
-Arkansas,2/1/2016,381,,,
-Arkansas,1/1/2016,380,,,
-Arkansas,12/1/2015,383,,,
-Arkansas,11/1/2015,391,,,
-Arkansas,10/1/2015,398,,,
-Arkansas,9/1/2015,394,,,
-Arkansas,8/1/2015,399,,,
-Arkansas,7/1/2015,396,,,
-Arkansas,6/1/2015,392,,,
-Arkansas,5/1/2015,384,,,
-Arkansas,4/1/2015,374,,,
-Arkansas,3/1/2015,386,,,
-Arkansas,2/1/2015,367,,,
-Arkansas,1/1/2015,367,,,
-California,5/1/2020,7425,,,
-California,4/1/2020,7154,,,
-California,3/1/2020,6939,,,
-California,2/1/2020,6753,,,
-California,1/1/2020,6590,,,
-California,12/1/2019,6510,,,
-California,11/1/2019,6445,,,
-California,10/1/2019,6305,,,
-California,9/1/2019,6251,,,
-California,8/1/2019,6204,,,
-California,7/1/2019,6103,,,
-California,6/1/2019,6031,,,
-California,5/1/2019,5953,,,
-California,4/1/2019,5848,,,
-California,3/1/2019,5771,,,
-California,2/1/2019,5686,,,
-California,1/1/2019,5622,,,
-California,12/1/2018,5626,,,
-California,11/1/2018,5540,,,
-California,10/1/2018,5509,,,
-California,9/1/2018,5487,,,
-California,8/1/2018,5444,,,
-California,7/1/2018,5370,,,
-California,6/1/2018,5357,,,
-California,5/1/2018,5335,,,
-California,4/1/2018,5372,,,
-California,3/1/2018,5370,,,
-California,2/1/2018,5352,,,
-California,1/1/2018,5270,,,
-California,12/1/2017,5211,,,
-California,11/1/2017,5250,,,
-California,10/1/2017,5272,,,
-California,9/1/2017,5167,,,
-California,8/1/2017,5093,,,
-California,7/1/2017,5064,,,
-California,6/1/2017,5001,,,
-California,5/1/2017,4950,,,
-California,4/1/2017,4903,,,
-California,3/1/2017,4912,,,
-California,2/1/2017,4916,,,
-California,1/1/2017,4965,,,
-California,12/1/2016,4948,,,
-California,11/1/2016,4918,,,
-California,10/1/2016,4881,,,
-California,9/1/2016,4942,,,
-California,8/1/2016,5021,,,
-California,7/1/2016,5041,,,
-California,6/1/2016,5062,,,
-California,5/1/2016,5024,,,
-California,4/1/2016,4998,,,
-California,3/1/2016,4966,,,
-California,2/1/2016,4938,,,
-California,1/1/2016,4935,,,
-California,12/1/2015,4951,,,
-California,11/1/2015,4906,,,
-California,10/1/2015,4926,,,
-California,9/1/2015,4874,,,
-California,8/1/2015,4782,,,
-California,7/1/2015,4734,,,
-California,6/1/2015,4707,,,
-California,5/1/2015,4708,,,
-California,4/1/2015,4730,,,
-California,3/1/2015,4714,,,
-California,2/1/2015,4725,,,
-California,1/1/2015,4716,,,
-Colorado,5/1/2020,1296,,,
-Colorado,4/1/2020,1230,,,
-Colorado,3/1/2020,1174,,,
-Colorado,2/1/2020,1130,,,
-Colorado,1/1/2020,1119,,,
-Colorado,12/1/2019,1100,,,
-Colorado,11/1/2019,1072,,,
-Colorado,10/1/2019,1054,,,
-Colorado,9/1/2019,1038,,,
-Colorado,8/1/2019,1019,,,
-Colorado,7/1/2019,1009,,,
-Colorado,6/1/2019,1008,,,
-Colorado,5/1/2019,994,,,
-Colorado,4/1/2019,995,,,
-Colorado,3/1/2019,990,,,
-Colorado,2/1/2019,999,,,
-Colorado,1/1/2019,992,,,
-Colorado,12/1/2018,1004,,,
-Colorado,11/1/2018,991,,,
-Colorado,10/1/2018,1018,,,
-Colorado,9/1/2018,1017,,,
-Colorado,8/1/2018,1027,,,
-Colorado,7/1/2018,1035,,,
-Colorado,6/1/2018,1035,,,
-Colorado,5/1/2018,1058,,,
-Colorado,4/1/2018,1048,,,
-Colorado,3/1/2018,1068,,,
-Colorado,2/1/2018,1053,,,
-Colorado,1/1/2018,1048,,,
-Colorado,12/1/2017,1040,,,
-Colorado,11/1/2017,1046,,,
-Colorado,10/1/2017,1027,,,
-Colorado,9/1/2017,1024,,,
-Colorado,8/1/2017,1019,,,
-Colorado,7/1/2017,1014,,,
-Colorado,6/1/2017,997,,,
-Colorado,5/1/2017,983,,,
-Colorado,4/1/2017,989,,,
-Colorado,3/1/2017,964,,,
-Colorado,2/1/2017,967,,,
-Colorado,1/1/2017,977,,,
-Colorado,12/1/2016,965,,,
-Colorado,11/1/2016,952,,,
-Colorado,10/1/2016,948,,,
-Colorado,9/1/2016,933,,,
-Colorado,8/1/2016,934,,,
-Colorado,7/1/2016,928,,,
-Colorado,6/1/2016,935,,,
-Colorado,5/1/2016,916,,,
-Colorado,4/1/2016,895,,,
-Colorado,3/1/2016,909,,,
-Colorado,2/1/2016,913,,,
-Colorado,1/1/2016,914,,,
-Colorado,12/1/2015,914,,,
-Colorado,11/1/2015,909,,,
-Colorado,10/1/2015,916,,,
-Colorado,9/1/2015,918,,,
-Colorado,8/1/2015,928,,,
-Colorado,7/1/2015,918,,,
-Colorado,6/1/2015,921,,,
-Colorado,5/1/2015,927,,,
-Colorado,4/1/2015,950,,,
-Colorado,3/1/2015,939,,,
-Colorado,2/1/2015,932,,,
-Colorado,1/1/2015,923,,,
-Connecticut,5/1/2020,1363,,,
-Connecticut,4/1/2020,1348,,,
-Connecticut,3/1/2020,1305,,,
-Connecticut,2/1/2020,1284,,,
-Connecticut,1/1/2020,1267,,,
-Connecticut,12/1/2019,1247,,,
-Connecticut,11/1/2019,1204,,,
-Connecticut,10/1/2019,1198,,,
-Connecticut,9/1/2019,1192,,,
-Connecticut,8/1/2019,1192,,,
-Connecticut,7/1/2019,1137,,,
-Connecticut,6/1/2019,1107,,,
-Connecticut,5/1/2019,1098,,,
-Connecticut,4/1/2019,1085,,,
-Connecticut,3/1/2019,1079,,,
-Connecticut,2/1/2019,1081,,,
-Connecticut,1/1/2019,1087,,,
-Connecticut,12/1/2018,1070,,,
-Connecticut,11/1/2018,1097,,,
-Connecticut,10/1/2018,1081,,,
-Connecticut,9/1/2018,1083,,,
-Connecticut,8/1/2018,1063,,,
-Connecticut,7/1/2018,1066,,,
-Connecticut,6/1/2018,1069,,,
-Connecticut,5/1/2018,1052,,,
-Connecticut,4/1/2018,1065,,,
-Connecticut,3/1/2018,1065,,,
-Connecticut,2/1/2018,1058,,,
-Connecticut,1/1/2018,1053,,,
-Connecticut,12/1/2017,1080,,,
-Connecticut,11/1/2017,1066,,,
-Connecticut,10/1/2017,1092,,,
-Connecticut,9/1/2017,1083,,,
-Connecticut,8/1/2017,1081,,,
-Connecticut,7/1/2017,1074,,,
-Connecticut,6/1/2017,1056,,,
-Connecticut,5/1/2017,1046,,,
-Connecticut,4/1/2017,1018,,,
-Connecticut,3/1/2017,1019,,,
-Connecticut,2/1/2017,994,,,
-Connecticut,1/1/2017,985,,,
-Connecticut,12/1/2016,974,,,
-Connecticut,11/1/2016,939,,,
-Connecticut,10/1/2016,918,,,
-Connecticut,9/1/2016,929,,,
-Connecticut,8/1/2016,928,,,
-Connecticut,7/1/2016,906,,,
-Connecticut,6/1/2016,909,,,
-Connecticut,5/1/2016,895,,,
-Connecticut,4/1/2016,869,,,
-Connecticut,3/1/2016,849,,,
-Connecticut,2/1/2016,836,,,
-Connecticut,1/1/2016,824,,,
-Connecticut,12/1/2015,799,,,
-Connecticut,11/1/2015,800,,,
-Connecticut,10/1/2015,779,,,
-Connecticut,9/1/2015,748,,,
-Connecticut,8/1/2015,728,,,
-Connecticut,7/1/2015,722,,,
-Connecticut,6/1/2015,670,,,
-Connecticut,5/1/2015,652,,,
-Connecticut,4/1/2015,650,,,
-Connecticut,3/1/2015,639,,,
-Connecticut,2/1/2015,633,,,
-Connecticut,1/1/2015,631,,,
-Delaware,5/1/2020,478,,,
-Delaware,4/1/2020,469,,,
-Delaware,3/1/2020,461,,,
-Delaware,2/1/2020,453,,,
-Delaware,1/1/2020,431,,,
-Delaware,12/1/2019,425,,,
-Delaware,11/1/2019,402,,,
-Delaware,10/1/2019,409,,,
-Delaware,9/1/2019,418,,,
-Delaware,8/1/2019,423,,,
-Delaware,7/1/2019,428,,,
-Delaware,6/1/2019,418,,,
-Delaware,5/1/2019,404,,,
-Delaware,4/1/2019,392,,,
-Delaware,3/1/2019,394,,,
-Delaware,2/1/2019,401,,,
-Delaware,1/1/2019,403,,,
-Delaware,12/1/2018,399,,,
-Delaware,11/1/2018,405,,,
-Delaware,10/1/2018,406,,,
-Delaware,9/1/2018,393,,,
-Delaware,8/1/2018,381,,,
-Delaware,7/1/2018,363,,,
-Delaware,6/1/2018,367,,,
-Delaware,5/1/2018,366,,,
-Delaware,4/1/2018,360,,,
-Delaware,3/1/2018,354,,,
-Delaware,2/1/2018,338,,,
-Delaware,1/1/2018,330,,,
-Delaware,12/1/2017,341,,,
-Delaware,11/1/2017,345,,,
-Delaware,10/1/2017,338,,,
-Delaware,9/1/2017,329,,,
-Delaware,8/1/2017,326,,,
-Delaware,7/1/2017,320,,,
-Delaware,6/1/2017,313,,,
-Delaware,5/1/2017,310,,,
-Delaware,4/1/2017,313,,,
-Delaware,3/1/2017,312,,,
-Delaware,2/1/2017,309,,,
-Delaware,1/1/2017,310,,,
-Delaware,12/1/2016,285,,,
-Delaware,11/1/2016,268,,,
-Delaware,10/1/2016,254,,,
-Delaware,9/1/2016,245,,,
-Delaware,8/1/2016,245,,,
-Delaware,7/1/2016,233,,,
-Delaware,6/1/2016,221,,,
-Delaware,5/1/2016,216,,,
-Delaware,4/1/2016,199,,,
-Delaware,3/1/2016,188,,,
-Delaware,2/1/2016,189,,,
-Delaware,1/1/2016,181,,,
-Delaware,12/1/2015,195,,,
-Delaware,11/1/2015,194,,,
-Delaware,10/1/2015,187,,,
-Delaware,9/1/2015,201,,,
-Delaware,8/1/2015,192,,,
-Delaware,7/1/2015,202,,,
-Delaware,6/1/2015,199,,,
-Delaware,5/1/2015,195,,,
-Delaware,4/1/2015,200,,,
-Delaware,3/1/2015,208,,,
-Delaware,2/1/2015,208,,,
-Delaware,1/1/2015,210,,,
-District of Columbia,5/1/2020,474,,,
-District of Columbia,4/1/2020,452,,,
-District of Columbia,3/1/2020,418,,,
-District of Columbia,2/1/2020,401,,,
-District of Columbia,1/1/2020,391,,,
-District of Columbia,12/1/2019,367,,,
-District of Columbia,11/1/2019,345,,,
-District of Columbia,10/1/2019,335,,,
-District of Columbia,9/1/2019,324,,,
-District of Columbia,8/1/2019,318,,,
-District of Columbia,7/1/2019,308,,,
-District of Columbia,6/1/2019,306,,,
-District of Columbia,5/1/2019,296,,,
-District of Columbia,4/1/2019,293,,,
-District of Columbia,3/1/2019,305,,,
-District of Columbia,2/1/2019,306,,,
-District of Columbia,1/1/2019,300,,,
-District of Columbia,12/1/2018,295,,,
-District of Columbia,11/1/2018,303,,,
-District of Columbia,10/1/2018,300,,,
-District of Columbia,9/1/2018,294,,,
-District of Columbia,8/1/2018,291,,,
-District of Columbia,7/1/2018,291,,,
-District of Columbia,6/1/2018,285,,,
-District of Columbia,5/1/2018,292,,,
-District of Columbia,4/1/2018,302,,,
-District of Columbia,3/1/2018,305,,,
-District of Columbia,2/1/2018,324,,,
-District of Columbia,1/1/2018,332,,,
-District of Columbia,12/1/2017,348,,,
-District of Columbia,11/1/2017,346,,,
-District of Columbia,10/1/2017,371,,,
-District of Columbia,9/1/2017,380,,,
-District of Columbia,8/1/2017,377,,,
-District of Columbia,7/1/2017,383,,,
-District of Columbia,6/1/2017,384,,,
-District of Columbia,5/1/2017,380,,,
-District of Columbia,4/1/2017,375,,,
-District of Columbia,3/1/2017,357,,,
-District of Columbia,2/1/2017,342,,,
-District of Columbia,1/1/2017,326,,,
-District of Columbia,12/1/2016,300,,,
-District of Columbia,11/1/2016,289,,,
-District of Columbia,10/1/2016,259,,,
-District of Columbia,9/1/2016,248,,,
-District of Columbia,8/1/2016,240,,,
-District of Columbia,7/1/2016,220,,,
-District of Columbia,6/1/2016,209,,,
-District of Columbia,5/1/2016,199,,,
-District of Columbia,4/1/2016,175,,,
-District of Columbia,3/1/2016,163,,,
-District of Columbia,2/1/2016,148,,,
-District of Columbia,1/1/2016,148,,,
-District of Columbia,12/1/2015,146,,,
-District of Columbia,11/1/2015,137,,,
-District of Columbia,10/1/2015,128,,,
-District of Columbia,9/1/2015,124,,,
-District of Columbia,8/1/2015,117,,,
-District of Columbia,7/1/2015,116,,,
-District of Columbia,6/1/2015,121,,,
-District of Columbia,5/1/2015,120,,,
-District of Columbia,4/1/2015,115,,,
-District of Columbia,3/1/2015,116,,,
-District of Columbia,2/1/2015,114,,,
-District of Columbia,1/1/2015,114,,,
-Florida,5/1/2020,6652,,,
-Florida,4/1/2020,6254,,,
-Florida,3/1/2020,6018,,,
-Florida,2/1/2020,5777,,,
-Florida,1/1/2020,5635,,,
-Florida,12/1/2019,5524,,,
-Florida,11/1/2019,5482,,,
-Florida,10/1/2019,5415,,,
-Florida,9/1/2019,5264,,,
-Florida,8/1/2019,5172,,,
-Florida,7/1/2019,5114,,,
-Florida,6/1/2019,5054,,,
-Florida,5/1/2019,4972,,,
-Florida,4/1/2019,4998,,,
-Florida,3/1/2019,4974,,,
-Florida,2/1/2019,4937,,,
-Florida,1/1/2019,4921,,,
-Florida,12/1/2018,4943,,,
-Florida,11/1/2018,4978,,,
-Florida,10/1/2018,4966,,,
-Florida,9/1/2018,5022,,,
-Florida,8/1/2018,5080,,,
-Florida,7/1/2018,5160,,,
-Florida,6/1/2018,5155,,,
-Florida,5/1/2018,5255,,,
-Florida,4/1/2018,5292,,,
-Florida,3/1/2018,5311,,,
-Florida,2/1/2018,5437,,,
-Florida,1/1/2018,5469,,,
-Florida,12/1/2017,5457,,,
-Florida,11/1/2017,5424,,,
-Florida,10/1/2017,5481,,,
-Florida,9/1/2017,5595,,,
-Florida,8/1/2017,5627,,,
-Florida,7/1/2017,5602,,,
-Florida,6/1/2017,5678,,,
-Florida,5/1/2017,5538,,,
-Florida,4/1/2017,5389,,,
-Florida,3/1/2017,5291,,,
-Florida,2/1/2017,5235,,,
-Florida,1/1/2017,5184,,,
-Florida,12/1/2016,5002,,,
-Florida,11/1/2016,4846,,,
-Florida,10/1/2016,4589,,,
-Florida,9/1/2016,4287,,,
-Florida,8/1/2016,4098,,,
-Florida,7/1/2016,3978,,,
-Florida,6/1/2016,3847,,,
-Florida,5/1/2016,3761,,,
-Florida,4/1/2016,3705,,,
-Florida,3/1/2016,3597,,,
-Florida,2/1/2016,3401,,,
-Florida,1/1/2016,3324,,,
-Florida,12/1/2015,3352,,,
-Florida,11/1/2015,3340,,,
-Florida,10/1/2015,3341,,,
-Florida,9/1/2015,3270,,,
-Florida,8/1/2015,3204,,,
-Florida,7/1/2015,3117,,,
-Florida,6/1/2015,2983,,,
-Florida,5/1/2015,2958,,,
-Florida,4/1/2015,2886,,,
-Florida,3/1/2015,2862,,,
-Florida,2/1/2015,2824,,,
-Florida,1/1/2015,2755,,,
-Georgia,5/1/2020,1567,,,
-Georgia,4/1/2020,1517,,,
-Georgia,3/1/2020,1454,,,
-Georgia,2/1/2020,1434,,,
-Georgia,1/1/2020,1391,,,
-Georgia,12/1/2019,1385,,,
-Georgia,11/1/2019,1391,,,
-Georgia,10/1/2019,1389,,,
-Georgia,9/1/2019,1392,,,
-Georgia,8/1/2019,1394,,,
-Georgia,7/1/2019,1365,,,
-Georgia,6/1/2019,1371,,,
-Georgia,5/1/2019,1392,,,
-Georgia,4/1/2019,1385,,,
-Georgia,3/1/2019,1382,,,
-Georgia,2/1/2019,1389,,,
-Georgia,1/1/2019,1386,,,
-Georgia,12/1/2018,1384,,,
-Georgia,11/1/2018,1406,,,
-Georgia,10/1/2018,1429,,,
-Georgia,9/1/2018,1466,,,
-Georgia,8/1/2018,1450,,,
-Georgia,7/1/2018,1449,,,
-Georgia,6/1/2018,1444,,,
-Georgia,5/1/2018,1448,,,
-Georgia,4/1/2018,1444,,,
-Georgia,3/1/2018,1476,,,
-Georgia,2/1/2018,1468,,,
-Georgia,1/1/2018,1487,,,
-Georgia,12/1/2017,1525,,,
-Georgia,11/1/2017,1515,,,
-Georgia,10/1/2017,1530,,,
-Georgia,9/1/2017,1509,,,
-Georgia,8/1/2017,1511,,,
-Georgia,7/1/2017,1502,,,
-Georgia,6/1/2017,1493,,,
-Georgia,5/1/2017,1492,,,
-Georgia,4/1/2017,1475,,,
-Georgia,3/1/2017,1443,,,
-Georgia,2/1/2017,1425,,,
-Georgia,1/1/2017,1406,,,
-Georgia,12/1/2016,1378,,,
-Georgia,11/1/2016,1351,,,
-Georgia,10/1/2016,1304,,,
-Georgia,9/1/2016,1296,,,
-Georgia,8/1/2016,1281,,,
-Georgia,7/1/2016,1276,,,
-Georgia,6/1/2016,1285,,,
-Georgia,5/1/2016,1273,,,
-Georgia,4/1/2016,1296,,,
-Georgia,3/1/2016,1284,,,
-Georgia,2/1/2016,1283,,,
-Georgia,1/1/2016,1306,,,
-Georgia,12/1/2015,1315,,,
-Georgia,11/1/2015,1322,,,
-Georgia,10/1/2015,1345,,,
-Georgia,9/1/2015,1321,,,
-Georgia,8/1/2015,1334,,,
-Georgia,7/1/2015,1339,,,
-Georgia,6/1/2015,1320,,,
-Georgia,5/1/2015,1299,,,
-Georgia,4/1/2015,1280,,,
-Georgia,3/1/2015,1265,,,
-Georgia,2/1/2015,1244,,,
-Georgia,1/1/2015,1214,,,
-Hawaii,5/1/2020,269,,,
-Hawaii,4/1/2020,251,,,
-Hawaii,3/1/2020,249,,,
-Hawaii,2/1/2020,242,,,
-Hawaii,1/1/2020,249,,,
-Hawaii,12/1/2019,262,,,
-Hawaii,11/1/2019,261,,,
-Hawaii,10/1/2019,264,,,
-Hawaii,9/1/2019,249,,,
-Hawaii,8/1/2019,247,,,
-Hawaii,7/1/2019,235,,,
-Hawaii,6/1/2019,235,,,
-Hawaii,5/1/2019,228,,,
-Hawaii,4/1/2019,228,,,
-Hawaii,3/1/2019,231,,,
-Hawaii,2/1/2019,228,,,
-Hawaii,1/1/2019,225,,,
-Hawaii,12/1/2018,214,,,
-Hawaii,11/1/2018,214,,,
-Hawaii,10/1/2018,213,,,
-Hawaii,9/1/2018,219,,,
-Hawaii,8/1/2018,217,,,
-Hawaii,7/1/2018,222,,,
-Hawaii,6/1/2018,222,,,
-Hawaii,5/1/2018,216,,,
-Hawaii,4/1/2018,233,,,
-Hawaii,3/1/2018,221,,,
-Hawaii,2/1/2018,213,,,
-Hawaii,1/1/2018,202,,,
-Hawaii,12/1/2017,202,,,
-Hawaii,11/1/2017,202,,,
-Hawaii,10/1/2017,202,,,
-Hawaii,9/1/2017,199,,,
-Hawaii,8/1/2017,192,,,
-Hawaii,7/1/2017,198,,,
-Hawaii,6/1/2017,193,,,
-Hawaii,5/1/2017,196,,,
-Hawaii,4/1/2017,187,,,
-Hawaii,3/1/2017,189,,,
-Hawaii,2/1/2017,197,,,
-Hawaii,1/1/2017,211,,,
-Hawaii,12/1/2016,207,,,
-Hawaii,11/1/2016,201,,,
-Hawaii,10/1/2016,198,,,
-Hawaii,9/1/2016,198,,,
-Hawaii,8/1/2016,207,,,
-Hawaii,7/1/2016,196,,,
-Hawaii,6/1/2016,196,,,
-Hawaii,5/1/2016,191,,,
-Hawaii,4/1/2016,191,,,
-Hawaii,3/1/2016,187,,,
-Hawaii,2/1/2016,181,,,
-Hawaii,1/1/2016,174,,,
-Hawaii,12/1/2015,171,,,
-Hawaii,11/1/2015,165,,,
-Hawaii,10/1/2015,156,,,
-Hawaii,9/1/2015,153,,,
-Hawaii,8/1/2015,149,,,
-Hawaii,7/1/2015,147,,,
-Hawaii,6/1/2015,147,,,
-Hawaii,5/1/2015,163,,,
-Hawaii,4/1/2015,157,,,
-Hawaii,3/1/2015,158,,,
-Hawaii,2/1/2015,161,,,
-Hawaii,1/1/2015,157,,,
-Idaho,5/1/2020,258,,,
-Idaho,4/1/2020,248,,,
-Idaho,3/1/2020,249,,,
-Idaho,2/1/2020,257,,,
-Idaho,1/1/2020,263,,,
-Idaho,12/1/2019,264,,,
-Idaho,11/1/2019,264,,,
-Idaho,10/1/2019,254,,,
-Idaho,9/1/2019,248,,,
-Idaho,8/1/2019,239,,,
-Idaho,7/1/2019,244,,,
-Idaho,6/1/2019,262,,,
-Idaho,5/1/2019,258,,,
-Idaho,4/1/2019,261,,,
-Idaho,3/1/2019,266,,,
-Idaho,2/1/2019,260,,,
-Idaho,1/1/2019,249,,,
-Idaho,12/1/2018,243,,,
-Idaho,11/1/2018,234,,,
-Idaho,10/1/2018,231,,,
-Idaho,9/1/2018,238,,,
-Idaho,8/1/2018,244,,,
-Idaho,7/1/2018,247,,,
-Idaho,6/1/2018,235,,,
-Idaho,5/1/2018,223,,,
-Idaho,4/1/2018,227,,,
-Idaho,3/1/2018,225,,,
-Idaho,2/1/2018,223,,,
-Idaho,1/1/2018,228,,,
-Idaho,12/1/2017,234,,,
-Idaho,11/1/2017,233,,,
-Idaho,10/1/2017,237,,,
-Idaho,9/1/2017,241,,,
-Idaho,8/1/2017,236,,,
-Idaho,7/1/2017,235,,,
-Idaho,6/1/2017,232,,,
-Idaho,5/1/2017,242,,,
-Idaho,4/1/2017,236,,,
-Idaho,3/1/2017,232,,,
-Idaho,2/1/2017,233,,,
-Idaho,1/1/2017,227,,,
-Idaho,12/1/2016,229,,,
-Idaho,11/1/2016,236,,,
-Idaho,10/1/2016,230,,,
-Idaho,9/1/2016,219,,,
-Idaho,8/1/2016,218,,,
-Idaho,7/1/2016,219,,,
-Idaho,6/1/2016,217,,,
-Idaho,5/1/2016,212,,,
-Idaho,4/1/2016,209,,,
-Idaho,3/1/2016,212,,,
-Idaho,2/1/2016,215,,,
-Idaho,1/1/2016,214,,,
-Idaho,12/1/2015,214,,,
-Idaho,11/1/2015,209,,,
-Idaho,10/1/2015,215,,,
-Idaho,9/1/2015,214,,,
-Idaho,8/1/2015,218,,,
-Idaho,7/1/2015,220,,,
-Idaho,6/1/2015,217,,,
-Idaho,5/1/2015,213,,,
-Idaho,4/1/2015,219,,,
-Idaho,3/1/2015,216,,,
-Idaho,2/1/2015,206,,,
-Idaho,1/1/2015,209,,,
-Illinois,5/1/2020,3355,,,
-Illinois,4/1/2020,3209,,,
-Illinois,3/1/2020,3064,,,
-Illinois,2/1/2020,2971,,,
-Illinois,1/1/2020,2859,,,
-Illinois,12/1/2019,2799,,,
-Illinois,11/1/2019,2749,,,
-Illinois,10/1/2019,2691,,,
-Illinois,9/1/2019,2714,,,
-Illinois,8/1/2019,2686,,,
-Illinois,7/1/2019,2633,,,
-Illinois,6/1/2019,2657,,,
-Illinois,5/1/2019,2648,,,
-Illinois,4/1/2019,2607,,,
-Illinois,3/1/2019,2643,,,
-Illinois,2/1/2019,2662,,,
-Illinois,1/1/2019,2687,,,
-Illinois,12/1/2018,2744,,,
-Illinois,11/1/2018,2733,,,
-Illinois,10/1/2018,2794,,,
-Illinois,9/1/2018,2780,,,
-Illinois,8/1/2018,2846,,,
-Illinois,7/1/2018,2887,,,
-Illinois,6/1/2018,2861,,,
-Illinois,5/1/2018,2853,,,
-Illinois,4/1/2018,2800,,,
-Illinois,3/1/2018,2766,,,
-Illinois,2/1/2018,2745,,,
-Illinois,1/1/2018,2759,,,
-Illinois,12/1/2017,2765,,,
-Illinois,11/1/2017,2781,,,
-Illinois,10/1/2017,2714,,,
-Illinois,9/1/2017,2650,,,
-Illinois,8/1/2017,2560,,,
-Illinois,7/1/2017,2486,,,
-Illinois,6/1/2017,2462,,,
-Illinois,5/1/2017,2473,,,
-Illinois,4/1/2017,2513,,,
-Illinois,3/1/2017,2543,,,
-Illinois,2/1/2017,2553,,,
-Illinois,1/1/2017,2524,,,
-Illinois,12/1/2016,2427,,,
-Illinois,11/1/2016,2333,,,
-Illinois,10/1/2016,2297,,,
-Illinois,9/1/2016,2319,,,
-Illinois,8/1/2016,2275,,,
-Illinois,7/1/2016,2261,,,
-Illinois,6/1/2016,2213,,,
-Illinois,5/1/2016,2129,,,
-Illinois,4/1/2016,2097,,,
-Illinois,3/1/2016,2025,,,
-Illinois,2/1/2016,1958,,,
-Illinois,1/1/2016,1893,,,
-Illinois,12/1/2015,1864,,,
-Illinois,11/1/2015,1860,,,
-Illinois,10/1/2015,1847,,,
-Illinois,9/1/2015,1813,,,
-Illinois,8/1/2015,1793,,,
-Illinois,7/1/2015,1761,,,
-Illinois,6/1/2015,1766,,,
-Illinois,5/1/2015,1782,,,
-Illinois,4/1/2015,1735,,,
-Illinois,3/1/2015,1688,,,
-Illinois,2/1/2015,1657,,,
-Illinois,1/1/2015,1652,,,
-Indiana,5/1/2020,1968,,,
-Indiana,4/1/2020,1875,,,
-Indiana,3/1/2020,1797,,,
-Indiana,2/1/2020,1792,,,
-Indiana,1/1/2020,1752,,,
-Indiana,12/1/2019,1703,,,
-Indiana,11/1/2019,1679,,,
-Indiana,10/1/2019,1660,,,
-Indiana,9/1/2019,1636,,,
-Indiana,8/1/2019,1627,,,
-Indiana,7/1/2019,1622,,,
-Indiana,6/1/2019,1609,,,
-Indiana,5/1/2019,1611,,,
-Indiana,4/1/2019,1597,,,
-Indiana,3/1/2019,1609,,,
-Indiana,2/1/2019,1591,,,
-Indiana,1/1/2019,1591,,,
-Indiana,12/1/2018,1612,,,
-Indiana,11/1/2018,1605,,,
-Indiana,10/1/2018,1639,,,
-Indiana,9/1/2018,1649,,,
-Indiana,8/1/2018,1680,,,
-Indiana,7/1/2018,1679,,,
-Indiana,6/1/2018,1696,,,
-Indiana,5/1/2018,1699,,,
-Indiana,4/1/2018,1716,,,
-Indiana,3/1/2018,1736,,,
-Indiana,2/1/2018,1757,,,
-Indiana,1/1/2018,1808,,,
-Indiana,12/1/2017,1835,,,
-Indiana,11/1/2017,1861,,,
-Indiana,10/1/2017,1842,,,
-Indiana,9/1/2017,1802,,,
-Indiana,8/1/2017,1762,,,
-Indiana,7/1/2017,1777,,,
-Indiana,6/1/2017,1720,,,
-Indiana,5/1/2017,1721,,,
-Indiana,4/1/2017,1700,,,
-Indiana,3/1/2017,1664,,,
-Indiana,2/1/2017,1629,,,
-Indiana,1/1/2017,1576,,,
-Indiana,12/1/2016,1506,,,
-Indiana,11/1/2016,1469,,,
-Indiana,10/1/2016,1441,,,
-Indiana,9/1/2016,1434,,,
-Indiana,8/1/2016,1421,,,
-Indiana,7/1/2016,1383,,,
-Indiana,6/1/2016,1354,,,
-Indiana,5/1/2016,1321,,,
-Indiana,4/1/2016,1285,,,
-Indiana,3/1/2016,1264,,,
-Indiana,2/1/2016,1259,,,
-Indiana,1/1/2016,1228,,,
-Indiana,12/1/2015,1232,,,
-Indiana,11/1/2015,1218,,,
-Indiana,10/1/2015,1205,,,
-Indiana,9/1/2015,1210,,,
-Indiana,8/1/2015,1221,,,
-Indiana,7/1/2015,1207,,,
-Indiana,6/1/2015,1217,,,
-Indiana,5/1/2015,1203,,,
-Indiana,4/1/2015,1208,,,
-Indiana,3/1/2015,1193,,,
-Indiana,2/1/2015,1151,,,
-Indiana,1/1/2015,1162,,,
-Iowa,5/1/2020,397,,,
-Iowa,4/1/2020,388,,,
-Iowa,3/1/2020,374,,,
-Iowa,2/1/2020,363,,,
-Iowa,1/1/2020,346,,,
-Iowa,12/1/2019,350,,,
-Iowa,11/1/2019,336,,,
-Iowa,10/1/2019,322,,,
-Iowa,9/1/2019,316,,,
-Iowa,8/1/2019,306,,,
-Iowa,7/1/2019,297,,,
-Iowa,6/1/2019,283,,,
-Iowa,5/1/2019,287,,,
-Iowa,4/1/2019,286,,,
-Iowa,3/1/2019,277,,,
-Iowa,2/1/2019,277,,,
-Iowa,1/1/2019,278,,,
-Iowa,12/1/2018,277,,,
-Iowa,11/1/2018,280,,,
-Iowa,10/1/2018,289,,,
-Iowa,9/1/2018,299,,,
-Iowa,8/1/2018,294,,,
-Iowa,7/1/2018,305,,,
-Iowa,6/1/2018,307,,,
-Iowa,5/1/2018,312,,,
-Iowa,4/1/2018,325,,,
-Iowa,3/1/2018,326,,,
-Iowa,2/1/2018,331,,,
-Iowa,1/1/2018,336,,,
-Iowa,12/1/2017,341,,,
-Iowa,11/1/2017,340,,,
-Iowa,10/1/2017,338,,,
-Iowa,9/1/2017,334,,,
-Iowa,8/1/2017,338,,,
-Iowa,7/1/2017,334,,,
-Iowa,6/1/2017,332,,,
-Iowa,5/1/2017,322,,,
-Iowa,4/1/2017,319,,,
-Iowa,3/1/2017,330,,,
-Iowa,2/1/2017,330,,,
-Iowa,1/1/2017,325,,,
-Iowa,12/1/2016,314,,,
-Iowa,11/1/2016,319,,,
-Iowa,10/1/2016,313,,,
-Iowa,9/1/2016,306,,,
-Iowa,8/1/2016,309,,,
-Iowa,7/1/2016,304,,,
-Iowa,6/1/2016,310,,,
-Iowa,5/1/2016,318,,,
-Iowa,4/1/2016,316,,,
-Iowa,3/1/2016,309,,,
-Iowa,2/1/2016,304,,,
-Iowa,1/1/2016,303,,,
-Iowa,12/1/2015,300,,,
-Iowa,11/1/2015,308,,,
-Iowa,10/1/2015,307,,,
-Iowa,9/1/2015,311,,,
-Iowa,8/1/2015,296,,,
-Iowa,7/1/2015,298,,,
-Iowa,6/1/2015,289,,,
-Iowa,5/1/2015,277,,,
-Iowa,4/1/2015,265,,,
-Iowa,3/1/2015,272,,,
-Iowa,2/1/2015,274,,,
-Iowa,1/1/2015,274,,,
-Kansas,5/1/2020,389,,,
-Kansas,4/1/2020,381,,,
-Kansas,3/1/2020,385,,,
-Kansas,2/1/2020,382,,,
-Kansas,1/1/2020,387,,,
-Kansas,12/1/2019,380,,,
-Kansas,11/1/2019,378,,,
-Kansas,10/1/2019,366,,,
-Kansas,9/1/2019,376,,,
-Kansas,8/1/2019,372,,,
-Kansas,7/1/2019,376,,,
-Kansas,6/1/2019,374,,,
-Kansas,5/1/2019,371,,,
-Kansas,4/1/2019,368,,,
-Kansas,3/1/2019,363,,,
-Kansas,2/1/2019,361,,,
-Kansas,1/1/2019,348,,,
-Kansas,12/1/2018,341,,,
-Kansas,11/1/2018,350,,,
-Kansas,10/1/2018,347,,,
-Kansas,9/1/2018,354,,,
-Kansas,8/1/2018,354,,,
-Kansas,7/1/2018,344,,,
-Kansas,6/1/2018,347,,,
-Kansas,5/1/2018,332,,,
-Kansas,4/1/2018,323,,,
-Kansas,3/1/2018,319,,,
-Kansas,2/1/2018,317,,,
-Kansas,1/1/2018,319,,,
-Kansas,12/1/2017,324,,,
-Kansas,11/1/2017,314,,,
-Kansas,10/1/2017,317,,,
-Kansas,9/1/2017,304,,,
-Kansas,8/1/2017,298,,,
-Kansas,7/1/2017,311,,,
-Kansas,6/1/2017,302,,,
-Kansas,5/1/2017,318,,,
-Kansas,4/1/2017,318,,,
-Kansas,3/1/2017,324,,,
-Kansas,2/1/2017,325,,,
-Kansas,1/1/2017,328,,,
-Kansas,12/1/2016,314,,,
-Kansas,11/1/2016,316,,,
-Kansas,10/1/2016,313,,,
-Kansas,9/1/2016,316,,,
-Kansas,8/1/2016,321,,,
-Kansas,7/1/2016,322,,,
-Kansas,6/1/2016,320,,,
-Kansas,5/1/2016,306,,,
-Kansas,4/1/2016,313,,,
-Kansas,3/1/2016,314,,,
-Kansas,2/1/2016,318,,,
-Kansas,1/1/2016,314,,,
-Kansas,12/1/2015,324,,,
-Kansas,11/1/2015,329,,,
-Kansas,10/1/2015,334,,,
-Kansas,9/1/2015,334,,,
-Kansas,8/1/2015,337,,,
-Kansas,7/1/2015,328,,,
-Kansas,6/1/2015,330,,,
-Kansas,5/1/2015,337,,,
-Kansas,4/1/2015,332,,,
-Kansas,3/1/2015,323,,,
-Kansas,2/1/2015,308,,,
-Kansas,1/1/2015,312,,,
-Kentucky,5/1/2020,1645,,,
-Kentucky,4/1/2020,1499,,,
-Kentucky,3/1/2020,1444,,,
-Kentucky,2/1/2020,1415,,,
-Kentucky,1/1/2020,1373,,,
-Kentucky,12/1/2019,1369,,,
-Kentucky,11/1/2019,1320,,,
-Kentucky,10/1/2019,1310,,,
-Kentucky,9/1/2019,1300,,,
-Kentucky,8/1/2019,1307,,,
-Kentucky,7/1/2019,1341,,,
-Kentucky,6/1/2019,1339,,,
-Kentucky,5/1/2019,1346,,,
-Kentucky,4/1/2019,1330,,,
-Kentucky,3/1/2019,1332,,,
-Kentucky,2/1/2019,1320,,,
-Kentucky,1/1/2019,1339,,,
-Kentucky,12/1/2018,1336,,,
-Kentucky,11/1/2018,1369,,,
-Kentucky,10/1/2018,1383,,,
-Kentucky,9/1/2018,1381,,,
-Kentucky,8/1/2018,1372,,,
-Kentucky,7/1/2018,1380,,,
-Kentucky,6/1/2018,1379,,,
-Kentucky,5/1/2018,1381,,,
-Kentucky,4/1/2018,1418,,,
-Kentucky,3/1/2018,1450,,,
-Kentucky,2/1/2018,1490,,,
-Kentucky,1/1/2018,1529,,,
-Kentucky,12/1/2017,1566,,,
-Kentucky,11/1/2017,1594,,,
-Kentucky,10/1/2017,1564,,,
-Kentucky,9/1/2017,1566,,,
-Kentucky,8/1/2017,1575,,,
-Kentucky,7/1/2017,1568,,,
-Kentucky,6/1/2017,1564,,,
-Kentucky,5/1/2017,1583,,,
-Kentucky,4/1/2017,1580,,,
-Kentucky,3/1/2017,1552,,,
-Kentucky,2/1/2017,1545,,,
-Kentucky,1/1/2017,1480,,,
-Kentucky,12/1/2016,1437,,,
-Kentucky,11/1/2016,1395,,,
-Kentucky,10/1/2016,1416,,,
-Kentucky,9/1/2016,1411,,,
-Kentucky,8/1/2016,1404,,,
-Kentucky,7/1/2016,1376,,,
-Kentucky,6/1/2016,1371,,,
-Kentucky,5/1/2016,1320,,,
-Kentucky,4/1/2016,1291,,,
-Kentucky,3/1/2016,1253,,,
-Kentucky,2/1/2016,1228,,,
-Kentucky,1/1/2016,1253,,,
-Kentucky,12/1/2015,1248,,,
-Kentucky,11/1/2015,1240,,,
-Kentucky,10/1/2015,1217,,,
-Kentucky,9/1/2015,1233,,,
-Kentucky,8/1/2015,1208,,,
-Kentucky,7/1/2015,1211,,,
-Kentucky,6/1/2015,1198,,,
-Kentucky,5/1/2015,1185,,,
-Kentucky,4/1/2015,1172,,,
-Kentucky,3/1/2015,1152,,,
-Kentucky,2/1/2015,1121,,,
-Kentucky,1/1/2015,1101,,,
-Louisiana,5/1/2020,1562,,,
-Louisiana,4/1/2020,1462,,,
-Louisiana,3/1/2020,1387,,,
-Louisiana,2/1/2020,1340,,,
-Louisiana,1/1/2020,1330,,,
-Louisiana,12/1/2019,1304,,,
-Louisiana,11/1/2019,1278,,,
-Louisiana,10/1/2019,1244,,,
-Louisiana,9/1/2019,1185,,,
-Louisiana,8/1/2019,1161,,,
-Louisiana,7/1/2019,1122,,,
-Louisiana,6/1/2019,1115,,,
-Louisiana,5/1/2019,1126,,,
-Louisiana,4/1/2019,1125,,,
-Louisiana,3/1/2019,1128,,,
-Louisiana,2/1/2019,1156,,,
-Louisiana,1/1/2019,1162,,,
-Louisiana,12/1/2018,1167,,,
-Louisiana,11/1/2018,1193,,,
-Louisiana,10/1/2018,1212,,,
-Louisiana,9/1/2018,1210,,,
-Louisiana,8/1/2018,1202,,,
-Louisiana,7/1/2018,1210,,,
-Louisiana,6/1/2018,1212,,,
-Louisiana,5/1/2018,1203,,,
-Louisiana,4/1/2018,1174,,,
-Louisiana,3/1/2018,1167,,,
-Louisiana,2/1/2018,1136,,,
-Louisiana,1/1/2018,1113,,,
-Louisiana,12/1/2017,1102,,,
-Louisiana,11/1/2017,1059,,,
-Louisiana,10/1/2017,1015,,,
-Louisiana,9/1/2017,1014,,,
-Louisiana,8/1/2017,1020,,,
-Louisiana,7/1/2017,1007,,,
-Louisiana,6/1/2017,1016,,,
-Louisiana,5/1/2017,1030,,,
-Louisiana,4/1/2017,1036,,,
-Louisiana,3/1/2017,1020,,,
-Louisiana,2/1/2017,1010,,,
-Louisiana,1/1/2017,1015,,,
-Louisiana,12/1/2016,1004,,,
-Louisiana,11/1/2016,1012,,,
-Louisiana,10/1/2016,1021,,,
-Louisiana,9/1/2016,997,,,
-Louisiana,8/1/2016,979,,,
-Louisiana,7/1/2016,962,,,
-Louisiana,6/1/2016,943,,,
-Louisiana,5/1/2016,902,,,
-Louisiana,4/1/2016,896,,,
-Louisiana,3/1/2016,899,,,
-Louisiana,2/1/2016,906,,,
-Louisiana,1/1/2016,895,,,
-Louisiana,12/1/2015,880,,,
-Louisiana,11/1/2015,857,,,
-Louisiana,10/1/2015,839,,,
-Louisiana,9/1/2015,843,,,
-Louisiana,8/1/2015,827,,,
-Louisiana,7/1/2015,829,,,
-Louisiana,6/1/2015,805,,,
-Louisiana,5/1/2015,805,,,
-Louisiana,4/1/2015,798,,,
-Louisiana,3/1/2015,785,,,
-Louisiana,2/1/2015,786,,,
-Louisiana,1/1/2015,782,,,
-Maine,5/1/2020,435,,,
-Maine,4/1/2020,423,,,
-Maine,3/1/2020,420,,,
-Maine,2/1/2020,401,,,
-Maine,1/1/2020,390,,,
-Maine,12/1/2019,362,,,
-Maine,11/1/2019,356,,,
-Maine,10/1/2019,358,,,
-Maine,9/1/2019,334,,,
-Maine,8/1/2019,330,,,
-Maine,7/1/2019,322,,,
-Maine,6/1/2019,328,,,
-Maine,5/1/2019,319,,,
-Maine,4/1/2019,310,,,
-Maine,3/1/2019,318,,,
-Maine,2/1/2019,330,,,
-Maine,1/1/2019,324,,,
-Maine,12/1/2018,338,,,
-Maine,11/1/2018,367,,,
-Maine,10/1/2018,370,,,
-Maine,9/1/2018,385,,,
-Maine,8/1/2018,402,,,
-Maine,7/1/2018,404,,,
-Maine,6/1/2018,404,,,
-Maine,5/1/2018,402,,,
-Maine,4/1/2018,404,,,
-Maine,3/1/2018,410,,,
-Maine,2/1/2018,411,,,
-Maine,1/1/2018,408,,,
-Maine,12/1/2017,409,,,
-Maine,11/1/2017,396,,,
-Maine,10/1/2017,394,,,
-Maine,9/1/2017,376,,,
-Maine,8/1/2017,362,,,
-Maine,7/1/2017,355,,,
-Maine,6/1/2017,356,,,
-Maine,5/1/2017,369,,,
-Maine,4/1/2017,375,,,
-Maine,3/1/2017,368,,,
-Maine,2/1/2017,366,,,
-Maine,1/1/2017,368,,,
-Maine,12/1/2016,357,,,
-Maine,11/1/2016,341,,,
-Maine,10/1/2016,337,,,
-Maine,9/1/2016,342,,,
-Maine,8/1/2016,345,,,
-Maine,7/1/2016,334,,,
-Maine,6/1/2016,327,,,
-Maine,5/1/2016,303,,,
-Maine,4/1/2016,290,,,
-Maine,3/1/2016,279,,,
-Maine,2/1/2016,271,,,
-Maine,1/1/2016,270,,,
-Maine,12/1/2015,267,,,
-Maine,11/1/2015,271,,,
-Maine,10/1/2015,265,,,
-Maine,9/1/2015,258,,,
-Maine,8/1/2015,245,,,
-Maine,7/1/2015,253,,,
-Maine,6/1/2015,238,,,
-Maine,5/1/2015,239,,,
-Maine,4/1/2015,243,,,
-Maine,3/1/2015,230,,,
-Maine,2/1/2015,219,,,
-Maine,1/1/2015,214,,,
-Maryland,5/1/2020,2463,,,
-Maryland,4/1/2020,2380,,,
-Maryland,3/1/2020,2387,,,
-Maryland,2/1/2020,2357,,,
-Maryland,1/1/2020,2332,,,
-Maryland,12/1/2019,2360,,,
-Maryland,11/1/2019,2374,,,
-Maryland,10/1/2019,2358,,,
-Maryland,9/1/2019,2343,,,
-Maryland,8/1/2019,2334,,,
-Maryland,7/1/2019,2290,,,
-Maryland,6/1/2019,2264,,,
-Maryland,5/1/2019,2294,,,
-Maryland,4/1/2019,2327,,,
-Maryland,3/1/2019,2345,,,
-Maryland,2/1/2019,2353,,,
-Maryland,1/1/2019,2392,,,
-Maryland,12/1/2018,2393,,,
-Maryland,11/1/2018,2412,,,
-Maryland,10/1/2018,2413,,,
-Maryland,9/1/2018,2420,,,
-Maryland,8/1/2018,2428,,,
-Maryland,7/1/2018,2432,,,
-Maryland,6/1/2018,2438,,,
-Maryland,5/1/2018,2425,,,
-Maryland,4/1/2018,2410,,,
-Maryland,3/1/2018,2397,,,
-Maryland,2/1/2018,2359,,,
-Maryland,1/1/2018,2289,,,
-Maryland,12/1/2017,2284,,,
-Maryland,11/1/2017,2285,,,
-Maryland,10/1/2017,2277,,,
-Maryland,9/1/2017,2262,,,
-Maryland,8/1/2017,2250,,,
-Maryland,7/1/2017,2259,,,
-Maryland,6/1/2017,2273,,,
-Maryland,5/1/2017,2267,,,
-Maryland,4/1/2017,2265,,,
-Maryland,3/1/2017,2230,,,
-Maryland,2/1/2017,2188,,,
-Maryland,1/1/2017,2174,,,
-Maryland,12/1/2016,2074,,,
-Maryland,11/1/2016,1997,,,
-Maryland,10/1/2016,1945,,,
-Maryland,9/1/2016,1907,,,
-Maryland,8/1/2016,1848,,,
-Maryland,7/1/2016,1758,,,
-Maryland,6/1/2016,1683,,,
-Maryland,5/1/2016,1580,,,
-Maryland,4/1/2016,1479,,,
-Maryland,3/1/2016,1381,,,
-Maryland,2/1/2016,1336,,,
-Maryland,1/1/2016,1303,,,
-Maryland,12/1/2015,1320,,,
-Maryland,11/1/2015,1282,,,
-Maryland,10/1/2015,1251,,,
-Maryland,9/1/2015,1212,,,
-Maryland,8/1/2015,1169,,,
-Maryland,7/1/2015,1146,,,
-Maryland,6/1/2015,1137,,,
-Maryland,5/1/2015,1137,,,
-Maryland,4/1/2015,1125,,,
-Maryland,3/1/2015,1129,,,
-Maryland,2/1/2015,1115,,,
-Maryland,1/1/2015,1078,,,
-Massachusetts,5/1/2020,2335,,,
-Massachusetts,4/1/2020,2295,,,
-Massachusetts,3/1/2020,2275,,,
-Massachusetts,2/1/2020,2274,,,
-Massachusetts,1/1/2020,2240,,,
-Massachusetts,12/1/2019,2262,,,
-Massachusetts,11/1/2019,2259,,,
-Massachusetts,10/1/2019,2242,,,
-Massachusetts,9/1/2019,2198,,,
-Massachusetts,8/1/2019,2200,,,
-Massachusetts,7/1/2019,2201,,,
-Massachusetts,6/1/2019,2212,,,
-Massachusetts,5/1/2019,2235,,,
-Massachusetts,4/1/2019,2260,,,
-Massachusetts,3/1/2019,2258,,,
-Massachusetts,2/1/2019,2227,,,
-Massachusetts,1/1/2019,2232,,,
-Massachusetts,12/1/2018,2272,,,
-Massachusetts,11/1/2018,2287,,,
-Massachusetts,10/1/2018,2302,,,
-Massachusetts,9/1/2018,2332,,,
-Massachusetts,8/1/2018,2377,,,
-Massachusetts,7/1/2018,2409,,,
-Massachusetts,6/1/2018,2388,,,
-Massachusetts,5/1/2018,2344,,,
-Massachusetts,4/1/2018,2288,,,
-Massachusetts,3/1/2018,2296,,,
-Massachusetts,2/1/2018,2311,,,
-Massachusetts,1/1/2018,2311,,,
-Massachusetts,12/1/2017,2293,,,
-Massachusetts,11/1/2017,2265,,,
-Massachusetts,10/1/2017,2274,,,
-Massachusetts,9/1/2017,2286,,,
-Massachusetts,8/1/2017,2287,,,
-Massachusetts,7/1/2017,2250,,,
-Massachusetts,6/1/2017,2273,,,
-Massachusetts,5/1/2017,2296,,,
-Massachusetts,4/1/2017,2314,,,
-Massachusetts,3/1/2017,2344,,,
-Massachusetts,2/1/2017,2341,,,
-Massachusetts,1/1/2017,2350,,,
-Massachusetts,12/1/2016,2321,,,
-Massachusetts,11/1/2016,2270,,,
-Massachusetts,10/1/2016,2232,,,
-Massachusetts,9/1/2016,2224,,,
-Massachusetts,8/1/2016,2182,,,
-Massachusetts,7/1/2016,2165,,,
-Massachusetts,6/1/2016,2105,,,
-Massachusetts,5/1/2016,2053,,,
-Massachusetts,4/1/2016,2019,,,
-Massachusetts,3/1/2016,1955,,,
-Massachusetts,2/1/2016,1936,,,
-Massachusetts,1/1/2016,1900,,,
-Massachusetts,12/1/2015,1900,,,
-Massachusetts,11/1/2015,1946,,,
-Massachusetts,10/1/2015,1905,,,
-Massachusetts,9/1/2015,1833,,,
-Massachusetts,8/1/2015,1786,,,
-Massachusetts,7/1/2015,1739,,,
-Massachusetts,6/1/2015,1684,,,
-Massachusetts,5/1/2015,1662,,,
-Massachusetts,4/1/2015,1642,,,
-Massachusetts,3/1/2015,1578,,,
-Massachusetts,2/1/2015,1526,,,
-Massachusetts,1/1/2015,1527,,,
-Michigan,5/1/2020,2548,,,
-Michigan,4/1/2020,2476,,,
-Michigan,3/1/2020,2439,,,
-Michigan,2/1/2020,2412,,,
-Michigan,1/1/2020,2377,,,
-Michigan,12/1/2019,2385,,,
-Michigan,11/1/2019,2408,,,
-Michigan,10/1/2019,2384,,,
-Michigan,9/1/2019,2374,,,
-Michigan,8/1/2019,2359,,,
-Michigan,7/1/2019,2398,,,
-Michigan,6/1/2019,2439,,,
-Michigan,5/1/2019,2482,,,
-Michigan,4/1/2019,2424,,,
-Michigan,3/1/2019,2437,,,
-Michigan,2/1/2019,2477,,,
-Michigan,1/1/2019,2521,,,
-Michigan,12/1/2018,2596,,,
-Michigan,11/1/2018,2610,,,
-Michigan,10/1/2018,2653,,,
-Michigan,9/1/2018,2687,,,
-Michigan,8/1/2018,2720,,,
-Michigan,7/1/2018,2752,,,
-Michigan,6/1/2018,2716,,,
-Michigan,5/1/2018,2686,,,
-Michigan,4/1/2018,2720,,,
-Michigan,3/1/2018,2696,,,
-Michigan,2/1/2018,2683,,,
-Michigan,1/1/2018,2661,,,
-Michigan,12/1/2017,2671,,,
-Michigan,11/1/2017,2715,,,
-Michigan,10/1/2017,2714,,,
-Michigan,9/1/2017,2733,,,
-Michigan,8/1/2017,2705,,,
-Michigan,7/1/2017,2640,,,
-Michigan,6/1/2017,2602,,,
-Michigan,5/1/2017,2559,,,
-Michigan,4/1/2017,2524,,,
-Michigan,3/1/2017,2506,,,
-Michigan,2/1/2017,2484,,,
-Michigan,1/1/2017,2449,,,
-Michigan,12/1/2016,2356,,,
-Michigan,11/1/2016,2202,,,
-Michigan,10/1/2016,2116,,,
-Michigan,9/1/2016,2019,,,
-Michigan,8/1/2016,1983,,,
-Michigan,7/1/2016,1953,,,
-Michigan,6/1/2016,1929,,,
-Michigan,5/1/2016,1929,,,
-Michigan,4/1/2016,1928,,,
-Michigan,3/1/2016,1975,,,
-Michigan,2/1/2016,1963,,,
-Michigan,1/1/2016,1944,,,
-Michigan,12/1/2015,1973,,,
-Michigan,11/1/2015,1998,,,
-Michigan,10/1/2015,1999,,,
-Michigan,9/1/2015,2009,,,
-Michigan,8/1/2015,2013,,,
-Michigan,7/1/2015,2021,,,
-Michigan,6/1/2015,2015,,,
-Michigan,5/1/2015,1988,,,
-Michigan,4/1/2015,1943,,,
-Michigan,3/1/2015,1863,,,
-Michigan,2/1/2015,1824,,,
-Michigan,1/1/2015,1798,,,
-Minnesota,5/1/2020,906,,,
-Minnesota,4/1/2020,858,,,
-Minnesota,3/1/2020,827,,,
-Minnesota,2/1/2020,791,,,
-Minnesota,1/1/2020,782,,,
-Minnesota,12/1/2019,788,,,
-Minnesota,11/1/2019,769,,,
-Minnesota,10/1/2019,767,,,
-Minnesota,9/1/2019,753,,,
-Minnesota,8/1/2019,741,,,
-Minnesota,7/1/2019,721,,,
-Minnesota,6/1/2019,708,,,
-Minnesota,5/1/2019,690,,,
-Minnesota,4/1/2019,675,,,
-Minnesota,3/1/2019,650,,,
-Minnesota,2/1/2019,658,,,
-Minnesota,1/1/2019,665,,,
-Minnesota,12/1/2018,639,,,
-Minnesota,11/1/2018,641,,,
-Minnesota,10/1/2018,644,,,
-Minnesota,9/1/2018,644,,,
-Minnesota,8/1/2018,670,,,
-Minnesota,7/1/2018,687,,,
-Minnesota,6/1/2018,677,,,
-Minnesota,5/1/2018,690,,,
-Minnesota,4/1/2018,698,,,
-Minnesota,3/1/2018,713,,,
-Minnesota,2/1/2018,719,,,
-Minnesota,1/1/2018,718,,,
-Minnesota,12/1/2017,728,,,
-Minnesota,11/1/2017,729,,,
-Minnesota,10/1/2017,727,,,
-Minnesota,9/1/2017,720,,,
-Minnesota,8/1/2017,698,,,
-Minnesota,7/1/2017,686,,,
-Minnesota,6/1/2017,685,,,
-Minnesota,5/1/2017,676,,,
-Minnesota,4/1/2017,668,,,
-Minnesota,3/1/2017,664,,,
-Minnesota,2/1/2017,652,,,
-Minnesota,1/1/2017,655,,,
-Minnesota,12/1/2016,664,,,
-Minnesota,11/1/2016,654,,,
-Minnesota,10/1/2016,638,,,
-Minnesota,9/1/2016,647,,,
-Minnesota,8/1/2016,649,,,
-Minnesota,7/1/2016,645,,,
-Minnesota,6/1/2016,649,,,
-Minnesota,5/1/2016,631,,,
-Minnesota,4/1/2016,627,,,
-Minnesota,3/1/2016,626,,,
-Minnesota,2/1/2016,631,,,
-Minnesota,1/1/2016,607,,,
-Minnesota,12/1/2015,592,,,
-Minnesota,11/1/2015,588,,,
-Minnesota,10/1/2015,586,,,
-Minnesota,9/1/2015,574,,,
-Minnesota,8/1/2015,563,,,
-Minnesota,7/1/2015,549,,,
-Minnesota,6/1/2015,544,,,
-Minnesota,5/1/2015,550,,,
-Minnesota,4/1/2015,541,,,
-Minnesota,3/1/2015,529,,,
-Minnesota,2/1/2015,523,,,
-Minnesota,1/1/2015,530,,,
-Mississippi,5/1/2020,443,,,
-Mississippi,4/1/2020,425,,,
-Mississippi,3/1/2020,416,,,
-Mississippi,2/1/2020,415,,,
-Mississippi,1/1/2020,399,,,
-Mississippi,12/1/2019,391,,,
-Mississippi,11/1/2019,374,,,
-Mississippi,10/1/2019,367,,,
-Mississippi,9/1/2019,361,,,
-Mississippi,8/1/2019,359,,,
-Mississippi,7/1/2019,364,,,
-Mississippi,6/1/2019,356,,,
-Mississippi,5/1/2019,332,,,
-Mississippi,4/1/2019,318,,,
-Mississippi,3/1/2019,312,,,
-Mississippi,2/1/2019,296,,,
-Mississippi,1/1/2019,312,,,
-Mississippi,12/1/2018,315,,,
-Mississippi,11/1/2018,325,,,
-Mississippi,10/1/2018,333,,,
-Mississippi,9/1/2018,339,,,
-Mississippi,8/1/2018,347,,,
-Mississippi,7/1/2018,327,,,
-Mississippi,6/1/2018,323,,,
-Mississippi,5/1/2018,328,,,
-Mississippi,4/1/2018,328,,,
-Mississippi,3/1/2018,341,,,
-Mississippi,2/1/2018,349,,,
-Mississippi,1/1/2018,334,,,
-Mississippi,12/1/2017,337,,,
-Mississippi,11/1/2017,337,,,
-Mississippi,10/1/2017,326,,,
-Mississippi,9/1/2017,324,,,
-Mississippi,8/1/2017,321,,,
-Mississippi,7/1/2017,332,,,
-Mississippi,6/1/2017,337,,,
-Mississippi,5/1/2017,334,,,
-Mississippi,4/1/2017,339,,,
-Mississippi,3/1/2017,331,,,
-Mississippi,2/1/2017,327,,,
-Mississippi,1/1/2017,333,,,
-Mississippi,12/1/2016,336,,,
-Mississippi,11/1/2016,337,,,
-Mississippi,10/1/2016,339,,,
-Mississippi,9/1/2016,329,,,
-Mississippi,8/1/2016,315,,,
-Mississippi,7/1/2016,320,,,
-Mississippi,6/1/2016,321,,,
-Mississippi,5/1/2016,324,,,
-Mississippi,4/1/2016,322,,,
-Mississippi,3/1/2016,334,,,
-Mississippi,2/1/2016,335,,,
-Mississippi,1/1/2016,338,,,
-Mississippi,12/1/2015,333,,,
-Mississippi,11/1/2015,325,,,
-Mississippi,10/1/2015,331,,,
-Mississippi,9/1/2015,337,,,
-Mississippi,8/1/2015,348,,,
-Mississippi,7/1/2015,343,,,
-Mississippi,6/1/2015,329,,,
-Mississippi,5/1/2015,328,,,
-Mississippi,4/1/2015,322,,,
-Mississippi,3/1/2015,307,,,
-Mississippi,2/1/2015,302,,,
-Mississippi,1/1/2015,302,,,
-Missouri,5/1/2020,1831,,,
-Missouri,4/1/2020,1749,,,
-Missouri,3/1/2020,1656,,,
-Missouri,2/1/2020,1633,,,
-Missouri,1/1/2020,1597,,,
-Missouri,12/1/2019,1603,,,
-Missouri,11/1/2019,1581,,,
-Missouri,10/1/2019,1584,,,
-Missouri,9/1/2019,1596,,,
-Missouri,8/1/2019,1588,,,
-Missouri,7/1/2019,1579,,,
-Missouri,6/1/2019,1582,,,
-Missouri,5/1/2019,1635,,,
-Missouri,4/1/2019,1647,,,
-Missouri,3/1/2019,1673,,,
-Missouri,2/1/2019,1667,,,
-Missouri,1/1/2019,1664,,,
-Missouri,12/1/2018,1635,,,
-Missouri,11/1/2018,1627,,,
-Missouri,10/1/2018,1598,,,
-Missouri,9/1/2018,1566,,,
-Missouri,8/1/2018,1560,,,
-Missouri,7/1/2018,1524,,,
-Missouri,6/1/2018,1495,,,
-Missouri,5/1/2018,1455,,,
-Missouri,4/1/2018,1440,,,
-Missouri,3/1/2018,1407,,,
-Missouri,2/1/2018,1407,,,
-Missouri,1/1/2018,1397,,,
-Missouri,12/1/2017,1398,,,
-Missouri,11/1/2017,1407,,,
-Missouri,10/1/2017,1428,,,
-Missouri,9/1/2017,1421,,,
-Missouri,8/1/2017,1392,,,
-Missouri,7/1/2017,1395,,,
-Missouri,6/1/2017,1403,,,
-Missouri,5/1/2017,1403,,,
-Missouri,4/1/2017,1403,,,
-Missouri,3/1/2017,1415,,,
-Missouri,2/1/2017,1388,,,
-Missouri,1/1/2017,1394,,,
-Missouri,12/1/2016,1386,,,
-Missouri,11/1/2016,1329,,,
-Missouri,10/1/2016,1288,,,
-Missouri,9/1/2016,1247,,,
-Missouri,8/1/2016,1236,,,
-Missouri,7/1/2016,1192,,,
-Missouri,6/1/2016,1157,,,
-Missouri,5/1/2016,1147,,,
-Missouri,4/1/2016,1150,,,
-Missouri,3/1/2016,1129,,,
-Missouri,2/1/2016,1121,,,
-Missouri,1/1/2016,1096,,,
-Missouri,12/1/2015,1087,,,
-Missouri,11/1/2015,1090,,,
-Missouri,10/1/2015,1071,,,
-Missouri,9/1/2015,1081,,,
-Missouri,8/1/2015,1070,,,
-Missouri,7/1/2015,1103,,,
-Missouri,6/1/2015,1116,,,
-Missouri,5/1/2015,1093,,,
-Missouri,4/1/2015,1072,,,
-Missouri,3/1/2015,1092,,,
-Missouri,2/1/2015,1107,,,
-Missouri,1/1/2015,1108,,,
-Montana,5/1/2020,153,,,
-Montana,4/1/2020,150,,,
-Montana,3/1/2020,140,,,
-Montana,2/1/2020,137,,,
-Montana,1/1/2020,139,,,
-Montana,12/1/2019,139,,,
-Montana,11/1/2019,140,,,
-Montana,10/1/2019,134,,,
-Montana,9/1/2019,137,,,
-Montana,8/1/2019,139,,,
-Montana,7/1/2019,133,,,
-Montana,6/1/2019,123,,,
-Montana,5/1/2019,126,,,
-Montana,4/1/2019,129,,,
-Montana,3/1/2019,124,,,
-Montana,2/1/2019,123,,,
-Montana,1/1/2019,120,,,
-Montana,12/1/2018,117,,,
-Montana,11/1/2018,116,,,
-Montana,10/1/2018,112,,,
-Montana,9/1/2018,112,,,
-Montana,8/1/2018,109,,,
-Montana,7/1/2018,105,,,
-Montana,6/1/2018,107,,,
-Montana,5/1/2018,97,,,
-Montana,4/1/2018,97,,,
-Montana,3/1/2018,99,,,
-Montana,2/1/2018,105,,,
-Montana,1/1/2018,114,,,
-Montana,12/1/2017,118,,,
-Montana,11/1/2017,115,,,
-Montana,10/1/2017,124,,,
-Montana,9/1/2017,120,,,
-Montana,8/1/2017,118,,,
-Montana,7/1/2017,120,,,
-Montana,6/1/2017,125,,,
-Montana,5/1/2017,128,,,
-Montana,4/1/2017,127,,,
-Montana,3/1/2017,130,,,
-Montana,2/1/2017,133,,,
-Montana,1/1/2017,121,,,
-Montana,12/1/2016,116,,,
-Montana,11/1/2016,122,,,
-Montana,10/1/2016,122,,,
-Montana,9/1/2016,126,,,
-Montana,8/1/2016,133,,,
-Montana,7/1/2016,130,,,
-Montana,6/1/2016,124,,,
-Montana,5/1/2016,125,,,
-Montana,4/1/2016,130,,,
-Montana,3/1/2016,127,,,
-Montana,2/1/2016,122,,,
-Montana,1/1/2016,128,,,
-Montana,12/1/2015,133,,,
-Montana,11/1/2015,130,,,
-Montana,10/1/2015,128,,,
-Montana,9/1/2015,127,,,
-Montana,8/1/2015,123,,,
-Montana,7/1/2015,131,,,
-Montana,6/1/2015,135,,,
-Montana,5/1/2015,138,,,
-Montana,4/1/2015,129,,,
-Montana,3/1/2015,132,,,
-Montana,2/1/2015,128,,,
-Montana,1/1/2015,124,,,
-Nebraska,5/1/2020,177,,,
-Nebraska,4/1/2020,165,,,
-Nebraska,3/1/2020,150,,,
-Nebraska,2/1/2020,143,,,
-Nebraska,1/1/2020,146,,,
-Nebraska,12/1/2019,148,,,
-Nebraska,11/1/2019,151,,,
-Nebraska,10/1/2019,151,,,
-Nebraska,9/1/2019,151,,,
-Nebraska,8/1/2019,146,,,
-Nebraska,7/1/2019,140,,,
-Nebraska,6/1/2019,137,,,
-Nebraska,5/1/2019,141,,,
-Nebraska,4/1/2019,147,,,
-Nebraska,3/1/2019,152,,,
-Nebraska,2/1/2019,150,,,
-Nebraska,1/1/2019,147,,,
-Nebraska,12/1/2018,140,,,
-Nebraska,11/1/2018,139,,,
-Nebraska,10/1/2018,144,,,
-Nebraska,9/1/2018,153,,,
-Nebraska,8/1/2018,158,,,
-Nebraska,7/1/2018,166,,,
-Nebraska,6/1/2018,165,,,
-Nebraska,5/1/2018,165,,,
-Nebraska,4/1/2018,166,,,
-Nebraska,3/1/2018,163,,,
-Nebraska,2/1/2018,150,,,
-Nebraska,1/1/2018,152,,,
-Nebraska,12/1/2017,157,,,
-Nebraska,11/1/2017,154,,,
-Nebraska,10/1/2017,144,,,
-Nebraska,9/1/2017,131,,,
-Nebraska,8/1/2017,124,,,
-Nebraska,7/1/2017,121,,,
-Nebraska,6/1/2017,120,,,
-Nebraska,5/1/2017,113,,,
-Nebraska,4/1/2017,108,,,
-Nebraska,3/1/2017,110,,,
-Nebraska,2/1/2017,116,,,
-Nebraska,1/1/2017,114,,,
-Nebraska,12/1/2016,113,,,
-Nebraska,11/1/2016,114,,,
-Nebraska,10/1/2016,108,,,
-Nebraska,9/1/2016,113,,,
-Nebraska,8/1/2016,118,,,
-Nebraska,7/1/2016,118,,,
-Nebraska,6/1/2016,118,,,
-Nebraska,5/1/2016,123,,,
-Nebraska,4/1/2016,127,,,
-Nebraska,3/1/2016,125,,,
-Nebraska,2/1/2016,126,,,
-Nebraska,1/1/2016,122,,,
-Nebraska,12/1/2015,123,,,
-Nebraska,11/1/2015,126,,,
-Nebraska,10/1/2015,135,,,
-Nebraska,9/1/2015,135,,,
-Nebraska,8/1/2015,131,,,
-Nebraska,7/1/2015,132,,,
-Nebraska,6/1/2015,130,,,
-Nebraska,5/1/2015,129,,,
-Nebraska,4/1/2015,125,,,
-Nebraska,3/1/2015,131,,,
-Nebraska,2/1/2015,129,,,
-Nebraska,1/1/2015,121,,,
-Nevada,5/1/2020,764,,,
-Nevada,4/1/2020,732,,,
-Nevada,3/1/2020,710,,,
-Nevada,2/1/2020,700,,,
-Nevada,1/1/2020,704,,,
-Nevada,12/1/2019,714,,,
-Nevada,11/1/2019,728,,,
-Nevada,10/1/2019,735,,,
-Nevada,9/1/2019,756,,,
-Nevada,8/1/2019,752,,,
-Nevada,7/1/2019,766,,,
-Nevada,6/1/2019,780,,,
-Nevada,5/1/2019,792,,,
-Nevada,4/1/2019,773,,,
-Nevada,3/1/2019,770,,,
-Nevada,2/1/2019,773,,,
-Nevada,1/1/2019,767,,,
-Nevada,12/1/2018,761,,,
-Nevada,11/1/2018,744,,,
-Nevada,10/1/2018,736,,,
-Nevada,9/1/2018,747,,,
-Nevada,8/1/2018,742,,,
-Nevada,7/1/2018,732,,,
-Nevada,6/1/2018,721,,,
-Nevada,5/1/2018,732,,,
-Nevada,4/1/2018,755,,,
-Nevada,3/1/2018,751,,,
-Nevada,2/1/2018,766,,,
-Nevada,1/1/2018,763,,,
-Nevada,12/1/2017,760,,,
-Nevada,11/1/2017,748,,,
-Nevada,10/1/2017,749,,,
-Nevada,9/1/2017,736,,,
-Nevada,8/1/2017,736,,,
-Nevada,7/1/2017,736,,,
-Nevada,6/1/2017,736,,,
-Nevada,5/1/2017,728,,,
-Nevada,4/1/2017,713,,,
-Nevada,3/1/2017,707,,,
-Nevada,2/1/2017,698,,,
-Nevada,1/1/2017,705,,,
-Nevada,12/1/2016,707,,,
-Nevada,11/1/2016,729,,,
-Nevada,10/1/2016,739,,,
-Nevada,9/1/2016,731,,,
-Nevada,8/1/2016,732,,,
-Nevada,7/1/2016,723,,,
-Nevada,6/1/2016,691,,,
-Nevada,5/1/2016,679,,,
-Nevada,4/1/2016,683,,,
-Nevada,3/1/2016,689,,,
-Nevada,2/1/2016,685,,,
-Nevada,1/1/2016,669,,,
-Nevada,12/1/2015,665,,,
-Nevada,11/1/2015,634,,,
-Nevada,10/1/2015,628,,,
-Nevada,9/1/2015,633,,,
-Nevada,8/1/2015,632,,,
-Nevada,7/1/2015,616,,,
-Nevada,6/1/2015,619,,,
-Nevada,5/1/2015,598,,,
-Nevada,4/1/2015,584,,,
-Nevada,3/1/2015,579,,,
-Nevada,2/1/2015,576,,,
-Nevada,1/1/2015,578,,,
-New Hampshire,5/1/2020,420,,,
-New Hampshire,4/1/2020,405,,,
-New Hampshire,3/1/2020,392,,,
-New Hampshire,2/1/2020,387,,,
-New Hampshire,1/1/2020,392,,,
-New Hampshire,12/1/2019,395,,,
-New Hampshire,11/1/2019,385,,,
-New Hampshire,10/1/2019,396,,,
-New Hampshire,9/1/2019,401,,,
-New Hampshire,8/1/2019,400,,,
-New Hampshire,7/1/2019,407,,,
-New Hampshire,6/1/2019,437,,,
-New Hampshire,5/1/2019,429,,,
-New Hampshire,4/1/2019,438,,,
-New Hampshire,3/1/2019,441,,,
-New Hampshire,2/1/2019,449,,,
-New Hampshire,1/1/2019,446,,,
-New Hampshire,12/1/2018,447,,,
-New Hampshire,11/1/2018,450,,,
-New Hampshire,10/1/2018,437,,,
-New Hampshire,9/1/2018,438,,,
-New Hampshire,8/1/2018,449,,,
-New Hampshire,7/1/2018,455,,,
-New Hampshire,6/1/2018,451,,,
-New Hampshire,5/1/2018,472,,,
-New Hampshire,4/1/2018,473,,,
-New Hampshire,3/1/2018,490,,,
-New Hampshire,2/1/2018,480,,,
-New Hampshire,1/1/2018,473,,,
-New Hampshire,12/1/2017,478,,,
-New Hampshire,11/1/2017,472,,,
-New Hampshire,10/1/2017,478,,,
-New Hampshire,9/1/2017,470,,,
-New Hampshire,8/1/2017,471,,,
-New Hampshire,7/1/2017,464,,,
-New Hampshire,6/1/2017,459,,,
-New Hampshire,5/1/2017,448,,,
-New Hampshire,4/1/2017,449,,,
-New Hampshire,3/1/2017,441,,,
-New Hampshire,2/1/2017,448,,,
-New Hampshire,1/1/2017,460,,,
-New Hampshire,12/1/2016,460,,,
-New Hampshire,11/1/2016,445,,,
-New Hampshire,10/1/2016,444,,,
-New Hampshire,9/1/2016,447,,,
-New Hampshire,8/1/2016,450,,,
-New Hampshire,7/1/2016,442,,,
-New Hampshire,6/1/2016,429,,,
-New Hampshire,5/1/2016,439,,,
-New Hampshire,4/1/2016,430,,,
-New Hampshire,3/1/2016,435,,,
-New Hampshire,2/1/2016,428,,,
-New Hampshire,1/1/2016,420,,,
-New Hampshire,12/1/2015,420,,,
-New Hampshire,11/1/2015,449,,,
-New Hampshire,10/1/2015,454,,,
-New Hampshire,9/1/2015,454,,,
-New Hampshire,8/1/2015,430,,,
-New Hampshire,7/1/2015,428,,,
-New Hampshire,6/1/2015,420,,,
-New Hampshire,5/1/2015,406,,,
-New Hampshire,4/1/2015,398,,,
-New Hampshire,3/1/2015,370,,,
-New Hampshire,2/1/2015,363,,,
-New Hampshire,1/1/2015,351,,,
-New Jersey,5/1/2020,3001,,,
-New Jersey,4/1/2020,2946,,,
-New Jersey,3/1/2020,2920,,,
-New Jersey,2/1/2020,2866,,,
-New Jersey,1/1/2020,2863,,,
-New Jersey,12/1/2019,2805,,,
-New Jersey,11/1/2019,2778,,,
-New Jersey,10/1/2019,2750,,,
-New Jersey,9/1/2019,2779,,,
-New Jersey,8/1/2019,2806,,,
-New Jersey,7/1/2019,2795,,,
-New Jersey,6/1/2019,2782,,,
-New Jersey,5/1/2019,2813,,,
-New Jersey,4/1/2019,2832,,,
-New Jersey,3/1/2019,2863,,,
-New Jersey,2/1/2019,2915,,,
-New Jersey,1/1/2019,2860,,,
-New Jersey,12/1/2018,2911,,,
-New Jersey,11/1/2018,2941,,,
-New Jersey,10/1/2018,2923,,,
-New Jersey,9/1/2018,2815,,,
-New Jersey,8/1/2018,2803,,,
-New Jersey,7/1/2018,2753,,,
-New Jersey,6/1/2018,2707,,,
-New Jersey,5/1/2018,2687,,,
-New Jersey,4/1/2018,2661,,,
-New Jersey,3/1/2018,2665,,,
-New Jersey,2/1/2018,2662,,,
-New Jersey,1/1/2018,2654,,,
-New Jersey,12/1/2017,2670,,,
-New Jersey,11/1/2017,2633,,,
-New Jersey,10/1/2017,2614,,,
-New Jersey,9/1/2017,2651,,,
-New Jersey,8/1/2017,2556,,,
-New Jersey,7/1/2017,2473,,,
-New Jersey,6/1/2017,2466,,,
-New Jersey,5/1/2017,2379,,,
-New Jersey,4/1/2017,2298,,,
-New Jersey,3/1/2017,2277,,,
-New Jersey,2/1/2017,2201,,,
-New Jersey,1/1/2017,2175,,,
-New Jersey,12/1/2016,2063,,,
-New Jersey,11/1/2016,1961,,,
-New Jersey,10/1/2016,1874,,,
-New Jersey,9/1/2016,1789,,,
-New Jersey,8/1/2016,1779,,,
-New Jersey,7/1/2016,1792,,,
-New Jersey,6/1/2016,1737,,,
-New Jersey,5/1/2016,1715,,,
-New Jersey,4/1/2016,1699,,,
-New Jersey,3/1/2016,1601,,,
-New Jersey,2/1/2016,1542,,,
-New Jersey,1/1/2016,1488,,,
-New Jersey,12/1/2015,1478,,,
-New Jersey,11/1/2015,1458,,,
-New Jersey,10/1/2015,1449,,,
-New Jersey,9/1/2015,1441,,,
-New Jersey,8/1/2015,1399,,,
-New Jersey,7/1/2015,1361,,,
-New Jersey,6/1/2015,1334,,,
-New Jersey,5/1/2015,1308,,,
-New Jersey,4/1/2015,1271,,,
-New Jersey,3/1/2015,1257,,,
-New Jersey,2/1/2015,1254,,,
-New Jersey,1/1/2015,1243,,,
-New Mexico,5/1/2020,663,,,
-New Mexico,4/1/2020,649,,,
-New Mexico,3/1/2020,652,,,
-New Mexico,2/1/2020,645,,,
-New Mexico,1/1/2020,638,,,
-New Mexico,12/1/2019,613,,,
-New Mexico,11/1/2019,619,,,
-New Mexico,10/1/2019,602,,,
-New Mexico,9/1/2019,585,,,
-New Mexico,8/1/2019,577,,,
-New Mexico,7/1/2019,581,,,
-New Mexico,6/1/2019,563,,,
-New Mexico,5/1/2019,564,,,
-New Mexico,4/1/2019,549,,,
-New Mexico,3/1/2019,533,,,
-New Mexico,2/1/2019,537,,,
-New Mexico,1/1/2019,521,,,
-New Mexico,12/1/2018,537,,,
-New Mexico,11/1/2018,516,,,
-New Mexico,10/1/2018,523,,,
-New Mexico,9/1/2018,529,,,
-New Mexico,8/1/2018,517,,,
-New Mexico,7/1/2018,498,,,
-New Mexico,6/1/2018,508,,,
-New Mexico,5/1/2018,487,,,
-New Mexico,4/1/2018,489,,,
-New Mexico,3/1/2018,492,,,
-New Mexico,2/1/2018,494,,,
-New Mexico,1/1/2018,497,,,
-New Mexico,12/1/2017,502,,,
-New Mexico,11/1/2017,504,,,
-New Mexico,10/1/2017,515,,,
-New Mexico,9/1/2017,509,,,
-New Mexico,8/1/2017,511,,,
-New Mexico,7/1/2017,519,,,
-New Mexico,6/1/2017,510,,,
-New Mexico,5/1/2017,513,,,
-New Mexico,4/1/2017,507,,,
-New Mexico,3/1/2017,497,,,
-New Mexico,2/1/2017,495,,,
-New Mexico,1/1/2017,507,,,
-New Mexico,12/1/2016,495,,,
-New Mexico,11/1/2016,485,,,
-New Mexico,10/1/2016,479,,,
-New Mexico,9/1/2016,493,,,
-New Mexico,8/1/2016,497,,,
-New Mexico,7/1/2016,500,,,
-New Mexico,6/1/2016,495,,,
-New Mexico,5/1/2016,501,,,
-New Mexico,4/1/2016,501,,,
-New Mexico,3/1/2016,502,,,
-New Mexico,2/1/2016,489,,,
-New Mexico,1/1/2016,477,,,
-New Mexico,12/1/2015,500,,,
-New Mexico,11/1/2015,514,,,
-New Mexico,10/1/2015,520,,,
-New Mexico,9/1/2015,515,,,
-New Mexico,8/1/2015,519,,,
-New Mexico,7/1/2015,521,,,
-New Mexico,6/1/2015,519,,,
-New Mexico,5/1/2015,524,,,
-New Mexico,4/1/2015,537,,,
-New Mexico,3/1/2015,545,,,
-New Mexico,2/1/2015,547,,,
-New Mexico,1/1/2015,549,,,
-New York,5/1/2020,2639,,,
-New York,4/1/2020,2536,,,
-New York,3/1/2020,2437,,,
-New York,2/1/2020,2384,,,
-New York,1/1/2020,2328,,,
-New York,12/1/2019,2264,,,
-New York,11/1/2019,2281,,,
-New York,10/1/2019,2260,,,
-New York,9/1/2019,2277,,,
-New York,8/1/2019,2290,,,
-New York,7/1/2019,2276,,,
-New York,6/1/2019,2246,,,
-New York,5/1/2019,2269,,,
-New York,4/1/2019,2288,,,
-New York,3/1/2019,2300,,,
-New York,2/1/2019,2260,,,
-New York,1/1/2019,2254,,,
-New York,12/1/2018,2357,,,
-New York,11/1/2018,2368,,,
-New York,10/1/2018,2344,,,
-New York,9/1/2018,2296,,,
-New York,8/1/2018,2343,,,
-New York,7/1/2018,2349,,,
-New York,6/1/2018,2360,,,
-New York,5/1/2018,2381,,,
-New York,4/1/2018,2440,,,
-New York,3/1/2018,2472,,,
-New York,2/1/2018,2553,,,
-New York,1/1/2018,2593,,,
-New York,12/1/2017,2587,,,
-New York,11/1/2017,2591,,,
-New York,10/1/2017,2640,,,
-New York,9/1/2017,2662,,,
-New York,8/1/2017,2616,,,
-New York,7/1/2017,2612,,,
-New York,6/1/2017,2593,,,
-New York,5/1/2017,2552,,,
-New York,4/1/2017,2488,,,
-New York,3/1/2017,2489,,,
-New York,2/1/2017,2446,,,
-New York,1/1/2017,2447,,,
-New York,12/1/2016,2406,,,
-New York,11/1/2016,2361,,,
-New York,10/1/2016,2320,,,
-New York,9/1/2016,2277,,,
-New York,8/1/2016,2246,,,
-New York,7/1/2016,2202,,,
-New York,6/1/2016,2167,,,
-New York,5/1/2016,2125,,,
-New York,4/1/2016,2101,,,
-New York,3/1/2016,2071,,,
-New York,2/1/2016,2002,,,
-New York,1/1/2016,1926,,,
-New York,12/1/2015,1885,,,
-New York,11/1/2015,1869,,,
-New York,10/1/2015,1840,,,
-New York,9/1/2015,1834,,,
-New York,8/1/2015,1798,,,
-New York,7/1/2015,1754,,,
-New York,6/1/2015,1715,,,
-New York,5/1/2015,1678,,,
-New York,4/1/2015,1651,,,
-New York,3/1/2015,1586,,,
-New York,2/1/2015,1568,,,
-New York,1/1/2015,1555,,,
-New York City,5/1/2020,1713,,,
-New York City,4/1/2020,1679,,,
-New York City,3/1/2020,1658,,,
-New York City,2/1/2020,1621,,,
-New York City,1/1/2020,1588,,,
-New York City,12/1/2019,1557,,,
-New York City,11/1/2019,1516,,,
-New York City,10/1/2019,1491,,,
-New York City,9/1/2019,1459,,,
-New York City,8/1/2019,1454,,,
-New York City,7/1/2019,1471,,,
-New York City,6/1/2019,1442,,,
-New York City,5/1/2019,1450,,,
-New York City,4/1/2019,1441,,,
-New York City,3/1/2019,1475,,,
-New York City,2/1/2019,1476,,,
-New York City,1/1/2019,1456,,,
-New York City,12/1/2018,1485,,,
-New York City,11/1/2018,1484,,,
-New York City,10/1/2018,1501,,,
-New York City,9/1/2018,1511,,,
-New York City,8/1/2018,1545,,,
-New York City,7/1/2018,1514,,,
-New York City,6/1/2018,1525,,,
-New York City,5/1/2018,1530,,,
-New York City,4/1/2018,1546,,,
-New York City,3/1/2018,1521,,,
-New York City,2/1/2018,1496,,,
-New York City,1/1/2018,1489,,,
-New York City,12/1/2017,1495,,,
-New York City,11/1/2017,1510,,,
-New York City,10/1/2017,1507,,,
-New York City,9/1/2017,1514,,,
-New York City,8/1/2017,1497,,,
-New York City,7/1/2017,1503,,,
-New York City,6/1/2017,1509,,,
-New York City,5/1/2017,1488,,,
-New York City,4/1/2017,1469,,,
-New York City,3/1/2017,1467,,,
-New York City,2/1/2017,1495,,,
-New York City,1/1/2017,1483,,,
-New York City,12/1/2016,1425,,,
-New York City,11/1/2016,1371,,,
-New York City,10/1/2016,1344,,,
-New York City,9/1/2016,1311,,,
-New York City,8/1/2016,1279,,,
-New York City,7/1/2016,1252,,,
-New York City,6/1/2016,1193,,,
-New York City,5/1/2016,1148,,,
-New York City,4/1/2016,1118,,,
-New York City,3/1/2016,1076,,,
-New York City,2/1/2016,1019,,,
-New York City,1/1/2016,988,,,
-New York City,12/1/2015,960,,,
-New York City,11/1/2015,945,,,
-New York City,10/1/2015,919,,,
-New York City,9/1/2015,886,,,
-New York City,8/1/2015,858,,,
-New York City,7/1/2015,826,,,
-New York City,6/1/2015,814,,,
-New York City,5/1/2015,810,,,
-New York City,4/1/2015,796,,,
-New York City,3/1/2015,781,,,
-New York City,2/1/2015,800,,,
-New York City,1/1/2015,794,,,
-North Carolina,5/1/2020,2515,,,
-North Carolina,4/1/2020,2460,,,
-North Carolina,3/1/2020,2435,,,
-North Carolina,2/1/2020,2441,,,
-North Carolina,1/1/2020,2440,,,
-North Carolina,12/1/2019,2419,,,
-North Carolina,11/1/2019,2412,,,
-North Carolina,10/1/2019,2410,,,
-North Carolina,9/1/2019,2400,,,
-North Carolina,8/1/2019,2400,,,
-North Carolina,7/1/2019,2407,,,
-North Carolina,6/1/2019,2391,,,
-North Carolina,5/1/2019,2398,,,
-North Carolina,4/1/2019,2417,,,
-North Carolina,3/1/2019,2403,,,
-North Carolina,2/1/2019,2338,,,
-North Carolina,1/1/2019,2286,,,
-North Carolina,12/1/2018,2319,,,
-North Carolina,11/1/2018,2355,,,
-North Carolina,10/1/2018,2323,,,
-North Carolina,9/1/2018,2311,,,
-North Carolina,8/1/2018,2307,,,
-North Carolina,7/1/2018,2362,,,
-North Carolina,6/1/2018,2379,,,
-North Carolina,5/1/2018,2381,,,
-North Carolina,4/1/2018,2375,,,
-North Carolina,3/1/2018,2392,,,
-North Carolina,2/1/2018,2433,,,
-North Carolina,1/1/2018,2463,,,
-North Carolina,12/1/2017,2475,,,
-North Carolina,11/1/2017,2426,,,
-North Carolina,10/1/2017,2419,,,
-North Carolina,9/1/2017,2402,,,
-North Carolina,8/1/2017,2338,,,
-North Carolina,7/1/2017,2274,,,
-North Carolina,6/1/2017,2228,,,
-North Carolina,5/1/2017,2168,,,
-North Carolina,4/1/2017,2142,,,
-North Carolina,3/1/2017,2104,,,
-North Carolina,2/1/2017,2073,,,
-North Carolina,1/1/2017,2027,,,
-North Carolina,12/1/2016,1984,,,
-North Carolina,11/1/2016,1956,,,
-North Carolina,10/1/2016,1950,,,
-North Carolina,9/1/2016,1925,,,
-North Carolina,8/1/2016,1910,,,
-North Carolina,7/1/2016,1858,,,
-North Carolina,6/1/2016,1835,,,
-North Carolina,5/1/2016,1780,,,
-North Carolina,4/1/2016,1738,,,
-North Carolina,3/1/2016,1696,,,
-North Carolina,2/1/2016,1636,,,
-North Carolina,1/1/2016,1631,,,
-North Carolina,12/1/2015,1577,,,
-North Carolina,11/1/2015,1551,,,
-North Carolina,10/1/2015,1511,,,
-North Carolina,9/1/2015,1499,,,
-North Carolina,8/1/2015,1474,,,
-North Carolina,7/1/2015,1481,,,
-North Carolina,6/1/2015,1465,,,
-North Carolina,5/1/2015,1446,,,
-North Carolina,4/1/2015,1419,,,
-North Carolina,3/1/2015,1412,,,
-North Carolina,2/1/2015,1411,,,
-North Carolina,1/1/2015,1411,,,
-North Dakota,5/1/2020,99,,,
-North Dakota,4/1/2020,95,,,
-North Dakota,3/1/2020,96,,,
-North Dakota,2/1/2020,96,,,
-North Dakota,1/1/2020,99,,,
-North Dakota,12/1/2019,93,,,
-North Dakota,11/1/2019,90,,,
-North Dakota,10/1/2019,82,,,
-North Dakota,9/1/2019,85,,,
-North Dakota,8/1/2019,89,,,
-North Dakota,7/1/2019,87,,,
-North Dakota,6/1/2019,77,,,
-North Dakota,5/1/2019,75,,,
-North Dakota,4/1/2019,76,,,
-North Dakota,3/1/2019,77,,,
-North Dakota,2/1/2019,71,,,
-North Dakota,1/1/2019,64,,,
-North Dakota,12/1/2018,71,,,
-North Dakota,11/1/2018,72,,,
-North Dakota,10/1/2018,75,,,
-North Dakota,9/1/2018,74,,,
-North Dakota,8/1/2018,69,,,
-North Dakota,7/1/2018,71,,,
-North Dakota,6/1/2018,74,,,
-North Dakota,5/1/2018,75,,,
-North Dakota,4/1/2018,78,,,
-North Dakota,3/1/2018,78,,,
-North Dakota,2/1/2018,80,,,
-North Dakota,1/1/2018,83,,,
-North Dakota,12/1/2017,78,,,
-North Dakota,11/1/2017,76,,,
-North Dakota,10/1/2017,77,,,
-North Dakota,9/1/2017,79,,,
-North Dakota,8/1/2017,84,,,
-North Dakota,7/1/2017,86,,,
-North Dakota,6/1/2017,83,,,
-North Dakota,5/1/2017,82,,,
-North Dakota,4/1/2017,80,,,
-North Dakota,3/1/2017,83,,,
-North Dakota,2/1/2017,87,,,
-North Dakota,1/1/2017,84,,,
-North Dakota,12/1/2016,83,,,
-North Dakota,11/1/2016,81,,,
-North Dakota,10/1/2016,75,,,
-North Dakota,9/1/2016,74,,,
-North Dakota,8/1/2016,69,,,
-North Dakota,7/1/2016,66,,,
-North Dakota,6/1/2016,67,,,
-North Dakota,5/1/2016,68,,,
-North Dakota,4/1/2016,74,,,
-North Dakota,3/1/2016,68,,,
-North Dakota,2/1/2016,60,,,
-North Dakota,1/1/2016,63,,,
-North Dakota,12/1/2015,67,,,
-North Dakota,11/1/2015,65,,,
-North Dakota,10/1/2015,70,,,
-North Dakota,9/1/2015,74,,,
-North Dakota,8/1/2015,73,,,
-North Dakota,7/1/2015,71,,,
-North Dakota,6/1/2015,74,,,
-North Dakota,5/1/2015,69,,,
-North Dakota,4/1/2015,63,,,
-North Dakota,3/1/2015,66,,,
-North Dakota,2/1/2015,67,,,
-North Dakota,1/1/2015,67,,,
-Ohio,5/1/2020,4647,,,
-Ohio,4/1/2020,4411,,,
-Ohio,3/1/2020,4349,,,
-Ohio,2/1/2020,4365,,,
-Ohio,1/1/2020,4302,,,
-Ohio,12/1/2019,4279,,,
-Ohio,11/1/2019,4260,,,
-Ohio,10/1/2019,4165,,,
-Ohio,9/1/2019,4117,,,
-Ohio,8/1/2019,4129,,,
-Ohio,7/1/2019,4159,,,
-Ohio,6/1/2019,4147,,,
-Ohio,5/1/2019,4117,,,
-Ohio,4/1/2019,4110,,,
-Ohio,3/1/2019,4062,,,
-Ohio,2/1/2019,4011,,,
-Ohio,1/1/2019,4036,,,
-Ohio,12/1/2018,4004,,,
-Ohio,11/1/2018,4001,,,
-Ohio,10/1/2018,4058,,,
-Ohio,9/1/2018,4099,,,
-Ohio,8/1/2018,4144,,,
-Ohio,7/1/2018,4117,,,
-Ohio,6/1/2018,4148,,,
-Ohio,5/1/2018,4273,,,
-Ohio,4/1/2018,4418,,,
-Ohio,3/1/2018,4636,,,
-Ohio,2/1/2018,4739,,,
-Ohio,1/1/2018,4934,,,
-Ohio,12/1/2017,5138,,,
-Ohio,11/1/2017,5210,,,
-Ohio,10/1/2017,5225,,,
-Ohio,9/1/2017,5258,,,
-Ohio,8/1/2017,5262,,,
-Ohio,7/1/2017,5290,,,
-Ohio,6/1/2017,5293,,,
-Ohio,5/1/2017,5144,,,
-Ohio,4/1/2017,4974,,,
-Ohio,3/1/2017,4788,,,
-Ohio,2/1/2017,4710,,,
-Ohio,1/1/2017,4502,,,
-Ohio,12/1/2016,4326,,,
-Ohio,11/1/2016,4211,,,
-Ohio,10/1/2016,4121,,,
-Ohio,9/1/2016,4000,,,
-Ohio,8/1/2016,3857,,,
-Ohio,7/1/2016,3763,,,
-Ohio,6/1/2016,3652,,,
-Ohio,5/1/2016,3606,,,
-Ohio,4/1/2016,3575,,,
-Ohio,3/1/2016,3542,,,
-Ohio,2/1/2016,3452,,,
-Ohio,1/1/2016,3398,,,
-Ohio,12/1/2015,3336,,,
-Ohio,11/1/2015,3298,,,
-Ohio,10/1/2015,3222,,,
-Ohio,9/1/2015,3196,,,
-Ohio,8/1/2015,3153,,,
-Ohio,7/1/2015,3128,,,
-Ohio,6/1/2015,3051,,,
-Ohio,5/1/2015,3054,,,
-Ohio,4/1/2015,2955,,,
-Ohio,3/1/2015,2843,,,
-Ohio,2/1/2015,2828,,,
-Ohio,1/1/2015,2829,,,
-Oklahoma,5/1/2020,688,,,
-Oklahoma,4/1/2020,667,,,
-Oklahoma,3/1/2020,652,,,
-Oklahoma,2/1/2020,622,,,
-Oklahoma,1/1/2020,619,,,
-Oklahoma,12/1/2019,620,,,
-Oklahoma,11/1/2019,619,,,
-Oklahoma,10/1/2019,608,,,
-Oklahoma,9/1/2019,611,,,
-Oklahoma,8/1/2019,591,,,
-Oklahoma,7/1/2019,603,,,
-Oklahoma,6/1/2019,605,,,
-Oklahoma,5/1/2019,618,,,
-Oklahoma,4/1/2019,636,,,
-Oklahoma,3/1/2019,643,,,
-Oklahoma,2/1/2019,665,,,
-Oklahoma,1/1/2019,675,,,
-Oklahoma,12/1/2018,706,,,
-Oklahoma,11/1/2018,713,,,
-Oklahoma,10/1/2018,712,,,
-Oklahoma,9/1/2018,703,,,
-Oklahoma,8/1/2018,713,,,
-Oklahoma,7/1/2018,701,,,
-Oklahoma,6/1/2018,723,,,
-Oklahoma,5/1/2018,732,,,
-Oklahoma,4/1/2018,714,,,
-Oklahoma,3/1/2018,724,,,
-Oklahoma,2/1/2018,732,,,
-Oklahoma,1/1/2018,757,,,
-Oklahoma,12/1/2017,770,,,
-Oklahoma,11/1/2017,791,,,
-Oklahoma,10/1/2017,791,,,
-Oklahoma,9/1/2017,821,,,
-Oklahoma,8/1/2017,817,,,
-Oklahoma,7/1/2017,847,,,
-Oklahoma,6/1/2017,848,,,
-Oklahoma,5/1/2017,828,,,
-Oklahoma,4/1/2017,847,,,
-Oklahoma,3/1/2017,844,,,
-Oklahoma,2/1/2017,833,,,
-Oklahoma,1/1/2017,830,,,
-Oklahoma,12/1/2016,803,,,
-Oklahoma,11/1/2016,776,,,
-Oklahoma,10/1/2016,776,,,
-Oklahoma,9/1/2016,761,,,
-Oklahoma,8/1/2016,768,,,
-Oklahoma,7/1/2016,752,,,
-Oklahoma,6/1/2016,727,,,
-Oklahoma,5/1/2016,734,,,
-Oklahoma,4/1/2016,712,,,
-Oklahoma,3/1/2016,698,,,
-Oklahoma,2/1/2016,710,,,
-Oklahoma,1/1/2016,696,,,
-Oklahoma,12/1/2015,722,,,
-Oklahoma,11/1/2015,727,,,
-Oklahoma,10/1/2015,723,,,
-Oklahoma,9/1/2015,718,,,
-Oklahoma,8/1/2015,727,,,
-Oklahoma,7/1/2015,733,,,
-Oklahoma,6/1/2015,738,,,
-Oklahoma,5/1/2015,752,,,
-Oklahoma,4/1/2015,766,,,
-Oklahoma,3/1/2015,771,,,
-Oklahoma,2/1/2015,773,,,
-Oklahoma,1/1/2015,794,,,
-Oregon,5/1/2020,708,,,
-Oregon,4/1/2020,654,,,
-Oregon,3/1/2020,643,,,
-Oregon,2/1/2020,633,,,
-Oregon,1/1/2020,630,,,
-Oregon,12/1/2019,619,,,
-Oregon,11/1/2019,610,,,
-Oregon,10/1/2019,603,,,
-Oregon,9/1/2019,598,,,
-Oregon,8/1/2019,590,,,
-Oregon,7/1/2019,580,,,
-Oregon,6/1/2019,566,,,
-Oregon,5/1/2019,560,,,
-Oregon,4/1/2019,573,,,
-Oregon,3/1/2019,568,,,
-Oregon,2/1/2019,557,,,
-Oregon,1/1/2019,548,,,
-Oregon,12/1/2018,557,,,
-Oregon,11/1/2018,544,,,
-Oregon,10/1/2018,543,,,
-Oregon,9/1/2018,555,,,
-Oregon,8/1/2018,563,,,
-Oregon,7/1/2018,573,,,
-Oregon,6/1/2018,575,,,
-Oregon,5/1/2018,567,,,
-Oregon,4/1/2018,555,,,
-Oregon,3/1/2018,545,,,
-Oregon,2/1/2018,535,,,
-Oregon,1/1/2018,544,,,
-Oregon,12/1/2017,535,,,
-Oregon,11/1/2017,549,,,
-Oregon,10/1/2017,548,,,
-Oregon,9/1/2017,531,,,
-Oregon,8/1/2017,519,,,
-Oregon,7/1/2017,506,,,
-Oregon,6/1/2017,496,,,
-Oregon,5/1/2017,503,,,
-Oregon,4/1/2017,510,,,
-Oregon,3/1/2017,507,,,
-Oregon,2/1/2017,514,,,
-Oregon,1/1/2017,507,,,
-Oregon,12/1/2016,499,,,
-Oregon,11/1/2016,486,,,
-Oregon,10/1/2016,485,,,
-Oregon,9/1/2016,490,,,
-Oregon,8/1/2016,496,,,
-Oregon,7/1/2016,512,,,
-Oregon,6/1/2016,522,,,
-Oregon,5/1/2016,526,,,
-Oregon,4/1/2016,510,,,
-Oregon,3/1/2016,503,,,
-Oregon,2/1/2016,495,,,
-Oregon,1/1/2016,491,,,
-Oregon,12/1/2015,497,,,
-Oregon,11/1/2015,504,,,
-Oregon,10/1/2015,510,,,
-Oregon,9/1/2015,523,,,
-Oregon,8/1/2015,515,,,
-Oregon,7/1/2015,502,,,
-Oregon,6/1/2015,506,,,
-Oregon,5/1/2015,501,,,
-Oregon,4/1/2015,517,,,
-Oregon,3/1/2015,515,,,
-Oregon,2/1/2015,519,,,
-Oregon,1/1/2015,520,,,
-Pennsylvania,5/1/2020,4909,,,
-Pennsylvania,4/1/2020,4779,,,
-Pennsylvania,3/1/2020,4679,,,
-Pennsylvania,2/1/2020,4616,,,
-Pennsylvania,1/1/2020,4528,,,
-Pennsylvania,12/1/2019,4494,,,
-Pennsylvania,11/1/2019,4408,,,
-Pennsylvania,10/1/2019,4341,,,
-Pennsylvania,9/1/2019,4329,,,
-Pennsylvania,8/1/2019,4348,,,
-Pennsylvania,7/1/2019,4330,,,
-Pennsylvania,6/1/2019,4351,,,
-Pennsylvania,5/1/2019,4420,,,
-Pennsylvania,4/1/2019,4461,,,
-Pennsylvania,3/1/2019,4492,,,
-Pennsylvania,2/1/2019,4480,,,
-Pennsylvania,1/1/2019,4462,,,
-Pennsylvania,12/1/2018,4500,,,
-Pennsylvania,11/1/2018,4566,,,
-Pennsylvania,10/1/2018,4661,,,
-Pennsylvania,9/1/2018,4681,,,
-Pennsylvania,8/1/2018,4728,,,
-Pennsylvania,7/1/2018,4835,,,
-Pennsylvania,6/1/2018,4899,,,
-Pennsylvania,5/1/2018,4927,,,
-Pennsylvania,4/1/2018,5011,,,
-Pennsylvania,3/1/2018,5084,,,
-Pennsylvania,2/1/2018,5243,,,
-Pennsylvania,1/1/2018,5414,,,
-Pennsylvania,12/1/2017,5545,,,
-Pennsylvania,11/1/2017,5698,,,
-Pennsylvania,10/1/2017,5775,,,
-Pennsylvania,9/1/2017,5839,,,
-Pennsylvania,8/1/2017,5844,,,
-Pennsylvania,7/1/2017,5731,,,
-Pennsylvania,6/1/2017,5668,,,
-Pennsylvania,5/1/2017,5538,,,
-Pennsylvania,4/1/2017,5370,,,
-Pennsylvania,3/1/2017,5261,,,
-Pennsylvania,2/1/2017,5108,,,
-Pennsylvania,1/1/2017,5028,,,
-Pennsylvania,12/1/2016,4793,,,
-Pennsylvania,11/1/2016,4500,,,
-Pennsylvania,10/1/2016,4288,,,
-Pennsylvania,9/1/2016,4151,,,
-Pennsylvania,8/1/2016,4005,,,
-Pennsylvania,7/1/2016,3903,,,
-Pennsylvania,6/1/2016,3758,,,
-Pennsylvania,5/1/2016,3735,,,
-Pennsylvania,4/1/2016,3702,,,
-Pennsylvania,3/1/2016,3622,,,
-Pennsylvania,2/1/2016,3509,,,
-Pennsylvania,1/1/2016,3361,,,
-Pennsylvania,12/1/2015,3359,,,
-Pennsylvania,11/1/2015,3351,,,
-Pennsylvania,10/1/2015,3300,,,
-Pennsylvania,9/1/2015,3225,,,
-Pennsylvania,8/1/2015,3164,,,
-Pennsylvania,7/1/2015,3098,,,
-Pennsylvania,6/1/2015,3051,,,
-Pennsylvania,5/1/2015,2962,,,
-Pennsylvania,4/1/2015,2949,,,
-Pennsylvania,3/1/2015,2919,,,
-Pennsylvania,2/1/2015,2896,,,
-Pennsylvania,1/1/2015,2865,,,
-Rhode Island,5/1/2020,351,,,
-Rhode Island,4/1/2020,348,,,
-Rhode Island,3/1/2020,335,,,
-Rhode Island,2/1/2020,333,,,
-Rhode Island,1/1/2020,323,,,
-Rhode Island,12/1/2019,323,,,
-Rhode Island,11/1/2019,322,,,
-Rhode Island,10/1/2019,328,,,
-Rhode Island,9/1/2019,334,,,
-Rhode Island,8/1/2019,342,,,
-Rhode Island,7/1/2019,345,,,
-Rhode Island,6/1/2019,341,,,
-Rhode Island,5/1/2019,349,,,
-Rhode Island,4/1/2019,345,,,
-Rhode Island,3/1/2019,348,,,
-Rhode Island,2/1/2019,345,,,
-Rhode Island,1/1/2019,344,,,
-Rhode Island,12/1/2018,331,,,
-Rhode Island,11/1/2018,335,,,
-Rhode Island,10/1/2018,336,,,
-Rhode Island,9/1/2018,331,,,
-Rhode Island,8/1/2018,332,,,
-Rhode Island,7/1/2018,333,,,
-Rhode Island,6/1/2018,335,,,
-Rhode Island,5/1/2018,332,,,
-Rhode Island,4/1/2018,316,,,
-Rhode Island,3/1/2018,312,,,
-Rhode Island,2/1/2018,321,,,
-Rhode Island,1/1/2018,325,,,
-Rhode Island,12/1/2017,336,,,
-Rhode Island,11/1/2017,328,,,
-Rhode Island,10/1/2017,333,,,
-Rhode Island,9/1/2017,331,,,
-Rhode Island,8/1/2017,328,,,
-Rhode Island,7/1/2017,323,,,
-Rhode Island,6/1/2017,322,,,
-Rhode Island,5/1/2017,326,,,
-Rhode Island,4/1/2017,341,,,
-Rhode Island,3/1/2017,349,,,
-Rhode Island,2/1/2017,342,,,
-Rhode Island,1/1/2017,352,,,
-Rhode Island,12/1/2016,348,,,
-Rhode Island,11/1/2016,345,,,
-Rhode Island,10/1/2016,331,,,
-Rhode Island,9/1/2016,330,,,
-Rhode Island,8/1/2016,337,,,
-Rhode Island,7/1/2016,333,,,
-Rhode Island,6/1/2016,338,,,
-Rhode Island,5/1/2016,329,,,
-Rhode Island,4/1/2016,328,,,
-Rhode Island,3/1/2016,322,,,
-Rhode Island,2/1/2016,322,,,
-Rhode Island,1/1/2016,320,,,
-Rhode Island,12/1/2015,319,,,
-Rhode Island,11/1/2015,323,,,
-Rhode Island,10/1/2015,322,,,
-Rhode Island,9/1/2015,326,,,
-Rhode Island,8/1/2015,308,,,
-Rhode Island,7/1/2015,308,,,
-Rhode Island,6/1/2015,296,,,
-Rhode Island,5/1/2015,283,,,
-Rhode Island,4/1/2015,268,,,
-Rhode Island,3/1/2015,263,,,
-Rhode Island,2/1/2015,255,,,
-Rhode Island,1/1/2015,251,,,
-South Carolina,5/1/2020,1387,,,
-South Carolina,4/1/2020,1304,,,
-South Carolina,3/1/2020,1249,,,
-South Carolina,2/1/2020,1178,,,
-South Carolina,1/1/2020,1148,,,
-South Carolina,12/1/2019,1137,,,
-South Carolina,11/1/2019,1140,,,
-South Carolina,10/1/2019,1118,,,
-South Carolina,9/1/2019,1114,,,
-South Carolina,8/1/2019,1092,,,
-South Carolina,7/1/2019,1065,,,
-South Carolina,6/1/2019,1065,,,
-South Carolina,5/1/2019,1072,,,
-South Carolina,4/1/2019,1076,,,
-South Carolina,3/1/2019,1111,,,
-South Carolina,2/1/2019,1121,,,
-South Carolina,1/1/2019,1116,,,
-South Carolina,12/1/2018,1112,,,
-South Carolina,11/1/2018,1069,,,
-South Carolina,10/1/2018,1069,,,
-South Carolina,9/1/2018,1052,,,
-South Carolina,8/1/2018,1057,,,
-South Carolina,7/1/2018,1061,,,
-South Carolina,6/1/2018,1043,,,
-South Carolina,5/1/2018,1049,,,
-South Carolina,4/1/2018,1061,,,
-South Carolina,3/1/2018,1026,,,
-South Carolina,2/1/2018,995,,,
-South Carolina,1/1/2018,995,,,
-South Carolina,12/1/2017,1004,,,
-South Carolina,11/1/2017,1030,,,
-South Carolina,10/1/2017,1013,,,
-South Carolina,9/1/2017,1021,,,
-South Carolina,8/1/2017,1000,,,
-South Carolina,7/1/2017,982,,,
-South Carolina,6/1/2017,979,,,
-South Carolina,5/1/2017,965,,,
-South Carolina,4/1/2017,934,,,
-South Carolina,3/1/2017,924,,,
-South Carolina,2/1/2017,934,,,
-South Carolina,1/1/2017,904,,,
-South Carolina,12/1/2016,871,,,
-South Carolina,11/1/2016,845,,,
-South Carolina,10/1/2016,849,,,
-South Carolina,9/1/2016,834,,,
-South Carolina,8/1/2016,824,,,
-South Carolina,7/1/2016,824,,,
-South Carolina,6/1/2016,806,,,
-South Carolina,5/1/2016,777,,,
-South Carolina,4/1/2016,774,,,
-South Carolina,3/1/2016,736,,,
-South Carolina,2/1/2016,725,,,
-South Carolina,1/1/2016,733,,,
-South Carolina,12/1/2015,738,,,
-South Carolina,11/1/2015,739,,,
-South Carolina,10/1/2015,748,,,
-South Carolina,9/1/2015,735,,,
-South Carolina,8/1/2015,745,,,
-South Carolina,7/1/2015,726,,,
-South Carolina,6/1/2015,730,,,
-South Carolina,5/1/2015,726,,,
-South Carolina,4/1/2015,709,,,
-South Carolina,3/1/2015,710,,,
-South Carolina,2/1/2015,699,,,
-South Carolina,1/1/2015,692,,,
-South Dakota,5/1/2020,92,,,
-South Dakota,4/1/2020,96,,,
-South Dakota,3/1/2020,93,,,
-South Dakota,2/1/2020,87,,,
-South Dakota,1/1/2020,88,,,
-South Dakota,12/1/2019,88,,,
-South Dakota,11/1/2019,89,,,
-South Dakota,10/1/2019,85,,,
-South Dakota,9/1/2019,84,,,
-South Dakota,8/1/2019,78,,,
-South Dakota,7/1/2019,71,,,
-South Dakota,6/1/2019,72,,,
-South Dakota,5/1/2019,69,,,
-South Dakota,4/1/2019,65,,,
-South Dakota,3/1/2019,62,,,
-South Dakota,2/1/2019,64,,,
-South Dakota,1/1/2019,56,,,
-South Dakota,12/1/2018,57,,,
-South Dakota,11/1/2018,55,,,
-South Dakota,10/1/2018,58,,,
-South Dakota,9/1/2018,55,,,
-South Dakota,8/1/2018,58,,,
-South Dakota,7/1/2018,62,,,
-South Dakota,6/1/2018,62,,,
-South Dakota,5/1/2018,61,,,
-South Dakota,4/1/2018,64,,,
-South Dakota,3/1/2018,67,,,
-South Dakota,2/1/2018,64,,,
-South Dakota,1/1/2018,69,,,
-South Dakota,12/1/2017,75,,,
-South Dakota,11/1/2017,76,,,
-South Dakota,10/1/2017,75,,,
-South Dakota,9/1/2017,75,,,
-South Dakota,8/1/2017,76,,,
-South Dakota,7/1/2017,75,,,
-South Dakota,6/1/2017,75,,,
-South Dakota,5/1/2017,75,,,
-South Dakota,4/1/2017,70,,,
-South Dakota,3/1/2017,70,,,
-South Dakota,2/1/2017,74,,,
-South Dakota,1/1/2017,75,,,
-South Dakota,12/1/2016,69,,,
-South Dakota,11/1/2016,71,,,
-South Dakota,10/1/2016,69,,,
-South Dakota,9/1/2016,70,,,
-South Dakota,8/1/2016,65,,,
-South Dakota,7/1/2016,63,,,
-South Dakota,6/1/2016,68,,,
-South Dakota,5/1/2016,70,,,
-South Dakota,4/1/2016,70,,,
-South Dakota,3/1/2016,66,,,
-South Dakota,2/1/2016,65,,,
-South Dakota,1/1/2016,63,,,
-South Dakota,12/1/2015,62,,,
-South Dakota,11/1/2015,60,,,
-South Dakota,10/1/2015,62,,,
-South Dakota,9/1/2015,63,,,
-South Dakota,8/1/2015,65,,,
-South Dakota,7/1/2015,67,,,
-South Dakota,6/1/2015,60,,,
-South Dakota,5/1/2015,56,,,
-South Dakota,4/1/2015,58,,,
-South Dakota,3/1/2015,62,,,
-South Dakota,2/1/2015,60,,,
-South Dakota,1/1/2015,61,,,
-Tennessee,5/1/2020,2563,,,
-Tennessee,4/1/2020,2391,,,
-Tennessee,3/1/2020,2313,,,
-Tennessee,2/1/2020,2233,,,
-Tennessee,1/1/2020,2182,,,
-Tennessee,12/1/2019,2164,,,
-Tennessee,11/1/2019,2162,,,
-Tennessee,10/1/2019,2140,,,
-Tennessee,9/1/2019,2096,,,
-Tennessee,8/1/2019,2075,,,
-Tennessee,7/1/2019,2069,,,
-Tennessee,6/1/2019,2052,,,
-Tennessee,5/1/2019,2010,,,
-Tennessee,4/1/2019,1995,,,
-Tennessee,3/1/2019,1977,,,
-Tennessee,2/1/2019,1951,,,
-Tennessee,1/1/2019,1964,,,
-Tennessee,12/1/2018,1929,,,
-Tennessee,11/1/2018,1933,,,
-Tennessee,10/1/2018,1913,,,
-Tennessee,9/1/2018,1904,,,
-Tennessee,8/1/2018,1901,,,
-Tennessee,7/1/2018,1888,,,
-Tennessee,6/1/2018,1868,,,
-Tennessee,5/1/2018,1858,,,
-Tennessee,4/1/2018,1841,,,
-Tennessee,3/1/2018,1839,,,
-Tennessee,2/1/2018,1842,,,
-Tennessee,1/1/2018,1813,,,
-Tennessee,12/1/2017,1830,,,
-Tennessee,11/1/2017,1807,,,
-Tennessee,10/1/2017,1814,,,
-Tennessee,9/1/2017,1803,,,
-Tennessee,8/1/2017,1770,,,
-Tennessee,7/1/2017,1775,,,
-Tennessee,6/1/2017,1786,,,
-Tennessee,5/1/2017,1763,,,
-Tennessee,4/1/2017,1747,,,
-Tennessee,3/1/2017,1714,,,
-Tennessee,2/1/2017,1675,,,
-Tennessee,1/1/2017,1665,,,
-Tennessee,12/1/2016,1665,,,
-Tennessee,11/1/2016,1660,,,
-Tennessee,10/1/2016,1618,,,
-Tennessee,9/1/2016,1621,,,
-Tennessee,8/1/2016,1619,,,
-Tennessee,7/1/2016,1594,,,
-Tennessee,6/1/2016,1557,,,
-Tennessee,5/1/2016,1569,,,
-Tennessee,4/1/2016,1555,,,
-Tennessee,3/1/2016,1548,,,
-Tennessee,2/1/2016,1561,,,
-Tennessee,1/1/2016,1535,,,
-Tennessee,12/1/2015,1501,,,
-Tennessee,11/1/2015,1468,,,
-Tennessee,10/1/2015,1476,,,
-Tennessee,9/1/2015,1443,,,
-Tennessee,8/1/2015,1416,,,
-Tennessee,7/1/2015,1401,,,
-Tennessee,6/1/2015,1372,,,
-Tennessee,5/1/2015,1355,,,
-Tennessee,4/1/2015,1325,,,
-Tennessee,3/1/2015,1334,,,
-Tennessee,2/1/2015,1300,,,
-Tennessee,1/1/2015,1316,,,
-Texas,5/1/2020,3551,,,
-Texas,4/1/2020,3444,,,
-Texas,3/1/2020,3348,,,
-Texas,2/1/2020,3305,,,
-Texas,1/1/2020,3223,,,
-Texas,12/1/2019,3167,,,
-Texas,11/1/2019,3103,,,
-Texas,10/1/2019,3069,,,
-Texas,9/1/2019,3018,,,
-Texas,8/1/2019,3043,,,
-Texas,7/1/2019,3020,,,
-Texas,6/1/2019,3011,,,
-Texas,5/1/2019,3045,,,
-Texas,4/1/2019,3024,,,
-Texas,3/1/2019,3022,,,
-Texas,2/1/2019,2970,,,
-Texas,1/1/2019,3015,,,
-Texas,12/1/2018,3033,,,
-Texas,11/1/2018,3067,,,
-Texas,10/1/2018,3084,,,
-Texas,9/1/2018,3080,,,
-Texas,8/1/2018,3068,,,
-Texas,7/1/2018,3012,,,
-Texas,6/1/2018,3033,,,
-Texas,5/1/2018,2990,,,
-Texas,4/1/2018,3015,,,
-Texas,3/1/2018,2999,,,
-Texas,2/1/2018,3005,,,
-Texas,1/1/2018,2983,,,
-Texas,12/1/2017,2962,,,
-Texas,11/1/2017,2947,,,
-Texas,10/1/2017,2902,,,
-Texas,9/1/2017,2893,,,
-Texas,8/1/2017,2883,,,
-Texas,7/1/2017,2910,,,
-Texas,6/1/2017,2872,,,
-Texas,5/1/2017,2866,,,
-Texas,4/1/2017,2835,,,
-Texas,3/1/2017,2855,,,
-Texas,2/1/2017,2854,,,
-Texas,1/1/2017,2855,,,
-Texas,12/1/2016,2859,,,
-Texas,11/1/2016,2819,,,
-Texas,10/1/2016,2796,,,
-Texas,9/1/2016,2809,,,
-Texas,8/1/2016,2788,,,
-Texas,7/1/2016,2776,,,
-Texas,6/1/2016,2772,,,
-Texas,5/1/2016,2743,,,
-Texas,4/1/2016,2730,,,
-Texas,3/1/2016,2686,,,
-Texas,2/1/2016,2687,,,
-Texas,1/1/2016,2634,,,
-Texas,12/1/2015,2623,,,
-Texas,11/1/2015,2633,,,
-Texas,10/1/2015,2669,,,
-Texas,9/1/2015,2660,,,
-Texas,8/1/2015,2633,,,
-Texas,7/1/2015,2607,,,
-Texas,6/1/2015,2558,,,
-Texas,5/1/2015,2582,,,
-Texas,4/1/2015,2577,,,
-Texas,3/1/2015,2589,,,
-Texas,2/1/2015,2565,,,
-Texas,1/1/2015,2623,,,
-Utah,5/1/2020,579,,,
-Utah,4/1/2020,569,,,
-Utah,3/1/2020,557,,,
-Utah,2/1/2020,565,,,
-Utah,1/1/2020,570,,,
-Utah,12/1/2019,579,,,
-Utah,11/1/2019,577,,,
-Utah,10/1/2019,565,,,
-Utah,9/1/2019,553,,,
-Utah,8/1/2019,551,,,
-Utah,7/1/2019,569,,,
-Utah,6/1/2019,576,,,
-Utah,5/1/2019,585,,,
-Utah,4/1/2019,611,,,
-Utah,3/1/2019,625,,,
-Utah,2/1/2019,632,,,
-Utah,1/1/2019,640,,,
-Utah,12/1/2018,640,,,
-Utah,11/1/2018,654,,,
-Utah,10/1/2018,665,,,
-Utah,9/1/2018,677,,,
-Utah,8/1/2018,679,,,
-Utah,7/1/2018,679,,,
-Utah,6/1/2018,677,,,
-Utah,5/1/2018,677,,,
-Utah,4/1/2018,664,,,
-Utah,3/1/2018,656,,,
-Utah,2/1/2018,652,,,
-Utah,1/1/2018,653,,,
-Utah,12/1/2017,662,,,
-Utah,11/1/2017,650,,,
-Utah,10/1/2017,644,,,
-Utah,9/1/2017,661,,,
-Utah,8/1/2017,669,,,
-Utah,7/1/2017,677,,,
-Utah,6/1/2017,673,,,
-Utah,5/1/2017,673,,,
-Utah,4/1/2017,682,,,
-Utah,3/1/2017,690,,,
-Utah,2/1/2017,716,,,
-Utah,1/1/2017,715,,,
-Utah,12/1/2016,726,,,
-Utah,11/1/2016,744,,,
-Utah,10/1/2016,754,,,
-Utah,9/1/2016,756,,,
-Utah,8/1/2016,771,,,
-Utah,7/1/2016,764,,,
-Utah,6/1/2016,758,,,
-Utah,5/1/2016,759,,,
-Utah,4/1/2016,747,,,
-Utah,3/1/2016,744,,,
-Utah,2/1/2016,719,,,
-Utah,1/1/2016,697,,,
-Utah,12/1/2015,672,,,
-Utah,11/1/2015,677,,,
-Utah,10/1/2015,677,,,
-Utah,9/1/2015,640,,,
-Utah,8/1/2015,627,,,
-Utah,7/1/2015,619,,,
-Utah,6/1/2015,626,,,
-Utah,5/1/2015,620,,,
-Utah,4/1/2015,635,,,
-Utah,3/1/2015,628,,,
-Utah,2/1/2015,629,,,
-Utah,1/1/2015,643,,,
-Vermont,5/1/2020,136,,,
-Vermont,4/1/2020,123,,,
-Vermont,3/1/2020,114,,,
-Vermont,2/1/2020,110,,,
-Vermont,1/1/2020,116,,,
-Vermont,12/1/2019,118,,,
-Vermont,11/1/2019,123,,,
-Vermont,10/1/2019,123,,,
-Vermont,9/1/2019,130,,,
-Vermont,8/1/2019,138,,,
-Vermont,7/1/2019,128,,,
-Vermont,6/1/2019,132,,,
-Vermont,5/1/2019,135,,,
-Vermont,4/1/2019,147,,,
-Vermont,3/1/2019,144,,,
-Vermont,2/1/2019,150,,,
-Vermont,1/1/2019,147,,,
-Vermont,12/1/2018,144,,,
-Vermont,11/1/2018,136,,,
-Vermont,10/1/2018,146,,,
-Vermont,9/1/2018,142,,,
-Vermont,8/1/2018,136,,,
-Vermont,7/1/2018,137,,,
-Vermont,6/1/2018,134,,,
-Vermont,5/1/2018,134,,,
-Vermont,4/1/2018,123,,,
-Vermont,3/1/2018,126,,,
-Vermont,2/1/2018,127,,,
-Vermont,1/1/2018,129,,,
-Vermont,12/1/2017,128,,,
-Vermont,11/1/2017,135,,,
-Vermont,10/1/2017,126,,,
-Vermont,9/1/2017,130,,,
-Vermont,8/1/2017,132,,,
-Vermont,7/1/2017,141,,,
-Vermont,6/1/2017,138,,,
-Vermont,5/1/2017,141,,,
-Vermont,4/1/2017,143,,,
-Vermont,3/1/2017,143,,,
-Vermont,2/1/2017,139,,,
-Vermont,1/1/2017,137,,,
-Vermont,12/1/2016,136,,,
-Vermont,11/1/2016,128,,,
-Vermont,10/1/2016,129,,,
-Vermont,9/1/2016,118,,,
-Vermont,8/1/2016,115,,,
-Vermont,7/1/2016,110,,,
-Vermont,6/1/2016,107,,,
-Vermont,5/1/2016,104,,,
-Vermont,4/1/2016,107,,,
-Vermont,3/1/2016,104,,,
-Vermont,2/1/2016,105,,,
-Vermont,1/1/2016,100,,,
-Vermont,12/1/2015,99,,,
-Vermont,11/1/2015,99,,,
-Vermont,10/1/2015,96,,,
-Vermont,9/1/2015,100,,,
-Vermont,8/1/2015,100,,,
-Vermont,7/1/2015,95,,,
-Vermont,6/1/2015,94,,,
-Vermont,5/1/2015,91,,,
-Vermont,4/1/2015,85,,,
-Vermont,3/1/2015,82,,,
-Vermont,2/1/2015,77,,,
-Vermont,1/1/2015,76,,,
-Virginia,5/1/2020,1737,,,
-Virginia,4/1/2020,1639,,,
-Virginia,3/1/2020,1588,,,
-Virginia,2/1/2020,1570,,,
-Virginia,1/1/2020,1562,,,
-Virginia,12/1/2019,1539,,,
-Virginia,11/1/2019,1498,,,
-Virginia,10/1/2019,1476,,,
-Virginia,9/1/2019,1452,,,
-Virginia,8/1/2019,1476,,,
-Virginia,7/1/2019,1490,,,
-Virginia,6/1/2019,1499,,,
-Virginia,5/1/2019,1497,,,
-Virginia,4/1/2019,1490,,,
-Virginia,3/1/2019,1476,,,
-Virginia,2/1/2019,1474,,,
-Virginia,1/1/2019,1464,,,
-Virginia,12/1/2018,1434,,,
-Virginia,11/1/2018,1474,,,
-Virginia,10/1/2018,1484,,,
-Virginia,9/1/2018,1460,,,
-Virginia,8/1/2018,1417,,,
-Virginia,7/1/2018,1403,,,
-Virginia,6/1/2018,1404,,,
-Virginia,5/1/2018,1416,,,
-Virginia,4/1/2018,1410,,,
-Virginia,3/1/2018,1410,,,
-Virginia,2/1/2018,1407,,,
-Virginia,1/1/2018,1436,,,
-Virginia,12/1/2017,1455,,,
-Virginia,11/1/2017,1424,,,
-Virginia,10/1/2017,1424,,,
-Virginia,9/1/2017,1439,,,
-Virginia,8/1/2017,1453,,,
-Virginia,7/1/2017,1440,,,
-Virginia,6/1/2017,1428,,,
-Virginia,5/1/2017,1415,,,
-Virginia,4/1/2017,1407,,,
-Virginia,3/1/2017,1394,,,
-Virginia,2/1/2017,1403,,,
-Virginia,1/1/2017,1392,,,
-Virginia,12/1/2016,1356,,,
-Virginia,11/1/2016,1340,,,
-Virginia,10/1/2016,1287,,,
-Virginia,9/1/2016,1260,,,
-Virginia,8/1/2016,1229,,,
-Virginia,7/1/2016,1214,,,
-Virginia,6/1/2016,1186,,,
-Virginia,5/1/2016,1160,,,
-Virginia,4/1/2016,1131,,,
-Virginia,3/1/2016,1107,,,
-Virginia,2/1/2016,1051,,,
-Virginia,1/1/2016,1006,,,
-Virginia,12/1/2015,1002,,,
-Virginia,11/1/2015,992,,,
-Virginia,10/1/2015,1017,,,
-Virginia,9/1/2015,1010,,,
-Virginia,8/1/2015,995,,,
-Virginia,7/1/2015,977,,,
-Virginia,6/1/2015,985,,,
-Virginia,5/1/2015,974,,,
-Virginia,4/1/2015,967,,,
-Virginia,3/1/2015,969,,,
-Virginia,2/1/2015,981,,,
-Virginia,1/1/2015,959,,,
-Washington,5/1/2020,1454,,,
-Washington,4/1/2020,1385,,,
-Washington,3/1/2020,1320,,,
-Washington,2/1/2020,1276,,,
-Washington,1/1/2020,1262,,,
-Washington,12/1/2019,1252,,,
-Washington,11/1/2019,1245,,,
-Washington,10/1/2019,1231,,,
-Washington,9/1/2019,1235,,,
-Washington,8/1/2019,1230,,,
-Washington,7/1/2019,1220,,,
-Washington,6/1/2019,1206,,,
-Washington,5/1/2019,1200,,,
-Washington,4/1/2019,1199,,,
-Washington,3/1/2019,1198,,,
-Washington,2/1/2019,1193,,,
-Washington,1/1/2019,1190,,,
-Washington,12/1/2018,1178,,,
-Washington,11/1/2018,1190,,,
-Washington,10/1/2018,1196,,,
-Washington,9/1/2018,1181,,,
-Washington,8/1/2018,1178,,,
-Washington,7/1/2018,1174,,,
-Washington,6/1/2018,1189,,,
-Washington,5/1/2018,1168,,,
-Washington,4/1/2018,1166,,,
-Washington,3/1/2018,1171,,,
-Washington,2/1/2018,1175,,,
-Washington,1/1/2018,1172,,,
-Washington,12/1/2017,1175,,,
-Washington,11/1/2017,1138,,,
-Washington,10/1/2017,1115,,,
-Washington,9/1/2017,1097,,,
-Washington,8/1/2017,1068,,,
-Washington,7/1/2017,1063,,,
-Washington,6/1/2017,1070,,,
-Washington,5/1/2017,1094,,,
-Washington,4/1/2017,1097,,,
-Washington,3/1/2017,1120,,,
-Washington,2/1/2017,1108,,,
-Washington,1/1/2017,1105,,,
-Washington,12/1/2016,1117,,,
-Washington,11/1/2016,1127,,,
-Washington,10/1/2016,1155,,,
-Washington,9/1/2016,1171,,,
-Washington,8/1/2016,1183,,,
-Washington,7/1/2016,1177,,,
-Washington,6/1/2016,1162,,,
-Washington,5/1/2016,1163,,,
-Washington,4/1/2016,1165,,,
-Washington,3/1/2016,1137,,,
-Washington,2/1/2016,1139,,,
-Washington,1/1/2016,1134,,,
-Washington,12/1/2015,1109,,,
-Washington,11/1/2015,1110,,,
-Washington,10/1/2015,1099,,,
-Washington,9/1/2015,1090,,,
-Washington,8/1/2015,1066,,,
-Washington,7/1/2015,1068,,,
-Washington,6/1/2015,1050,,,
-Washington,5/1/2015,1020,,,
-Washington,4/1/2015,1017,,,
-Washington,3/1/2015,1018,,,
-Washington,2/1/2015,1000,,,
-Washington,1/1/2015,996,,,
-West Virginia,5/1/2020,1090,,,
-West Virginia,4/1/2020,983,,,
-West Virginia,3/1/2020,960,,,
-West Virginia,2/1/2020,946,,,
-West Virginia,1/1/2020,918,,,
-West Virginia,12/1/2019,902,,,
-West Virginia,11/1/2019,896,,,
-West Virginia,10/1/2019,865,,,
-West Virginia,9/1/2019,859,,,
-West Virginia,8/1/2019,870,,,
-West Virginia,7/1/2019,879,,,
-West Virginia,6/1/2019,870,,,
-West Virginia,5/1/2019,890,,,
-West Virginia,4/1/2019,905,,,
-West Virginia,3/1/2019,902,,,
-West Virginia,2/1/2019,911,,,
-West Virginia,1/1/2019,932,,,
-West Virginia,12/1/2018,934,,,
-West Virginia,11/1/2018,951,,,
-West Virginia,10/1/2018,973,,,
-West Virginia,9/1/2018,974,,,
-West Virginia,8/1/2018,957,,,
-West Virginia,7/1/2018,931,,,
-West Virginia,6/1/2018,942,,,
-West Virginia,5/1/2018,944,,,
-West Virginia,4/1/2018,938,,,
-West Virginia,3/1/2018,968,,,
-West Virginia,2/1/2018,981,,,
-West Virginia,1/1/2018,1001,,,
-West Virginia,12/1/2017,1035,,,
-West Virginia,11/1/2017,1035,,,
-West Virginia,10/1/2017,1045,,,
-West Virginia,9/1/2017,1036,,,
-West Virginia,8/1/2017,1054,,,
-West Virginia,7/1/2017,1050,,,
-West Virginia,6/1/2017,1028,,,
-West Virginia,5/1/2017,1009,,,
-West Virginia,4/1/2017,1000,,,
-West Virginia,3/1/2017,965,,,
-West Virginia,2/1/2017,942,,,
-West Virginia,1/1/2017,925,,,
-West Virginia,12/1/2016,892,,,
-West Virginia,11/1/2016,865,,,
-West Virginia,10/1/2016,831,,,
-West Virginia,9/1/2016,844,,,
-West Virginia,8/1/2016,829,,,
-West Virginia,7/1/2016,817,,,
-West Virginia,6/1/2016,810,,,
-West Virginia,5/1/2016,788,,,
-West Virginia,4/1/2016,772,,,
-West Virginia,3/1/2016,766,,,
-West Virginia,2/1/2016,764,,,
-West Virginia,1/1/2016,741,,,
-West Virginia,12/1/2015,738,,,
-West Virginia,11/1/2015,730,,,
-West Virginia,10/1/2015,730,,,
-West Virginia,9/1/2015,700,,,
-West Virginia,8/1/2015,696,,,
-West Virginia,7/1/2015,698,,,
-West Virginia,6/1/2015,696,,,
-West Virginia,5/1/2015,692,,,
-West Virginia,4/1/2015,694,,,
-West Virginia,3/1/2015,681,,,
-West Virginia,2/1/2015,664,,,
-West Virginia,1/1/2015,654,,,
-Wisconsin,5/1/2020,1369,,,
-Wisconsin,4/1/2020,1308,,,
-Wisconsin,3/1/2020,1289,,,
-Wisconsin,2/1/2020,1288,,,
-Wisconsin,1/1/2020,1232,,,
-Wisconsin,12/1/2019,1203,,,
-Wisconsin,11/1/2019,1205,,,
-Wisconsin,10/1/2019,1188,,,
-Wisconsin,9/1/2019,1176,,,
-Wisconsin,8/1/2019,1163,,,
-Wisconsin,7/1/2019,1149,,,
-Wisconsin,6/1/2019,1122,,,
-Wisconsin,5/1/2019,1126,,,
-Wisconsin,4/1/2019,1127,,,
-Wisconsin,3/1/2019,1094,,,
-Wisconsin,2/1/2019,1075,,,
-Wisconsin,1/1/2019,1082,,,
-Wisconsin,12/1/2018,1094,,,
-Wisconsin,11/1/2018,1088,,,
-Wisconsin,10/1/2018,1083,,,
-Wisconsin,9/1/2018,1104,,,
-Wisconsin,8/1/2018,1117,,,
-Wisconsin,7/1/2018,1131,,,
-Wisconsin,6/1/2018,1172,,,
-Wisconsin,5/1/2018,1193,,,
-Wisconsin,4/1/2018,1174,,,
-Wisconsin,3/1/2018,1183,,,
-Wisconsin,2/1/2018,1162,,,
-Wisconsin,1/1/2018,1177,,,
-Wisconsin,12/1/2017,1196,,,
-Wisconsin,11/1/2017,1184,,,
-Wisconsin,10/1/2017,1182,,,
-Wisconsin,9/1/2017,1156,,,
-Wisconsin,8/1/2017,1158,,,
-Wisconsin,7/1/2017,1156,,,
-Wisconsin,6/1/2017,1141,,,
-Wisconsin,5/1/2017,1105,,,
-Wisconsin,4/1/2017,1104,,,
-Wisconsin,3/1/2017,1106,,,
-Wisconsin,2/1/2017,1115,,,
-Wisconsin,1/1/2017,1110,,,
-Wisconsin,12/1/2016,1089,,,
-Wisconsin,11/1/2016,1079,,,
-Wisconsin,10/1/2016,1081,,,
-Wisconsin,9/1/2016,1076,,,
-Wisconsin,8/1/2016,1075,,,
-Wisconsin,7/1/2016,1024,,,
-Wisconsin,6/1/2016,991,,,
-Wisconsin,5/1/2016,988,,,
-Wisconsin,4/1/2016,954,,,
-Wisconsin,3/1/2016,943,,,
-Wisconsin,2/1/2016,931,,,
-Wisconsin,1/1/2016,914,,,
-Wisconsin,12/1/2015,892,,,
-Wisconsin,11/1/2015,880,,,
-Wisconsin,10/1/2015,895,,,
-Wisconsin,9/1/2015,887,,,
-Wisconsin,8/1/2015,842,,,
-Wisconsin,7/1/2015,855,,,
-Wisconsin,6/1/2015,865,,,
-Wisconsin,5/1/2015,867,,,
-Wisconsin,4/1/2015,875,,,
-Wisconsin,3/1/2015,875,,,
-Wisconsin,2/1/2015,876,,,
-Wisconsin,1/1/2015,852,,,
-Wyoming,5/1/2020,88,,,
-Wyoming,4/1/2020,83,,,
-Wyoming,3/1/2020,81,,,
-Wyoming,2/1/2020,80,,,
-Wyoming,1/1/2020,78,,,
-Wyoming,12/1/2019,72,,,
-Wyoming,11/1/2019,65,,,
-Wyoming,10/1/2019,68,,,
-Wyoming,9/1/2019,70,,,
-Wyoming,8/1/2019,73,,,
-Wyoming,7/1/2019,75,,,
-Wyoming,6/1/2019,72,,,
-Wyoming,5/1/2019,64,,,
-Wyoming,4/1/2019,63,,,
-Wyoming,3/1/2019,65,,,
-Wyoming,2/1/2019,59,,,
-Wyoming,1/1/2019,60,,,
-Wyoming,12/1/2018,61,,,
-Wyoming,11/1/2018,59,,,
-Wyoming,10/1/2018,66,,,
-Wyoming,9/1/2018,68,,,
-Wyoming,8/1/2018,64,,,
-Wyoming,7/1/2018,60,,,
-Wyoming,6/1/2018,64,,,
-Wyoming,5/1/2018,65,,,
-Wyoming,4/1/2018,67,,,
-Wyoming,3/1/2018,66,,,
-Wyoming,2/1/2018,65,,,
-Wyoming,1/1/2018,63,,,
-Wyoming,12/1/2017,66,,,
-Wyoming,11/1/2017,71,,,
-Wyoming,10/1/2017,66,,,
-Wyoming,9/1/2017,62,,,
-Wyoming,8/1/2017,64,,,
-Wyoming,7/1/2017,62,,,
-Wyoming,6/1/2017,64,,,
-Wyoming,5/1/2017,73,,,
-Wyoming,4/1/2017,80,,,
-Wyoming,3/1/2017,82,,,
-Wyoming,2/1/2017,90,,,
-Wyoming,1/1/2017,91,,,
-Wyoming,12/1/2016,93,,,
-Wyoming,11/1/2016,94,,,
-Wyoming,10/1/2016,94,,,
-Wyoming,9/1/2016,93,,,
-Wyoming,8/1/2016,95,,,
-Wyoming,7/1/2016,99,,,
-Wyoming,6/1/2016,101,,,
-Wyoming,5/1/2016,95,,,
-Wyoming,4/1/2016,94,,,
-Wyoming,3/1/2016,99,,,
-Wyoming,2/1/2016,91,,,
-Wyoming,1/1/2016,95,,,
-Wyoming,12/1/2015,93,,,
-Wyoming,11/1/2015,94,,,
-Wyoming,10/1/2015,96,,,
-Wyoming,9/1/2015,101,,,
-Wyoming,8/1/2015,103,,,
-Wyoming,7/1/2015,106,,,
-Wyoming,6/1/2015,104,,,
-Wyoming,5/1/2015,113,,,
-Wyoming,4/1/2015,112,,,
-Wyoming,3/1/2015,104,,,
-Wyoming,2/1/2015,104,,,
-Wyoming,1/1/2015,105,,,
-Alabama,6/1/2020,906,,,
-Alaska,6/1/2020,133,,,
-Arizona,6/1/2020,2386,,,
-Arkansas,6/1/2020,434,,,
-California,6/1/2020,7647,,,
-Colorado,6/1/2020,1322,,,
-Connecticut,6/1/2020,1351,,,
-Delaware,6/1/2020,478,,,
-District of Columbia,6/1/2020,487,,,
-Florida,6/1/2020,6856,,,
-Georgia,6/1/2020,1631,,,
-Hawaii,6/1/2020,272,,,
-Idaho,6/1/2020,252,,,
-Illinois,6/1/2020,3427,,,
-Indiana,6/1/2020,2030,,,
-Iowa,6/1/2020,414,,,
-Kansas,6/1/2020,394,,,
-Kentucky,6/1/2020,1704,,,
-Louisiana,6/1/2020,1640,,,
-Maine,6/1/2020,442,,,
-Maryland,6/1/2020,2498,,,
-Massachusetts,6/1/2020,2348,,,
-Michigan,6/1/2020,2638,,,
-Minnesota,6/1/2020,920,,,
-Mississippi,6/1/2020,446,,,
-Missouri,6/1/2020,1892,,,
-Montana,6/1/2020,150,,,
-Nebraska,6/1/2020,183,,,
-Nevada,6/1/2020,772,,,
-New Hampshire,6/1/2020,416,,,
-New Jersey,6/1/2020,3021,,,
-New Mexico,6/1/2020,686,,,
-New York,6/1/2020,2709,,,
-New York City,6/1/2020,1772,,,
-North Carolina,6/1/2020,2374,,,
-North Dakota,6/1/2020,97,,,
-Ohio,6/1/2020,4821,,,
-Oklahoma,6/1/2020,695,,,
-Oregon,6/1/2020,704,,,
-Pennsylvania,6/1/2020,5015,,,
-Rhode Island,6/1/2020,354,,,
-South Carolina,6/1/2020,1462,,,
-South Dakota,6/1/2020,92,,,
-Tennessee,6/1/2020,2684,,,
-Texas,6/1/2020,3665,,,
-Utah,6/1/2020,581,,,
-Vermont,6/1/2020,141,,,
-Virginia,6/1/2020,1797,,,
-Washington,6/1/2020,1493,,,
-West Virginia,6/1/2020,1163,,,
-Wisconsin,6/1/2020,1426,,,
-Wyoming,6/1/2020,84,,,
-Alabama,7/1/2020,928,,,
-Alaska,7/1/2020,136,,,
-Arizona,7/1/2020,2499,,,
-Arkansas,7/1/2020,461,,,
-California,7/1/2020,8007,,,
-Colorado,7/1/2020,1374,,,
-Connecticut,7/1/2020,1367,,,
-Delaware,7/1/2020,476,,,
-District of Columbia,7/1/2020,494,,,
-Florida,7/1/2020,7098,,,
-Georgia,7/1/2020,1703,,,
-Hawaii,7/1/2020,277,,,
-Idaho,7/1/2020,270,,,
-Illinois,7/1/2020,3504,,,
-Indiana,7/1/2020,2084,,,
-Iowa,7/1/2020,412,,,
-Kansas,7/1/2020,405,,,
-Kentucky,7/1/2020,1794,,,
-Louisiana,7/1/2020,1719,,,
-Maine,7/1/2020,454,,,
-Maryland,7/1/2020,2538,,,
-Massachusetts,7/1/2020,2378,,,
-Michigan,7/1/2020,2695,,,
-Minnesota,7/1/2020,938,,,
-Mississippi,7/1/2020,455,,,
-Missouri,7/1/2020,1916,,,
-Montana,7/1/2020,143,,,
-Nebraska,7/1/2020,183,,,
-Nevada,7/1/2020,788,,,
-New Hampshire,7/1/2020,434,,,
-New Jersey,7/1/2020,3009,,,
-New Mexico,7/1/2020,694,,,
-New York,7/1/2020,2745,,,
-New York City,7/1/2020,1843,,,
-North Carolina,7/1/2020,2647,,,
-North Dakota,7/1/2020,93,,,
-Ohio,7/1/2020,4947,,,
-Oklahoma,7/1/2020,720,,,
-Oregon,7/1/2020,717,,,
-Pennsylvania,7/1/2020,5144,,,
-Rhode Island,7/1/2020,368,,,
-South Carolina,7/1/2020,1532,,,
-South Dakota,7/1/2020,92,,,
-Tennessee,7/1/2020,2782,,,
-Texas,7/1/2020,3798,,,
-Utah,7/1/2020,609,,,
-Vermont,7/1/2020,146,,,
-Virginia,7/1/2020,1904,,,
-Washington,7/1/2020,1538,,,
-West Virginia,7/1/2020,1190,,,
-Wisconsin,7/1/2020,1457,,,
-Wyoming,7/1/2020,88,,,
-Alaska,8/1/2020,141,,,
-Alaska,9/1/2020,143,,,
-Alabama,8/1/2020,956,,,
-Alabama,9/1/2020,975,,,
-Arkansas,8/1/2020,483,,,
-Arkansas,9/1/2020,494,,,
-Arizona,8/1/2020,2623,,,
-Arizona,9/1/2020,2635,,,
-California,8/1/2020,8513,,,
-California,9/1/2020,8821,,,
-Colorado,8/1/2020,1443,,,
-Colorado,9/1/2020,1489,,,
-Connecticut,8/1/2020,1331,,,
-Connecticut,9/1/2020,1368,,,
-District of Columbia,8/1/2020,515,,,
-District of Columbia,9/1/2020,524,,,
-Delaware,8/1/2020,476,,,
-Delaware,9/1/2020,479,,,
-Florida,8/1/2020,7318,,,
-Florida,9/1/2020,7524,,,
-Georgia,8/1/2020,1731,,,
-Georgia,9/1/2020,1757,,,
-Hawaii,8/1/2020,270,,,
-Hawaii,9/1/2020,277,,,
-Iowa,8/1/2020,412,,,
-Iowa,9/1/2020,421,,,
-Idaho,8/1/2020,281,,,
-Idaho,9/1/2020,284,,,
-Illinois,8/1/2020,3559,,,
-Illinois,9/1/2020,3611,,,
-Indiana,8/1/2020,2126,,,
-Indiana,9/1/2020,2169,,,
-Kansas,8/1/2020,425,,,
-Kansas,9/1/2020,425,,,
-Kentucky,8/1/2020,1884,,,
-Kentucky,9/1/2020,1956,,,
-Louisiana,8/1/2020,1769,,,
-Louisiana,9/1/2020,1826,,,
-Massachusetts,8/1/2020,2368,,,
-Massachusetts,9/1/2020,2378,,,
-Maryland,8/1/2020,2575,,,
-Maryland,9/1/2020,2641,,,
-Maine,8/1/2020,455,,,
-Maine,9/1/2020,465,,,
-Michigan,8/1/2020,2749,,,
-Michigan,9/1/2020,2753,,,
-Minnesota,8/1/2020,979,,,
-Minnesota,9/1/2020,1000,,,
-Missouri,8/1/2020,1914,,,
-Missouri,9/1/2020,1914,,,
-Mississippi,8/1/2020,481,,,
-Mississippi,9/1/2020,485,,,
-Montana,8/1/2020,145,,,
-Montana,9/1/2020,150,,,
-North Carolina,8/1/2020,2727,,,
-North Carolina,9/1/2020,2732,,,
-North Dakota,8/1/2020,93,,,
-North Dakota,9/1/2020,102,,,
-Nebraska,8/1/2020,194,,,
-Nebraska,9/1/2020,204,,,
-New Hampshire,8/1/2020,421,,,
-New Hampshire,9/1/2020,417,,,
-New Jersey,8/1/2020,2975,,,
-New Jersey,9/1/2020,2990,,,
-New Mexico,8/1/2020,734,,,
-New Mexico,9/1/2020,752,,,
-Nevada,8/1/2020,832,,,
-Nevada,9/1/2020,829,,,
-New York,8/1/2020,2838,,,
-New York,9/1/2020,2898,,,
-Ohio,8/1/2020,5006,,,
-Ohio,9/1/2020,5107,,,
-Oklahoma,8/1/2020,739,,,
-Oklahoma,9/1/2020,725,,,
-Oregon,8/1/2020,736,,,
-Oregon,9/1/2020,750,,,
-Pennsylvania,8/1/2020,5207,,,
-Pennsylvania,9/1/2020,5300,,,
-Rhode Island,8/1/2020,386,,,
-Rhode Island,9/1/2020,402,,,
-South Carolina,8/1/2020,1583,,,
-South Carolina,9/1/2020,1625,,,
-South Dakota,8/1/2020,85,,,
-South Dakota,9/1/2020,81,,,
-Tennessee,8/1/2020,2899,,,
-Tennessee,9/1/2020,2980,,,
-Texas,8/1/2020,3951,,,
-Texas,9/1/2020,4063,,,
-United States,8/1/2020,88400,,,
-United States,9/1/2020,90237,,,
-Utah,8/1/2020,632,,,
-Utah,9/1/2020,631,,,
-Virginia,8/1/2020,1991,,,
-Virginia,9/1/2020,2060,,,
-Vermont,8/1/2020,149,,,
-Vermont,9/1/2020,155,,,
-Washington,8/1/2020,1577,,,
-Washington,9/1/2020,1595,,,
-Wisconsin,8/1/2020,1481,,,
-Wisconsin,9/1/2020,1512,,,
-West Virginia,8/1/2020,1226,,,
-West Virginia,9/1/2020,1287,,,
-Wyoming,8/1/2020,89,,,
-Wyoming,9/1/2020,97,,,
-New York City,8/1/2020,1932,,,
-New York City,9/1/2020,1983,,,
-Alabama,10/1/2020,971,,,
-Alaska,10/1/2020,137,,,
-Arizona,10/1/2020,2667,,,
-Arkansas,10/1/2020,501,,,
-California,10/1/2020,9145,,,
-Colorado,10/1/2020,1502,,,
-Connecticut,10/1/2020,1391,,,
-Delaware,10/1/2020,481,,,
-District of Columbia,10/1/2020,529,,,
-Florida,10/1/2020,7555,,,
-Georgia,10/1/2020,1810,,,
-Hawaii,10/1/2020,276,,,
-Idaho,10/1/2020,284,,,
-Illinois,10/1/2020,3627,,,
-Indiana,10/1/2020,2200,,,
-Iowa,10/1/2020,430,,,
-Kansas,10/1/2020,450,,,
-Kentucky,10/1/2020,2012,,,
-Louisiana,10/1/2020,1837,,,
-Maine,10/1/2020,452,,,
-Maryland,10/1/2020,2727,,,
-Massachusetts,10/1/2020,2370,,,
-Michigan,10/1/2020,2789,,,
-Minnesota,10/1/2020,1023,,,
-Mississippi,10/1/2020,510,,,
-Missouri,10/1/2020,1936,,,
-Montana,10/1/2020,154,,,
-Nebraska,10/1/2020,211,,,
-Nevada,10/1/2020,873,,,
-New Hampshire,10/1/2020,411,,,
-New Jersey,10/1/2020,2953,,,
-New Mexico,10/1/2020,778,,,
-New York,10/1/2020,2943,,,
-New York City,10/1/2020,2035,,,
-North Carolina,10/1/2020,2981,,,
-North Dakota,10/1/2020,108,,,
-Ohio,10/1/2020,5175,,,
-Oklahoma,10/1/2020,748,,,
-Oregon,10/1/2020,775,,,
-Pennsylvania,10/1/2020,5339,,,
-Rhode Island,10/1/2020,400,,,
-South Carolina,10/1/2020,1648,,,
-South Dakota,10/1/2020,76,,,
-Tennessee,10/1/2020,3057,,,
-Texas,10/1/2020,4107,,,
-Utah,10/1/2020,634,,,
-Vermont,10/1/2020,168,,,
-Virginia,10/1/2020,2126,,,
-Washington,10/1/2020,1646,,,
-West Virginia,10/1/2020,1306,,,
-Wisconsin,10/1/2020,1526,,,
-Wyoming,10/1/2020,100,,,
-Alabama,11/1/2020,988,,,
-Alaska,11/1/2020,142,,,
-Arizona,11/1/2020,2690,,,
-Arkansas,11/1/2020,509,,,
-California,11/1/2020,9328,,,
-Colorado,11/1/2020,1525,,,
-Connecticut,11/1/2020,1388,,,
-Delaware,11/1/2020,468,,,
-District of Columbia,11/1/2020,530,,,
-Florida,11/1/2020,7584,,,
-Georgia,11/1/2020,1835,,,
-Hawaii,11/1/2020,277,,,
-Idaho,11/1/2020,283,,,
-Illinois,11/1/2020,3647,,,
-Indiana,11/1/2020,2220,,,
-Iowa,11/1/2020,429,,,
-Kansas,11/1/2020,446,,,
-Kentucky,11/1/2020,2055,,,
-Louisiana,11/1/2020,1850,,,
-Maine,11/1/2020,468,,,
-Maryland,11/1/2020,2741,,,
-Massachusetts,11/1/2020,2344,,,
-Michigan,11/1/2020,2751,,,
-Minnesota,11/1/2020,1043,,,
-Mississippi,11/1/2020,519,,,
-Missouri,11/1/2020,1936,,,
-Montana,11/1/2020,154,,,
-Nebraska,11/1/2020,204,,,
-Nevada,11/1/2020,895,,,
-New Hampshire,11/1/2020,409,,,
-New Jersey,11/1/2020,2916,,,
-New Mexico,11/1/2020,798,,,
-New York,11/1/2020,2981,,,
-New York City,11/1/2020,2101,,,
-North Carolina,11/1/2020,3196,,,
-North Dakota,11/1/2020,116,,,
-Ohio,11/1/2020,5141,,,
-Oklahoma,11/1/2020,744,,,
-Oregon,11/1/2020,793,,,
-Pennsylvania,11/1/2020,5344,,,
-Rhode Island,11/1/2020,399,,,
-South Carolina,11/1/2020,1688,,,
-South Dakota,11/1/2020,71,,,
-Tennessee,11/1/2020,3090,,,
-Texas,11/1/2020,4140,,,
-Utah,11/1/2020,623,,,
-Vermont,11/1/2020,178,,,
-Virginia,11/1/2020,2160,,,
-Washington,11/1/2020,1685,,,
-West Virginia,11/1/2020,1329,,,
-Wisconsin,11/1/2020,1535,,,
-Wyoming,11/1/2020,110,,,
-Alabama,12/1/2020,1009,,,
-Alaska,12/1/2020,146,,,
-Arizona,12/1/2020,2660,,,
-Arkansas,12/1/2020,515,,,
-California,12/1/2020,9538,,,
-Colorado,12/1/2020,1512,,,
-Connecticut,12/1/2020,1385,,,
-Delaware,12/1/2020,449,,,
-District of Columbia,12/1/2020,511,,,
-Florida,12/1/2020,7579,,,
-Georgia,12/1/2020,1863,,,
-Hawaii,12/1/2020,274,,,
-Idaho,12/1/2020,283,,,
-Illinois,12/1/2020,3573,,,
-Indiana,12/1/2020,2268,,,
-Iowa,12/1/2020,419,,,
-Kansas,12/1/2020,471,,,
-Kentucky,12/1/2020,2104,,,
-Louisiana,12/1/2020,1925,,,
-Maine,12/1/2020,490,,,
-Maryland,12/1/2020,2761,,,
-Massachusetts,12/1/2020,2318,,,
-Michigan,12/1/2020,2770,,,
-Minnesota,12/1/2020,1066,,,
-Mississippi,12/1/2020,522,,,
-Missouri,12/1/2020,1921,,,
-Montana,12/1/2020,157,,,
-Nebraska,12/1/2020,210,,,
-Nevada,12/1/2020,916,,,
-New Hampshire,12/1/2020,393,,,
-New Jersey,12/1/2020,2841,,,
-New Mexico,12/1/2020,813,,,
-New York,12/1/2020,3000,,,
-New York City,12/1/2020,2132,,,
-North Carolina,12/1/2020,3260,,,
-North Dakota,12/1/2020,123,,,
-Ohio,12/1/2020,5215,,,
-Oklahoma,12/1/2020,753,,,
-Oregon,12/1/2020,799,,,
-Pennsylvania,12/1/2020,5278,,,
-Rhode Island,12/1/2020,396,,,
-South Carolina,12/1/2020,1730,,,
-South Dakota,12/1/2020,74,,,
-Tennessee,12/1/2020,3128,,,
-Texas,12/1/2020,4192,,,
-Utah,12/1/2020,623,,,
-Vermont,12/1/2020,186,,,
-Virginia,12/1/2020,2187,,,
-Washington,12/1/2020,1724,,,
-West Virginia,12/1/2020,1377,,,
-Wisconsin,12/1/2020,1539,,,
-Wyoming,12/1/2020,101,,,
+location,end_date,predicted_val
+Alabama,5/1/2020,887
+Alabama,4/1/2020,835
+Alabama,3/1/2020,806
+Alabama,2/1/2020,784
+Alabama,1/1/2020,766
+Alabama,12/1/2019,754
+Alabama,11/1/2019,766
+Alabama,10/1/2019,760
+Alabama,9/1/2019,733
+Alabama,8/1/2019,745
+Alabama,7/1/2019,728
+Alabama,6/1/2019,733
+Alabama,5/1/2019,713
+Alabama,4/1/2019,712
+Alabama,3/1/2019,714
+Alabama,2/1/2019,713
+Alabama,1/1/2019,732
+Alabama,12/1/2018,753
+Alabama,11/1/2018,756
+Alabama,10/1/2018,766
+Alabama,9/1/2018,770
+Alabama,8/1/2018,761
+Alabama,7/1/2018,775
+Alabama,6/1/2018,779
+Alabama,5/1/2018,801
+Alabama,4/1/2018,797
+Alabama,3/1/2018,797
+Alabama,2/1/2018,811
+Alabama,1/1/2018,796
+Alabama,12/1/2017,818
+Alabama,11/1/2017,812
+Alabama,10/1/2017,813
+Alabama,9/1/2017,814
+Alabama,8/1/2017,823
+Alabama,7/1/2017,824
+Alabama,6/1/2017,821
+Alabama,5/1/2017,830
+Alabama,4/1/2017,814
+Alabama,3/1/2017,815
+Alabama,2/1/2017,780
+Alabama,1/1/2017,784
+Alabama,12/1/2016,762
+Alabama,11/1/2016,740
+Alabama,10/1/2016,726
+Alabama,9/1/2016,715
+Alabama,8/1/2016,705
+Alabama,7/1/2016,702
+Alabama,6/1/2016,693
+Alabama,5/1/2016,674
+Alabama,4/1/2016,697
+Alabama,3/1/2016,702
+Alabama,2/1/2016,732
+Alabama,1/1/2016,730
+Alabama,12/1/2015,745
+Alabama,11/1/2015,748
+Alabama,10/1/2015,755
+Alabama,9/1/2015,771
+Alabama,8/1/2015,763
+Alabama,7/1/2015,770
+Alabama,6/1/2015,785
+Alabama,5/1/2015,782
+Alabama,4/1/2015,764
+Alabama,3/1/2015,758
+Alabama,2/1/2015,749
+Alabama,1/1/2015,742
+Alaska,5/1/2020,129
+Alaska,4/1/2020,121
+Alaska,3/1/2020,118
+Alaska,2/1/2020,125
+Alaska,1/1/2020,134
+Alaska,12/1/2019,133
+Alaska,11/1/2019,139
+Alaska,10/1/2019,146
+Alaska,9/1/2019,136
+Alaska,8/1/2019,130
+Alaska,7/1/2019,135
+Alaska,6/1/2019,132
+Alaska,5/1/2019,128
+Alaska,4/1/2019,119
+Alaska,3/1/2019,124
+Alaska,2/1/2019,115
+Alaska,1/1/2019,107
+Alaska,12/1/2018,105
+Alaska,11/1/2018,106
+Alaska,10/1/2018,99
+Alaska,9/1/2018,100
+Alaska,8/1/2018,110
+Alaska,7/1/2018,116
+Alaska,6/1/2018,125
+Alaska,5/1/2018,126
+Alaska,4/1/2018,142
+Alaska,3/1/2018,136
+Alaska,2/1/2018,139
+Alaska,1/1/2018,138
+Alaska,12/1/2017,141
+Alaska,11/1/2017,138
+Alaska,10/1/2017,144
+Alaska,9/1/2017,148
+Alaska,8/1/2017,138
+Alaska,7/1/2017,129
+Alaska,6/1/2017,123
+Alaska,5/1/2017,121
+Alaska,4/1/2017,118
+Alaska,3/1/2017,127
+Alaska,2/1/2017,125
+Alaska,1/1/2017,127
+Alaska,12/1/2016,130
+Alaska,11/1/2016,134
+Alaska,10/1/2016,132
+Alaska,9/1/2016,132
+Alaska,8/1/2016,138
+Alaska,7/1/2016,143
+Alaska,6/1/2016,138
+Alaska,5/1/2016,140
+Alaska,4/1/2016,132
+Alaska,3/1/2016,125
+Alaska,2/1/2016,128
+Alaska,1/1/2016,126
+Alaska,12/1/2015,121
+Alaska,11/1/2015,115
+Alaska,10/1/2015,120
+Alaska,9/1/2015,125
+Alaska,8/1/2015,124
+Alaska,7/1/2015,117
+Alaska,6/1/2015,121
+Alaska,5/1/2015,125
+Alaska,4/1/2015,126
+Alaska,3/1/2015,125
+Alaska,2/1/2015,127
+Alaska,1/1/2015,126
+Arizona,5/1/2020,2240
+Arizona,4/1/2020,2158
+Arizona,3/1/2020,2113
+Arizona,2/1/2020,2070
+Arizona,1/1/2020,2026
+Arizona,12/1/2019,1982
+Arizona,11/1/2019,1960
+Arizona,10/1/2019,1960
+Arizona,9/1/2019,1913
+Arizona,8/1/2019,1846
+Arizona,7/1/2019,1832
+Arizona,6/1/2019,1797
+Arizona,5/1/2019,1805
+Arizona,4/1/2019,1788
+Arizona,3/1/2019,1784
+Arizona,2/1/2019,1762
+Arizona,1/1/2019,1733
+Arizona,12/1/2018,1748
+Arizona,11/1/2018,1724
+Arizona,10/1/2018,1694
+Arizona,9/1/2018,1698
+Arizona,8/1/2018,1702
+Arizona,7/1/2018,1681
+Arizona,6/1/2018,1638
+Arizona,5/1/2018,1643
+Arizona,4/1/2018,1649
+Arizona,3/1/2018,1633
+Arizona,2/1/2018,1623
+Arizona,1/1/2018,1611
+Arizona,12/1/2017,1597
+Arizona,11/1/2017,1579
+Arizona,10/1/2017,1572
+Arizona,9/1/2017,1576
+Arizona,8/1/2017,1554
+Arizona,7/1/2017,1539
+Arizona,6/1/2017,1553
+Arizona,5/1/2017,1540
+Arizona,4/1/2017,1524
+Arizona,3/1/2017,1538
+Arizona,2/1/2017,1518
+Arizona,1/1/2017,1523
+Arizona,12/1/2016,1498
+Arizona,11/1/2016,1483
+Arizona,10/1/2016,1481
+Arizona,9/1/2016,1467
+Arizona,8/1/2016,1469
+Arizona,7/1/2016,1473
+Arizona,6/1/2016,1408
+Arizona,5/1/2016,1377
+Arizona,4/1/2016,1357
+Arizona,3/1/2016,1332
+Arizona,2/1/2016,1324
+Arizona,1/1/2016,1318
+Arizona,12/1/2015,1292
+Arizona,11/1/2015,1298
+Arizona,10/1/2015,1297
+Arizona,9/1/2015,1277
+Arizona,8/1/2015,1279
+Arizona,7/1/2015,1244
+Arizona,6/1/2015,1254
+Arizona,5/1/2015,1228
+Arizona,4/1/2015,1218
+Arizona,3/1/2015,1219
+Arizona,2/1/2015,1221
+Arizona,1/1/2015,1236
+Arkansas,5/1/2020,417
+Arkansas,4/1/2020,404
+Arkansas,3/1/2020,386
+Arkansas,2/1/2020,370
+Arkansas,1/1/2020,367
+Arkansas,12/1/2019,362
+Arkansas,11/1/2019,364
+Arkansas,10/1/2019,359
+Arkansas,9/1/2019,356
+Arkansas,8/1/2019,357
+Arkansas,7/1/2019,383
+Arkansas,6/1/2019,397
+Arkansas,5/1/2019,414
+Arkansas,4/1/2019,436
+Arkansas,3/1/2019,440
+Arkansas,2/1/2019,452
+Arkansas,1/1/2019,439
+Arkansas,12/1/2018,435
+Arkansas,11/1/2018,447
+Arkansas,10/1/2018,458
+Arkansas,9/1/2018,449
+Arkansas,8/1/2018,456
+Arkansas,7/1/2018,452
+Arkansas,6/1/2018,448
+Arkansas,5/1/2018,444
+Arkansas,4/1/2018,426
+Arkansas,3/1/2018,431
+Arkansas,2/1/2018,425
+Arkansas,1/1/2018,428
+Arkansas,12/1/2017,426
+Arkansas,11/1/2017,413
+Arkansas,10/1/2017,412
+Arkansas,9/1/2017,415
+Arkansas,8/1/2017,408
+Arkansas,7/1/2017,397
+Arkansas,6/1/2017,400
+Arkansas,5/1/2017,385
+Arkansas,4/1/2017,388
+Arkansas,3/1/2017,386
+Arkansas,2/1/2017,383
+Arkansas,1/1/2017,386
+Arkansas,12/1/2016,388
+Arkansas,11/1/2016,380
+Arkansas,10/1/2016,374
+Arkansas,9/1/2016,381
+Arkansas,8/1/2016,385
+Arkansas,7/1/2016,380
+Arkansas,6/1/2016,371
+Arkansas,5/1/2016,378
+Arkansas,4/1/2016,374
+Arkansas,3/1/2016,365
+Arkansas,2/1/2016,381
+Arkansas,1/1/2016,380
+Arkansas,12/1/2015,383
+Arkansas,11/1/2015,391
+Arkansas,10/1/2015,398
+Arkansas,9/1/2015,394
+Arkansas,8/1/2015,399
+Arkansas,7/1/2015,396
+Arkansas,6/1/2015,392
+Arkansas,5/1/2015,384
+Arkansas,4/1/2015,374
+Arkansas,3/1/2015,386
+Arkansas,2/1/2015,367
+Arkansas,1/1/2015,367
+California,5/1/2020,7425
+California,4/1/2020,7154
+California,3/1/2020,6939
+California,2/1/2020,6753
+California,1/1/2020,6590
+California,12/1/2019,6510
+California,11/1/2019,6445
+California,10/1/2019,6305
+California,9/1/2019,6251
+California,8/1/2019,6204
+California,7/1/2019,6103
+California,6/1/2019,6031
+California,5/1/2019,5953
+California,4/1/2019,5848
+California,3/1/2019,5771
+California,2/1/2019,5686
+California,1/1/2019,5622
+California,12/1/2018,5626
+California,11/1/2018,5540
+California,10/1/2018,5509
+California,9/1/2018,5487
+California,8/1/2018,5444
+California,7/1/2018,5370
+California,6/1/2018,5357
+California,5/1/2018,5335
+California,4/1/2018,5372
+California,3/1/2018,5370
+California,2/1/2018,5352
+California,1/1/2018,5270
+California,12/1/2017,5211
+California,11/1/2017,5250
+California,10/1/2017,5272
+California,9/1/2017,5167
+California,8/1/2017,5093
+California,7/1/2017,5064
+California,6/1/2017,5001
+California,5/1/2017,4950
+California,4/1/2017,4903
+California,3/1/2017,4912
+California,2/1/2017,4916
+California,1/1/2017,4965
+California,12/1/2016,4948
+California,11/1/2016,4918
+California,10/1/2016,4881
+California,9/1/2016,4942
+California,8/1/2016,5021
+California,7/1/2016,5041
+California,6/1/2016,5062
+California,5/1/2016,5024
+California,4/1/2016,4998
+California,3/1/2016,4966
+California,2/1/2016,4938
+California,1/1/2016,4935
+California,12/1/2015,4951
+California,11/1/2015,4906
+California,10/1/2015,4926
+California,9/1/2015,4874
+California,8/1/2015,4782
+California,7/1/2015,4734
+California,6/1/2015,4707
+California,5/1/2015,4708
+California,4/1/2015,4730
+California,3/1/2015,4714
+California,2/1/2015,4725
+California,1/1/2015,4716
+Colorado,5/1/2020,1296
+Colorado,4/1/2020,1230
+Colorado,3/1/2020,1174
+Colorado,2/1/2020,1130
+Colorado,1/1/2020,1119
+Colorado,12/1/2019,1100
+Colorado,11/1/2019,1072
+Colorado,10/1/2019,1054
+Colorado,9/1/2019,1038
+Colorado,8/1/2019,1019
+Colorado,7/1/2019,1009
+Colorado,6/1/2019,1008
+Colorado,5/1/2019,994
+Colorado,4/1/2019,995
+Colorado,3/1/2019,990
+Colorado,2/1/2019,999
+Colorado,1/1/2019,992
+Colorado,12/1/2018,1004
+Colorado,11/1/2018,991
+Colorado,10/1/2018,1018
+Colorado,9/1/2018,1017
+Colorado,8/1/2018,1027
+Colorado,7/1/2018,1035
+Colorado,6/1/2018,1035
+Colorado,5/1/2018,1058
+Colorado,4/1/2018,1048
+Colorado,3/1/2018,1068
+Colorado,2/1/2018,1053
+Colorado,1/1/2018,1048
+Colorado,12/1/2017,1040
+Colorado,11/1/2017,1046
+Colorado,10/1/2017,1027
+Colorado,9/1/2017,1024
+Colorado,8/1/2017,1019
+Colorado,7/1/2017,1014
+Colorado,6/1/2017,997
+Colorado,5/1/2017,983
+Colorado,4/1/2017,989
+Colorado,3/1/2017,964
+Colorado,2/1/2017,967
+Colorado,1/1/2017,977
+Colorado,12/1/2016,965
+Colorado,11/1/2016,952
+Colorado,10/1/2016,948
+Colorado,9/1/2016,933
+Colorado,8/1/2016,934
+Colorado,7/1/2016,928
+Colorado,6/1/2016,935
+Colorado,5/1/2016,916
+Colorado,4/1/2016,895
+Colorado,3/1/2016,909
+Colorado,2/1/2016,913
+Colorado,1/1/2016,914
+Colorado,12/1/2015,914
+Colorado,11/1/2015,909
+Colorado,10/1/2015,916
+Colorado,9/1/2015,918
+Colorado,8/1/2015,928
+Colorado,7/1/2015,918
+Colorado,6/1/2015,921
+Colorado,5/1/2015,927
+Colorado,4/1/2015,950
+Colorado,3/1/2015,939
+Colorado,2/1/2015,932
+Colorado,1/1/2015,923
+Connecticut,5/1/2020,1363
+Connecticut,4/1/2020,1348
+Connecticut,3/1/2020,1305
+Connecticut,2/1/2020,1284
+Connecticut,1/1/2020,1267
+Connecticut,12/1/2019,1247
+Connecticut,11/1/2019,1204
+Connecticut,10/1/2019,1198
+Connecticut,9/1/2019,1192
+Connecticut,8/1/2019,1192
+Connecticut,7/1/2019,1137
+Connecticut,6/1/2019,1107
+Connecticut,5/1/2019,1098
+Connecticut,4/1/2019,1085
+Connecticut,3/1/2019,1079
+Connecticut,2/1/2019,1081
+Connecticut,1/1/2019,1087
+Connecticut,12/1/2018,1070
+Connecticut,11/1/2018,1097
+Connecticut,10/1/2018,1081
+Connecticut,9/1/2018,1083
+Connecticut,8/1/2018,1063
+Connecticut,7/1/2018,1066
+Connecticut,6/1/2018,1069
+Connecticut,5/1/2018,1052
+Connecticut,4/1/2018,1065
+Connecticut,3/1/2018,1065
+Connecticut,2/1/2018,1058
+Connecticut,1/1/2018,1053
+Connecticut,12/1/2017,1080
+Connecticut,11/1/2017,1066
+Connecticut,10/1/2017,1092
+Connecticut,9/1/2017,1083
+Connecticut,8/1/2017,1081
+Connecticut,7/1/2017,1074
+Connecticut,6/1/2017,1056
+Connecticut,5/1/2017,1046
+Connecticut,4/1/2017,1018
+Connecticut,3/1/2017,1019
+Connecticut,2/1/2017,994
+Connecticut,1/1/2017,985
+Connecticut,12/1/2016,974
+Connecticut,11/1/2016,939
+Connecticut,10/1/2016,918
+Connecticut,9/1/2016,929
+Connecticut,8/1/2016,928
+Connecticut,7/1/2016,906
+Connecticut,6/1/2016,909
+Connecticut,5/1/2016,895
+Connecticut,4/1/2016,869
+Connecticut,3/1/2016,849
+Connecticut,2/1/2016,836
+Connecticut,1/1/2016,824
+Connecticut,12/1/2015,799
+Connecticut,11/1/2015,800
+Connecticut,10/1/2015,779
+Connecticut,9/1/2015,748
+Connecticut,8/1/2015,728
+Connecticut,7/1/2015,722
+Connecticut,6/1/2015,670
+Connecticut,5/1/2015,652
+Connecticut,4/1/2015,650
+Connecticut,3/1/2015,639
+Connecticut,2/1/2015,633
+Connecticut,1/1/2015,631
+Delaware,5/1/2020,478
+Delaware,4/1/2020,469
+Delaware,3/1/2020,461
+Delaware,2/1/2020,453
+Delaware,1/1/2020,431
+Delaware,12/1/2019,425
+Delaware,11/1/2019,402
+Delaware,10/1/2019,409
+Delaware,9/1/2019,418
+Delaware,8/1/2019,423
+Delaware,7/1/2019,428
+Delaware,6/1/2019,418
+Delaware,5/1/2019,404
+Delaware,4/1/2019,392
+Delaware,3/1/2019,394
+Delaware,2/1/2019,401
+Delaware,1/1/2019,403
+Delaware,12/1/2018,399
+Delaware,11/1/2018,405
+Delaware,10/1/2018,406
+Delaware,9/1/2018,393
+Delaware,8/1/2018,381
+Delaware,7/1/2018,363
+Delaware,6/1/2018,367
+Delaware,5/1/2018,366
+Delaware,4/1/2018,360
+Delaware,3/1/2018,354
+Delaware,2/1/2018,338
+Delaware,1/1/2018,330
+Delaware,12/1/2017,341
+Delaware,11/1/2017,345
+Delaware,10/1/2017,338
+Delaware,9/1/2017,329
+Delaware,8/1/2017,326
+Delaware,7/1/2017,320
+Delaware,6/1/2017,313
+Delaware,5/1/2017,310
+Delaware,4/1/2017,313
+Delaware,3/1/2017,312
+Delaware,2/1/2017,309
+Delaware,1/1/2017,310
+Delaware,12/1/2016,285
+Delaware,11/1/2016,268
+Delaware,10/1/2016,254
+Delaware,9/1/2016,245
+Delaware,8/1/2016,245
+Delaware,7/1/2016,233
+Delaware,6/1/2016,221
+Delaware,5/1/2016,216
+Delaware,4/1/2016,199
+Delaware,3/1/2016,188
+Delaware,2/1/2016,189
+Delaware,1/1/2016,181
+Delaware,12/1/2015,195
+Delaware,11/1/2015,194
+Delaware,10/1/2015,187
+Delaware,9/1/2015,201
+Delaware,8/1/2015,192
+Delaware,7/1/2015,202
+Delaware,6/1/2015,199
+Delaware,5/1/2015,195
+Delaware,4/1/2015,200
+Delaware,3/1/2015,208
+Delaware,2/1/2015,208
+Delaware,1/1/2015,210
+District of Columbia,5/1/2020,474
+District of Columbia,4/1/2020,452
+District of Columbia,3/1/2020,418
+District of Columbia,2/1/2020,401
+District of Columbia,1/1/2020,391
+District of Columbia,12/1/2019,367
+District of Columbia,11/1/2019,345
+District of Columbia,10/1/2019,335
+District of Columbia,9/1/2019,324
+District of Columbia,8/1/2019,318
+District of Columbia,7/1/2019,308
+District of Columbia,6/1/2019,306
+District of Columbia,5/1/2019,296
+District of Columbia,4/1/2019,293
+District of Columbia,3/1/2019,305
+District of Columbia,2/1/2019,306
+District of Columbia,1/1/2019,300
+District of Columbia,12/1/2018,295
+District of Columbia,11/1/2018,303
+District of Columbia,10/1/2018,300
+District of Columbia,9/1/2018,294
+District of Columbia,8/1/2018,291
+District of Columbia,7/1/2018,291
+District of Columbia,6/1/2018,285
+District of Columbia,5/1/2018,292
+District of Columbia,4/1/2018,302
+District of Columbia,3/1/2018,305
+District of Columbia,2/1/2018,324
+District of Columbia,1/1/2018,332
+District of Columbia,12/1/2017,348
+District of Columbia,11/1/2017,346
+District of Columbia,10/1/2017,371
+District of Columbia,9/1/2017,380
+District of Columbia,8/1/2017,377
+District of Columbia,7/1/2017,383
+District of Columbia,6/1/2017,384
+District of Columbia,5/1/2017,380
+District of Columbia,4/1/2017,375
+District of Columbia,3/1/2017,357
+District of Columbia,2/1/2017,342
+District of Columbia,1/1/2017,326
+District of Columbia,12/1/2016,300
+District of Columbia,11/1/2016,289
+District of Columbia,10/1/2016,259
+District of Columbia,9/1/2016,248
+District of Columbia,8/1/2016,240
+District of Columbia,7/1/2016,220
+District of Columbia,6/1/2016,209
+District of Columbia,5/1/2016,199
+District of Columbia,4/1/2016,175
+District of Columbia,3/1/2016,163
+District of Columbia,2/1/2016,148
+District of Columbia,1/1/2016,148
+District of Columbia,12/1/2015,146
+District of Columbia,11/1/2015,137
+District of Columbia,10/1/2015,128
+District of Columbia,9/1/2015,124
+District of Columbia,8/1/2015,117
+District of Columbia,7/1/2015,116
+District of Columbia,6/1/2015,121
+District of Columbia,5/1/2015,120
+District of Columbia,4/1/2015,115
+District of Columbia,3/1/2015,116
+District of Columbia,2/1/2015,114
+District of Columbia,1/1/2015,114
+Florida,5/1/2020,6652
+Florida,4/1/2020,6254
+Florida,3/1/2020,6018
+Florida,2/1/2020,5777
+Florida,1/1/2020,5635
+Florida,12/1/2019,5524
+Florida,11/1/2019,5482
+Florida,10/1/2019,5415
+Florida,9/1/2019,5264
+Florida,8/1/2019,5172
+Florida,7/1/2019,5114
+Florida,6/1/2019,5054
+Florida,5/1/2019,4972
+Florida,4/1/2019,4998
+Florida,3/1/2019,4974
+Florida,2/1/2019,4937
+Florida,1/1/2019,4921
+Florida,12/1/2018,4943
+Florida,11/1/2018,4978
+Florida,10/1/2018,4966
+Florida,9/1/2018,5022
+Florida,8/1/2018,5080
+Florida,7/1/2018,5160
+Florida,6/1/2018,5155
+Florida,5/1/2018,5255
+Florida,4/1/2018,5292
+Florida,3/1/2018,5311
+Florida,2/1/2018,5437
+Florida,1/1/2018,5469
+Florida,12/1/2017,5457
+Florida,11/1/2017,5424
+Florida,10/1/2017,5481
+Florida,9/1/2017,5595
+Florida,8/1/2017,5627
+Florida,7/1/2017,5602
+Florida,6/1/2017,5678
+Florida,5/1/2017,5538
+Florida,4/1/2017,5389
+Florida,3/1/2017,5291
+Florida,2/1/2017,5235
+Florida,1/1/2017,5184
+Florida,12/1/2016,5002
+Florida,11/1/2016,4846
+Florida,10/1/2016,4589
+Florida,9/1/2016,4287
+Florida,8/1/2016,4098
+Florida,7/1/2016,3978
+Florida,6/1/2016,3847
+Florida,5/1/2016,3761
+Florida,4/1/2016,3705
+Florida,3/1/2016,3597
+Florida,2/1/2016,3401
+Florida,1/1/2016,3324
+Florida,12/1/2015,3352
+Florida,11/1/2015,3340
+Florida,10/1/2015,3341
+Florida,9/1/2015,3270
+Florida,8/1/2015,3204
+Florida,7/1/2015,3117
+Florida,6/1/2015,2983
+Florida,5/1/2015,2958
+Florida,4/1/2015,2886
+Florida,3/1/2015,2862
+Florida,2/1/2015,2824
+Florida,1/1/2015,2755
+Georgia,5/1/2020,1567
+Georgia,4/1/2020,1517
+Georgia,3/1/2020,1454
+Georgia,2/1/2020,1434
+Georgia,1/1/2020,1391
+Georgia,12/1/2019,1385
+Georgia,11/1/2019,1391
+Georgia,10/1/2019,1389
+Georgia,9/1/2019,1392
+Georgia,8/1/2019,1394
+Georgia,7/1/2019,1365
+Georgia,6/1/2019,1371
+Georgia,5/1/2019,1392
+Georgia,4/1/2019,1385
+Georgia,3/1/2019,1382
+Georgia,2/1/2019,1389
+Georgia,1/1/2019,1386
+Georgia,12/1/2018,1384
+Georgia,11/1/2018,1406
+Georgia,10/1/2018,1429
+Georgia,9/1/2018,1466
+Georgia,8/1/2018,1450
+Georgia,7/1/2018,1449
+Georgia,6/1/2018,1444
+Georgia,5/1/2018,1448
+Georgia,4/1/2018,1444
+Georgia,3/1/2018,1476
+Georgia,2/1/2018,1468
+Georgia,1/1/2018,1487
+Georgia,12/1/2017,1525
+Georgia,11/1/2017,1515
+Georgia,10/1/2017,1530
+Georgia,9/1/2017,1509
+Georgia,8/1/2017,1511
+Georgia,7/1/2017,1502
+Georgia,6/1/2017,1493
+Georgia,5/1/2017,1492
+Georgia,4/1/2017,1475
+Georgia,3/1/2017,1443
+Georgia,2/1/2017,1425
+Georgia,1/1/2017,1406
+Georgia,12/1/2016,1378
+Georgia,11/1/2016,1351
+Georgia,10/1/2016,1304
+Georgia,9/1/2016,1296
+Georgia,8/1/2016,1281
+Georgia,7/1/2016,1276
+Georgia,6/1/2016,1285
+Georgia,5/1/2016,1273
+Georgia,4/1/2016,1296
+Georgia,3/1/2016,1284
+Georgia,2/1/2016,1283
+Georgia,1/1/2016,1306
+Georgia,12/1/2015,1315
+Georgia,11/1/2015,1322
+Georgia,10/1/2015,1345
+Georgia,9/1/2015,1321
+Georgia,8/1/2015,1334
+Georgia,7/1/2015,1339
+Georgia,6/1/2015,1320
+Georgia,5/1/2015,1299
+Georgia,4/1/2015,1280
+Georgia,3/1/2015,1265
+Georgia,2/1/2015,1244
+Georgia,1/1/2015,1214
+Hawaii,5/1/2020,269
+Hawaii,4/1/2020,251
+Hawaii,3/1/2020,249
+Hawaii,2/1/2020,242
+Hawaii,1/1/2020,249
+Hawaii,12/1/2019,262
+Hawaii,11/1/2019,261
+Hawaii,10/1/2019,264
+Hawaii,9/1/2019,249
+Hawaii,8/1/2019,247
+Hawaii,7/1/2019,235
+Hawaii,6/1/2019,235
+Hawaii,5/1/2019,228
+Hawaii,4/1/2019,228
+Hawaii,3/1/2019,231
+Hawaii,2/1/2019,228
+Hawaii,1/1/2019,225
+Hawaii,12/1/2018,214
+Hawaii,11/1/2018,214
+Hawaii,10/1/2018,213
+Hawaii,9/1/2018,219
+Hawaii,8/1/2018,217
+Hawaii,7/1/2018,222
+Hawaii,6/1/2018,222
+Hawaii,5/1/2018,216
+Hawaii,4/1/2018,233
+Hawaii,3/1/2018,221
+Hawaii,2/1/2018,213
+Hawaii,1/1/2018,202
+Hawaii,12/1/2017,202
+Hawaii,11/1/2017,202
+Hawaii,10/1/2017,202
+Hawaii,9/1/2017,199
+Hawaii,8/1/2017,192
+Hawaii,7/1/2017,198
+Hawaii,6/1/2017,193
+Hawaii,5/1/2017,196
+Hawaii,4/1/2017,187
+Hawaii,3/1/2017,189
+Hawaii,2/1/2017,197
+Hawaii,1/1/2017,211
+Hawaii,12/1/2016,207
+Hawaii,11/1/2016,201
+Hawaii,10/1/2016,198
+Hawaii,9/1/2016,198
+Hawaii,8/1/2016,207
+Hawaii,7/1/2016,196
+Hawaii,6/1/2016,196
+Hawaii,5/1/2016,191
+Hawaii,4/1/2016,191
+Hawaii,3/1/2016,187
+Hawaii,2/1/2016,181
+Hawaii,1/1/2016,174
+Hawaii,12/1/2015,171
+Hawaii,11/1/2015,165
+Hawaii,10/1/2015,156
+Hawaii,9/1/2015,153
+Hawaii,8/1/2015,149
+Hawaii,7/1/2015,147
+Hawaii,6/1/2015,147
+Hawaii,5/1/2015,163
+Hawaii,4/1/2015,157
+Hawaii,3/1/2015,158
+Hawaii,2/1/2015,161
+Hawaii,1/1/2015,157
+Idaho,5/1/2020,258
+Idaho,4/1/2020,248
+Idaho,3/1/2020,249
+Idaho,2/1/2020,257
+Idaho,1/1/2020,263
+Idaho,12/1/2019,264
+Idaho,11/1/2019,264
+Idaho,10/1/2019,254
+Idaho,9/1/2019,248
+Idaho,8/1/2019,239
+Idaho,7/1/2019,244
+Idaho,6/1/2019,262
+Idaho,5/1/2019,258
+Idaho,4/1/2019,261
+Idaho,3/1/2019,266
+Idaho,2/1/2019,260
+Idaho,1/1/2019,249
+Idaho,12/1/2018,243
+Idaho,11/1/2018,234
+Idaho,10/1/2018,231
+Idaho,9/1/2018,238
+Idaho,8/1/2018,244
+Idaho,7/1/2018,247
+Idaho,6/1/2018,235
+Idaho,5/1/2018,223
+Idaho,4/1/2018,227
+Idaho,3/1/2018,225
+Idaho,2/1/2018,223
+Idaho,1/1/2018,228
+Idaho,12/1/2017,234
+Idaho,11/1/2017,233
+Idaho,10/1/2017,237
+Idaho,9/1/2017,241
+Idaho,8/1/2017,236
+Idaho,7/1/2017,235
+Idaho,6/1/2017,232
+Idaho,5/1/2017,242
+Idaho,4/1/2017,236
+Idaho,3/1/2017,232
+Idaho,2/1/2017,233
+Idaho,1/1/2017,227
+Idaho,12/1/2016,229
+Idaho,11/1/2016,236
+Idaho,10/1/2016,230
+Idaho,9/1/2016,219
+Idaho,8/1/2016,218
+Idaho,7/1/2016,219
+Idaho,6/1/2016,217
+Idaho,5/1/2016,212
+Idaho,4/1/2016,209
+Idaho,3/1/2016,212
+Idaho,2/1/2016,215
+Idaho,1/1/2016,214
+Idaho,12/1/2015,214
+Idaho,11/1/2015,209
+Idaho,10/1/2015,215
+Idaho,9/1/2015,214
+Idaho,8/1/2015,218
+Idaho,7/1/2015,220
+Idaho,6/1/2015,217
+Idaho,5/1/2015,213
+Idaho,4/1/2015,219
+Idaho,3/1/2015,216
+Idaho,2/1/2015,206
+Idaho,1/1/2015,209
+Illinois,5/1/2020,3355
+Illinois,4/1/2020,3209
+Illinois,3/1/2020,3064
+Illinois,2/1/2020,2971
+Illinois,1/1/2020,2859
+Illinois,12/1/2019,2799
+Illinois,11/1/2019,2749
+Illinois,10/1/2019,2691
+Illinois,9/1/2019,2714
+Illinois,8/1/2019,2686
+Illinois,7/1/2019,2633
+Illinois,6/1/2019,2657
+Illinois,5/1/2019,2648
+Illinois,4/1/2019,2607
+Illinois,3/1/2019,2643
+Illinois,2/1/2019,2662
+Illinois,1/1/2019,2687
+Illinois,12/1/2018,2744
+Illinois,11/1/2018,2733
+Illinois,10/1/2018,2794
+Illinois,9/1/2018,2780
+Illinois,8/1/2018,2846
+Illinois,7/1/2018,2887
+Illinois,6/1/2018,2861
+Illinois,5/1/2018,2853
+Illinois,4/1/2018,2800
+Illinois,3/1/2018,2766
+Illinois,2/1/2018,2745
+Illinois,1/1/2018,2759
+Illinois,12/1/2017,2765
+Illinois,11/1/2017,2781
+Illinois,10/1/2017,2714
+Illinois,9/1/2017,2650
+Illinois,8/1/2017,2560
+Illinois,7/1/2017,2486
+Illinois,6/1/2017,2462
+Illinois,5/1/2017,2473
+Illinois,4/1/2017,2513
+Illinois,3/1/2017,2543
+Illinois,2/1/2017,2553
+Illinois,1/1/2017,2524
+Illinois,12/1/2016,2427
+Illinois,11/1/2016,2333
+Illinois,10/1/2016,2297
+Illinois,9/1/2016,2319
+Illinois,8/1/2016,2275
+Illinois,7/1/2016,2261
+Illinois,6/1/2016,2213
+Illinois,5/1/2016,2129
+Illinois,4/1/2016,2097
+Illinois,3/1/2016,2025
+Illinois,2/1/2016,1958
+Illinois,1/1/2016,1893
+Illinois,12/1/2015,1864
+Illinois,11/1/2015,1860
+Illinois,10/1/2015,1847
+Illinois,9/1/2015,1813
+Illinois,8/1/2015,1793
+Illinois,7/1/2015,1761
+Illinois,6/1/2015,1766
+Illinois,5/1/2015,1782
+Illinois,4/1/2015,1735
+Illinois,3/1/2015,1688
+Illinois,2/1/2015,1657
+Illinois,1/1/2015,1652
+Indiana,5/1/2020,1968
+Indiana,4/1/2020,1875
+Indiana,3/1/2020,1797
+Indiana,2/1/2020,1792
+Indiana,1/1/2020,1752
+Indiana,12/1/2019,1703
+Indiana,11/1/2019,1679
+Indiana,10/1/2019,1660
+Indiana,9/1/2019,1636
+Indiana,8/1/2019,1627
+Indiana,7/1/2019,1622
+Indiana,6/1/2019,1609
+Indiana,5/1/2019,1611
+Indiana,4/1/2019,1597
+Indiana,3/1/2019,1609
+Indiana,2/1/2019,1591
+Indiana,1/1/2019,1591
+Indiana,12/1/2018,1612
+Indiana,11/1/2018,1605
+Indiana,10/1/2018,1639
+Indiana,9/1/2018,1649
+Indiana,8/1/2018,1680
+Indiana,7/1/2018,1679
+Indiana,6/1/2018,1696
+Indiana,5/1/2018,1699
+Indiana,4/1/2018,1716
+Indiana,3/1/2018,1736
+Indiana,2/1/2018,1757
+Indiana,1/1/2018,1808
+Indiana,12/1/2017,1835
+Indiana,11/1/2017,1861
+Indiana,10/1/2017,1842
+Indiana,9/1/2017,1802
+Indiana,8/1/2017,1762
+Indiana,7/1/2017,1777
+Indiana,6/1/2017,1720
+Indiana,5/1/2017,1721
+Indiana,4/1/2017,1700
+Indiana,3/1/2017,1664
+Indiana,2/1/2017,1629
+Indiana,1/1/2017,1576
+Indiana,12/1/2016,1506
+Indiana,11/1/2016,1469
+Indiana,10/1/2016,1441
+Indiana,9/1/2016,1434
+Indiana,8/1/2016,1421
+Indiana,7/1/2016,1383
+Indiana,6/1/2016,1354
+Indiana,5/1/2016,1321
+Indiana,4/1/2016,1285
+Indiana,3/1/2016,1264
+Indiana,2/1/2016,1259
+Indiana,1/1/2016,1228
+Indiana,12/1/2015,1232
+Indiana,11/1/2015,1218
+Indiana,10/1/2015,1205
+Indiana,9/1/2015,1210
+Indiana,8/1/2015,1221
+Indiana,7/1/2015,1207
+Indiana,6/1/2015,1217
+Indiana,5/1/2015,1203
+Indiana,4/1/2015,1208
+Indiana,3/1/2015,1193
+Indiana,2/1/2015,1151
+Indiana,1/1/2015,1162
+Iowa,5/1/2020,397
+Iowa,4/1/2020,388
+Iowa,3/1/2020,374
+Iowa,2/1/2020,363
+Iowa,1/1/2020,346
+Iowa,12/1/2019,350
+Iowa,11/1/2019,336
+Iowa,10/1/2019,322
+Iowa,9/1/2019,316
+Iowa,8/1/2019,306
+Iowa,7/1/2019,297
+Iowa,6/1/2019,283
+Iowa,5/1/2019,287
+Iowa,4/1/2019,286
+Iowa,3/1/2019,277
+Iowa,2/1/2019,277
+Iowa,1/1/2019,278
+Iowa,12/1/2018,277
+Iowa,11/1/2018,280
+Iowa,10/1/2018,289
+Iowa,9/1/2018,299
+Iowa,8/1/2018,294
+Iowa,7/1/2018,305
+Iowa,6/1/2018,307
+Iowa,5/1/2018,312
+Iowa,4/1/2018,325
+Iowa,3/1/2018,326
+Iowa,2/1/2018,331
+Iowa,1/1/2018,336
+Iowa,12/1/2017,341
+Iowa,11/1/2017,340
+Iowa,10/1/2017,338
+Iowa,9/1/2017,334
+Iowa,8/1/2017,338
+Iowa,7/1/2017,334
+Iowa,6/1/2017,332
+Iowa,5/1/2017,322
+Iowa,4/1/2017,319
+Iowa,3/1/2017,330
+Iowa,2/1/2017,330
+Iowa,1/1/2017,325
+Iowa,12/1/2016,314
+Iowa,11/1/2016,319
+Iowa,10/1/2016,313
+Iowa,9/1/2016,306
+Iowa,8/1/2016,309
+Iowa,7/1/2016,304
+Iowa,6/1/2016,310
+Iowa,5/1/2016,318
+Iowa,4/1/2016,316
+Iowa,3/1/2016,309
+Iowa,2/1/2016,304
+Iowa,1/1/2016,303
+Iowa,12/1/2015,300
+Iowa,11/1/2015,308
+Iowa,10/1/2015,307
+Iowa,9/1/2015,311
+Iowa,8/1/2015,296
+Iowa,7/1/2015,298
+Iowa,6/1/2015,289
+Iowa,5/1/2015,277
+Iowa,4/1/2015,265
+Iowa,3/1/2015,272
+Iowa,2/1/2015,274
+Iowa,1/1/2015,274
+Kansas,5/1/2020,389
+Kansas,4/1/2020,381
+Kansas,3/1/2020,385
+Kansas,2/1/2020,382
+Kansas,1/1/2020,387
+Kansas,12/1/2019,380
+Kansas,11/1/2019,378
+Kansas,10/1/2019,366
+Kansas,9/1/2019,376
+Kansas,8/1/2019,372
+Kansas,7/1/2019,376
+Kansas,6/1/2019,374
+Kansas,5/1/2019,371
+Kansas,4/1/2019,368
+Kansas,3/1/2019,363
+Kansas,2/1/2019,361
+Kansas,1/1/2019,348
+Kansas,12/1/2018,341
+Kansas,11/1/2018,350
+Kansas,10/1/2018,347
+Kansas,9/1/2018,354
+Kansas,8/1/2018,354
+Kansas,7/1/2018,344
+Kansas,6/1/2018,347
+Kansas,5/1/2018,332
+Kansas,4/1/2018,323
+Kansas,3/1/2018,319
+Kansas,2/1/2018,317
+Kansas,1/1/2018,319
+Kansas,12/1/2017,324
+Kansas,11/1/2017,314
+Kansas,10/1/2017,317
+Kansas,9/1/2017,304
+Kansas,8/1/2017,298
+Kansas,7/1/2017,311
+Kansas,6/1/2017,302
+Kansas,5/1/2017,318
+Kansas,4/1/2017,318
+Kansas,3/1/2017,324
+Kansas,2/1/2017,325
+Kansas,1/1/2017,328
+Kansas,12/1/2016,314
+Kansas,11/1/2016,316
+Kansas,10/1/2016,313
+Kansas,9/1/2016,316
+Kansas,8/1/2016,321
+Kansas,7/1/2016,322
+Kansas,6/1/2016,320
+Kansas,5/1/2016,306
+Kansas,4/1/2016,313
+Kansas,3/1/2016,314
+Kansas,2/1/2016,318
+Kansas,1/1/2016,314
+Kansas,12/1/2015,324
+Kansas,11/1/2015,329
+Kansas,10/1/2015,334
+Kansas,9/1/2015,334
+Kansas,8/1/2015,337
+Kansas,7/1/2015,328
+Kansas,6/1/2015,330
+Kansas,5/1/2015,337
+Kansas,4/1/2015,332
+Kansas,3/1/2015,323
+Kansas,2/1/2015,308
+Kansas,1/1/2015,312
+Kentucky,5/1/2020,1645
+Kentucky,4/1/2020,1499
+Kentucky,3/1/2020,1444
+Kentucky,2/1/2020,1415
+Kentucky,1/1/2020,1373
+Kentucky,12/1/2019,1369
+Kentucky,11/1/2019,1320
+Kentucky,10/1/2019,1310
+Kentucky,9/1/2019,1300
+Kentucky,8/1/2019,1307
+Kentucky,7/1/2019,1341
+Kentucky,6/1/2019,1339
+Kentucky,5/1/2019,1346
+Kentucky,4/1/2019,1330
+Kentucky,3/1/2019,1332
+Kentucky,2/1/2019,1320
+Kentucky,1/1/2019,1339
+Kentucky,12/1/2018,1336
+Kentucky,11/1/2018,1369
+Kentucky,10/1/2018,1383
+Kentucky,9/1/2018,1381
+Kentucky,8/1/2018,1372
+Kentucky,7/1/2018,1380
+Kentucky,6/1/2018,1379
+Kentucky,5/1/2018,1381
+Kentucky,4/1/2018,1418
+Kentucky,3/1/2018,1450
+Kentucky,2/1/2018,1490
+Kentucky,1/1/2018,1529
+Kentucky,12/1/2017,1566
+Kentucky,11/1/2017,1594
+Kentucky,10/1/2017,1564
+Kentucky,9/1/2017,1566
+Kentucky,8/1/2017,1575
+Kentucky,7/1/2017,1568
+Kentucky,6/1/2017,1564
+Kentucky,5/1/2017,1583
+Kentucky,4/1/2017,1580
+Kentucky,3/1/2017,1552
+Kentucky,2/1/2017,1545
+Kentucky,1/1/2017,1480
+Kentucky,12/1/2016,1437
+Kentucky,11/1/2016,1395
+Kentucky,10/1/2016,1416
+Kentucky,9/1/2016,1411
+Kentucky,8/1/2016,1404
+Kentucky,7/1/2016,1376
+Kentucky,6/1/2016,1371
+Kentucky,5/1/2016,1320
+Kentucky,4/1/2016,1291
+Kentucky,3/1/2016,1253
+Kentucky,2/1/2016,1228
+Kentucky,1/1/2016,1253
+Kentucky,12/1/2015,1248
+Kentucky,11/1/2015,1240
+Kentucky,10/1/2015,1217
+Kentucky,9/1/2015,1233
+Kentucky,8/1/2015,1208
+Kentucky,7/1/2015,1211
+Kentucky,6/1/2015,1198
+Kentucky,5/1/2015,1185
+Kentucky,4/1/2015,1172
+Kentucky,3/1/2015,1152
+Kentucky,2/1/2015,1121
+Kentucky,1/1/2015,1101
+Louisiana,5/1/2020,1562
+Louisiana,4/1/2020,1462
+Louisiana,3/1/2020,1387
+Louisiana,2/1/2020,1340
+Louisiana,1/1/2020,1330
+Louisiana,12/1/2019,1304
+Louisiana,11/1/2019,1278
+Louisiana,10/1/2019,1244
+Louisiana,9/1/2019,1185
+Louisiana,8/1/2019,1161
+Louisiana,7/1/2019,1122
+Louisiana,6/1/2019,1115
+Louisiana,5/1/2019,1126
+Louisiana,4/1/2019,1125
+Louisiana,3/1/2019,1128
+Louisiana,2/1/2019,1156
+Louisiana,1/1/2019,1162
+Louisiana,12/1/2018,1167
+Louisiana,11/1/2018,1193
+Louisiana,10/1/2018,1212
+Louisiana,9/1/2018,1210
+Louisiana,8/1/2018,1202
+Louisiana,7/1/2018,1210
+Louisiana,6/1/2018,1212
+Louisiana,5/1/2018,1203
+Louisiana,4/1/2018,1174
+Louisiana,3/1/2018,1167
+Louisiana,2/1/2018,1136
+Louisiana,1/1/2018,1113
+Louisiana,12/1/2017,1102
+Louisiana,11/1/2017,1059
+Louisiana,10/1/2017,1015
+Louisiana,9/1/2017,1014
+Louisiana,8/1/2017,1020
+Louisiana,7/1/2017,1007
+Louisiana,6/1/2017,1016
+Louisiana,5/1/2017,1030
+Louisiana,4/1/2017,1036
+Louisiana,3/1/2017,1020
+Louisiana,2/1/2017,1010
+Louisiana,1/1/2017,1015
+Louisiana,12/1/2016,1004
+Louisiana,11/1/2016,1012
+Louisiana,10/1/2016,1021
+Louisiana,9/1/2016,997
+Louisiana,8/1/2016,979
+Louisiana,7/1/2016,962
+Louisiana,6/1/2016,943
+Louisiana,5/1/2016,902
+Louisiana,4/1/2016,896
+Louisiana,3/1/2016,899
+Louisiana,2/1/2016,906
+Louisiana,1/1/2016,895
+Louisiana,12/1/2015,880
+Louisiana,11/1/2015,857
+Louisiana,10/1/2015,839
+Louisiana,9/1/2015,843
+Louisiana,8/1/2015,827
+Louisiana,7/1/2015,829
+Louisiana,6/1/2015,805
+Louisiana,5/1/2015,805
+Louisiana,4/1/2015,798
+Louisiana,3/1/2015,785
+Louisiana,2/1/2015,786
+Louisiana,1/1/2015,782
+Maine,5/1/2020,435
+Maine,4/1/2020,423
+Maine,3/1/2020,420
+Maine,2/1/2020,401
+Maine,1/1/2020,390
+Maine,12/1/2019,362
+Maine,11/1/2019,356
+Maine,10/1/2019,358
+Maine,9/1/2019,334
+Maine,8/1/2019,330
+Maine,7/1/2019,322
+Maine,6/1/2019,328
+Maine,5/1/2019,319
+Maine,4/1/2019,310
+Maine,3/1/2019,318
+Maine,2/1/2019,330
+Maine,1/1/2019,324
+Maine,12/1/2018,338
+Maine,11/1/2018,367
+Maine,10/1/2018,370
+Maine,9/1/2018,385
+Maine,8/1/2018,402
+Maine,7/1/2018,404
+Maine,6/1/2018,404
+Maine,5/1/2018,402
+Maine,4/1/2018,404
+Maine,3/1/2018,410
+Maine,2/1/2018,411
+Maine,1/1/2018,408
+Maine,12/1/2017,409
+Maine,11/1/2017,396
+Maine,10/1/2017,394
+Maine,9/1/2017,376
+Maine,8/1/2017,362
+Maine,7/1/2017,355
+Maine,6/1/2017,356
+Maine,5/1/2017,369
+Maine,4/1/2017,375
+Maine,3/1/2017,368
+Maine,2/1/2017,366
+Maine,1/1/2017,368
+Maine,12/1/2016,357
+Maine,11/1/2016,341
+Maine,10/1/2016,337
+Maine,9/1/2016,342
+Maine,8/1/2016,345
+Maine,7/1/2016,334
+Maine,6/1/2016,327
+Maine,5/1/2016,303
+Maine,4/1/2016,290
+Maine,3/1/2016,279
+Maine,2/1/2016,271
+Maine,1/1/2016,270
+Maine,12/1/2015,267
+Maine,11/1/2015,271
+Maine,10/1/2015,265
+Maine,9/1/2015,258
+Maine,8/1/2015,245
+Maine,7/1/2015,253
+Maine,6/1/2015,238
+Maine,5/1/2015,239
+Maine,4/1/2015,243
+Maine,3/1/2015,230
+Maine,2/1/2015,219
+Maine,1/1/2015,214
+Maryland,5/1/2020,2463
+Maryland,4/1/2020,2380
+Maryland,3/1/2020,2387
+Maryland,2/1/2020,2357
+Maryland,1/1/2020,2332
+Maryland,12/1/2019,2360
+Maryland,11/1/2019,2374
+Maryland,10/1/2019,2358
+Maryland,9/1/2019,2343
+Maryland,8/1/2019,2334
+Maryland,7/1/2019,2290
+Maryland,6/1/2019,2264
+Maryland,5/1/2019,2294
+Maryland,4/1/2019,2327
+Maryland,3/1/2019,2345
+Maryland,2/1/2019,2353
+Maryland,1/1/2019,2392
+Maryland,12/1/2018,2393
+Maryland,11/1/2018,2412
+Maryland,10/1/2018,2413
+Maryland,9/1/2018,2420
+Maryland,8/1/2018,2428
+Maryland,7/1/2018,2432
+Maryland,6/1/2018,2438
+Maryland,5/1/2018,2425
+Maryland,4/1/2018,2410
+Maryland,3/1/2018,2397
+Maryland,2/1/2018,2359
+Maryland,1/1/2018,2289
+Maryland,12/1/2017,2284
+Maryland,11/1/2017,2285
+Maryland,10/1/2017,2277
+Maryland,9/1/2017,2262
+Maryland,8/1/2017,2250
+Maryland,7/1/2017,2259
+Maryland,6/1/2017,2273
+Maryland,5/1/2017,2267
+Maryland,4/1/2017,2265
+Maryland,3/1/2017,2230
+Maryland,2/1/2017,2188
+Maryland,1/1/2017,2174
+Maryland,12/1/2016,2074
+Maryland,11/1/2016,1997
+Maryland,10/1/2016,1945
+Maryland,9/1/2016,1907
+Maryland,8/1/2016,1848
+Maryland,7/1/2016,1758
+Maryland,6/1/2016,1683
+Maryland,5/1/2016,1580
+Maryland,4/1/2016,1479
+Maryland,3/1/2016,1381
+Maryland,2/1/2016,1336
+Maryland,1/1/2016,1303
+Maryland,12/1/2015,1320
+Maryland,11/1/2015,1282
+Maryland,10/1/2015,1251
+Maryland,9/1/2015,1212
+Maryland,8/1/2015,1169
+Maryland,7/1/2015,1146
+Maryland,6/1/2015,1137
+Maryland,5/1/2015,1137
+Maryland,4/1/2015,1125
+Maryland,3/1/2015,1129
+Maryland,2/1/2015,1115
+Maryland,1/1/2015,1078
+Massachusetts,5/1/2020,2335
+Massachusetts,4/1/2020,2295
+Massachusetts,3/1/2020,2275
+Massachusetts,2/1/2020,2274
+Massachusetts,1/1/2020,2240
+Massachusetts,12/1/2019,2262
+Massachusetts,11/1/2019,2259
+Massachusetts,10/1/2019,2242
+Massachusetts,9/1/2019,2198
+Massachusetts,8/1/2019,2200
+Massachusetts,7/1/2019,2201
+Massachusetts,6/1/2019,2212
+Massachusetts,5/1/2019,2235
+Massachusetts,4/1/2019,2260
+Massachusetts,3/1/2019,2258
+Massachusetts,2/1/2019,2227
+Massachusetts,1/1/2019,2232
+Massachusetts,12/1/2018,2272
+Massachusetts,11/1/2018,2287
+Massachusetts,10/1/2018,2302
+Massachusetts,9/1/2018,2332
+Massachusetts,8/1/2018,2377
+Massachusetts,7/1/2018,2409
+Massachusetts,6/1/2018,2388
+Massachusetts,5/1/2018,2344
+Massachusetts,4/1/2018,2288
+Massachusetts,3/1/2018,2296
+Massachusetts,2/1/2018,2311
+Massachusetts,1/1/2018,2311
+Massachusetts,12/1/2017,2293
+Massachusetts,11/1/2017,2265
+Massachusetts,10/1/2017,2274
+Massachusetts,9/1/2017,2286
+Massachusetts,8/1/2017,2287
+Massachusetts,7/1/2017,2250
+Massachusetts,6/1/2017,2273
+Massachusetts,5/1/2017,2296
+Massachusetts,4/1/2017,2314
+Massachusetts,3/1/2017,2344
+Massachusetts,2/1/2017,2341
+Massachusetts,1/1/2017,2350
+Massachusetts,12/1/2016,2321
+Massachusetts,11/1/2016,2270
+Massachusetts,10/1/2016,2232
+Massachusetts,9/1/2016,2224
+Massachusetts,8/1/2016,2182
+Massachusetts,7/1/2016,2165
+Massachusetts,6/1/2016,2105
+Massachusetts,5/1/2016,2053
+Massachusetts,4/1/2016,2019
+Massachusetts,3/1/2016,1955
+Massachusetts,2/1/2016,1936
+Massachusetts,1/1/2016,1900
+Massachusetts,12/1/2015,1900
+Massachusetts,11/1/2015,1946
+Massachusetts,10/1/2015,1905
+Massachusetts,9/1/2015,1833
+Massachusetts,8/1/2015,1786
+Massachusetts,7/1/2015,1739
+Massachusetts,6/1/2015,1684
+Massachusetts,5/1/2015,1662
+Massachusetts,4/1/2015,1642
+Massachusetts,3/1/2015,1578
+Massachusetts,2/1/2015,1526
+Massachusetts,1/1/2015,1527
+Michigan,5/1/2020,2548
+Michigan,4/1/2020,2476
+Michigan,3/1/2020,2439
+Michigan,2/1/2020,2412
+Michigan,1/1/2020,2377
+Michigan,12/1/2019,2385
+Michigan,11/1/2019,2408
+Michigan,10/1/2019,2384
+Michigan,9/1/2019,2374
+Michigan,8/1/2019,2359
+Michigan,7/1/2019,2398
+Michigan,6/1/2019,2439
+Michigan,5/1/2019,2482
+Michigan,4/1/2019,2424
+Michigan,3/1/2019,2437
+Michigan,2/1/2019,2477
+Michigan,1/1/2019,2521
+Michigan,12/1/2018,2596
+Michigan,11/1/2018,2610
+Michigan,10/1/2018,2653
+Michigan,9/1/2018,2687
+Michigan,8/1/2018,2720
+Michigan,7/1/2018,2752
+Michigan,6/1/2018,2716
+Michigan,5/1/2018,2686
+Michigan,4/1/2018,2720
+Michigan,3/1/2018,2696
+Michigan,2/1/2018,2683
+Michigan,1/1/2018,2661
+Michigan,12/1/2017,2671
+Michigan,11/1/2017,2715
+Michigan,10/1/2017,2714
+Michigan,9/1/2017,2733
+Michigan,8/1/2017,2705
+Michigan,7/1/2017,2640
+Michigan,6/1/2017,2602
+Michigan,5/1/2017,2559
+Michigan,4/1/2017,2524
+Michigan,3/1/2017,2506
+Michigan,2/1/2017,2484
+Michigan,1/1/2017,2449
+Michigan,12/1/2016,2356
+Michigan,11/1/2016,2202
+Michigan,10/1/2016,2116
+Michigan,9/1/2016,2019
+Michigan,8/1/2016,1983
+Michigan,7/1/2016,1953
+Michigan,6/1/2016,1929
+Michigan,5/1/2016,1929
+Michigan,4/1/2016,1928
+Michigan,3/1/2016,1975
+Michigan,2/1/2016,1963
+Michigan,1/1/2016,1944
+Michigan,12/1/2015,1973
+Michigan,11/1/2015,1998
+Michigan,10/1/2015,1999
+Michigan,9/1/2015,2009
+Michigan,8/1/2015,2013
+Michigan,7/1/2015,2021
+Michigan,6/1/2015,2015
+Michigan,5/1/2015,1988
+Michigan,4/1/2015,1943
+Michigan,3/1/2015,1863
+Michigan,2/1/2015,1824
+Michigan,1/1/2015,1798
+Minnesota,5/1/2020,906
+Minnesota,4/1/2020,858
+Minnesota,3/1/2020,827
+Minnesota,2/1/2020,791
+Minnesota,1/1/2020,782
+Minnesota,12/1/2019,788
+Minnesota,11/1/2019,769
+Minnesota,10/1/2019,767
+Minnesota,9/1/2019,753
+Minnesota,8/1/2019,741
+Minnesota,7/1/2019,721
+Minnesota,6/1/2019,708
+Minnesota,5/1/2019,690
+Minnesota,4/1/2019,675
+Minnesota,3/1/2019,650
+Minnesota,2/1/2019,658
+Minnesota,1/1/2019,665
+Minnesota,12/1/2018,639
+Minnesota,11/1/2018,641
+Minnesota,10/1/2018,644
+Minnesota,9/1/2018,644
+Minnesota,8/1/2018,670
+Minnesota,7/1/2018,687
+Minnesota,6/1/2018,677
+Minnesota,5/1/2018,690
+Minnesota,4/1/2018,698
+Minnesota,3/1/2018,713
+Minnesota,2/1/2018,719
+Minnesota,1/1/2018,718
+Minnesota,12/1/2017,728
+Minnesota,11/1/2017,729
+Minnesota,10/1/2017,727
+Minnesota,9/1/2017,720
+Minnesota,8/1/2017,698
+Minnesota,7/1/2017,686
+Minnesota,6/1/2017,685
+Minnesota,5/1/2017,676
+Minnesota,4/1/2017,668
+Minnesota,3/1/2017,664
+Minnesota,2/1/2017,652
+Minnesota,1/1/2017,655
+Minnesota,12/1/2016,664
+Minnesota,11/1/2016,654
+Minnesota,10/1/2016,638
+Minnesota,9/1/2016,647
+Minnesota,8/1/2016,649
+Minnesota,7/1/2016,645
+Minnesota,6/1/2016,649
+Minnesota,5/1/2016,631
+Minnesota,4/1/2016,627
+Minnesota,3/1/2016,626
+Minnesota,2/1/2016,631
+Minnesota,1/1/2016,607
+Minnesota,12/1/2015,592
+Minnesota,11/1/2015,588
+Minnesota,10/1/2015,586
+Minnesota,9/1/2015,574
+Minnesota,8/1/2015,563
+Minnesota,7/1/2015,549
+Minnesota,6/1/2015,544
+Minnesota,5/1/2015,550
+Minnesota,4/1/2015,541
+Minnesota,3/1/2015,529
+Minnesota,2/1/2015,523
+Minnesota,1/1/2015,530
+Mississippi,5/1/2020,443
+Mississippi,4/1/2020,425
+Mississippi,3/1/2020,416
+Mississippi,2/1/2020,415
+Mississippi,1/1/2020,399
+Mississippi,12/1/2019,391
+Mississippi,11/1/2019,374
+Mississippi,10/1/2019,367
+Mississippi,9/1/2019,361
+Mississippi,8/1/2019,359
+Mississippi,7/1/2019,364
+Mississippi,6/1/2019,356
+Mississippi,5/1/2019,332
+Mississippi,4/1/2019,318
+Mississippi,3/1/2019,312
+Mississippi,2/1/2019,296
+Mississippi,1/1/2019,312
+Mississippi,12/1/2018,315
+Mississippi,11/1/2018,325
+Mississippi,10/1/2018,333
+Mississippi,9/1/2018,339
+Mississippi,8/1/2018,347
+Mississippi,7/1/2018,327
+Mississippi,6/1/2018,323
+Mississippi,5/1/2018,328
+Mississippi,4/1/2018,328
+Mississippi,3/1/2018,341
+Mississippi,2/1/2018,349
+Mississippi,1/1/2018,334
+Mississippi,12/1/2017,337
+Mississippi,11/1/2017,337
+Mississippi,10/1/2017,326
+Mississippi,9/1/2017,324
+Mississippi,8/1/2017,321
+Mississippi,7/1/2017,332
+Mississippi,6/1/2017,337
+Mississippi,5/1/2017,334
+Mississippi,4/1/2017,339
+Mississippi,3/1/2017,331
+Mississippi,2/1/2017,327
+Mississippi,1/1/2017,333
+Mississippi,12/1/2016,336
+Mississippi,11/1/2016,337
+Mississippi,10/1/2016,339
+Mississippi,9/1/2016,329
+Mississippi,8/1/2016,315
+Mississippi,7/1/2016,320
+Mississippi,6/1/2016,321
+Mississippi,5/1/2016,324
+Mississippi,4/1/2016,322
+Mississippi,3/1/2016,334
+Mississippi,2/1/2016,335
+Mississippi,1/1/2016,338
+Mississippi,12/1/2015,333
+Mississippi,11/1/2015,325
+Mississippi,10/1/2015,331
+Mississippi,9/1/2015,337
+Mississippi,8/1/2015,348
+Mississippi,7/1/2015,343
+Mississippi,6/1/2015,329
+Mississippi,5/1/2015,328
+Mississippi,4/1/2015,322
+Mississippi,3/1/2015,307
+Mississippi,2/1/2015,302
+Mississippi,1/1/2015,302
+Missouri,5/1/2020,1831
+Missouri,4/1/2020,1749
+Missouri,3/1/2020,1656
+Missouri,2/1/2020,1633
+Missouri,1/1/2020,1597
+Missouri,12/1/2019,1603
+Missouri,11/1/2019,1581
+Missouri,10/1/2019,1584
+Missouri,9/1/2019,1596
+Missouri,8/1/2019,1588
+Missouri,7/1/2019,1579
+Missouri,6/1/2019,1582
+Missouri,5/1/2019,1635
+Missouri,4/1/2019,1647
+Missouri,3/1/2019,1673
+Missouri,2/1/2019,1667
+Missouri,1/1/2019,1664
+Missouri,12/1/2018,1635
+Missouri,11/1/2018,1627
+Missouri,10/1/2018,1598
+Missouri,9/1/2018,1566
+Missouri,8/1/2018,1560
+Missouri,7/1/2018,1524
+Missouri,6/1/2018,1495
+Missouri,5/1/2018,1455
+Missouri,4/1/2018,1440
+Missouri,3/1/2018,1407
+Missouri,2/1/2018,1407
+Missouri,1/1/2018,1397
+Missouri,12/1/2017,1398
+Missouri,11/1/2017,1407
+Missouri,10/1/2017,1428
+Missouri,9/1/2017,1421
+Missouri,8/1/2017,1392
+Missouri,7/1/2017,1395
+Missouri,6/1/2017,1403
+Missouri,5/1/2017,1403
+Missouri,4/1/2017,1403
+Missouri,3/1/2017,1415
+Missouri,2/1/2017,1388
+Missouri,1/1/2017,1394
+Missouri,12/1/2016,1386
+Missouri,11/1/2016,1329
+Missouri,10/1/2016,1288
+Missouri,9/1/2016,1247
+Missouri,8/1/2016,1236
+Missouri,7/1/2016,1192
+Missouri,6/1/2016,1157
+Missouri,5/1/2016,1147
+Missouri,4/1/2016,1150
+Missouri,3/1/2016,1129
+Missouri,2/1/2016,1121
+Missouri,1/1/2016,1096
+Missouri,12/1/2015,1087
+Missouri,11/1/2015,1090
+Missouri,10/1/2015,1071
+Missouri,9/1/2015,1081
+Missouri,8/1/2015,1070
+Missouri,7/1/2015,1103
+Missouri,6/1/2015,1116
+Missouri,5/1/2015,1093
+Missouri,4/1/2015,1072
+Missouri,3/1/2015,1092
+Missouri,2/1/2015,1107
+Missouri,1/1/2015,1108
+Montana,5/1/2020,153
+Montana,4/1/2020,150
+Montana,3/1/2020,140
+Montana,2/1/2020,137
+Montana,1/1/2020,139
+Montana,12/1/2019,139
+Montana,11/1/2019,140
+Montana,10/1/2019,134
+Montana,9/1/2019,137
+Montana,8/1/2019,139
+Montana,7/1/2019,133
+Montana,6/1/2019,123
+Montana,5/1/2019,126
+Montana,4/1/2019,129
+Montana,3/1/2019,124
+Montana,2/1/2019,123
+Montana,1/1/2019,120
+Montana,12/1/2018,117
+Montana,11/1/2018,116
+Montana,10/1/2018,112
+Montana,9/1/2018,112
+Montana,8/1/2018,109
+Montana,7/1/2018,105
+Montana,6/1/2018,107
+Montana,5/1/2018,97
+Montana,4/1/2018,97
+Montana,3/1/2018,99
+Montana,2/1/2018,105
+Montana,1/1/2018,114
+Montana,12/1/2017,118
+Montana,11/1/2017,115
+Montana,10/1/2017,124
+Montana,9/1/2017,120
+Montana,8/1/2017,118
+Montana,7/1/2017,120
+Montana,6/1/2017,125
+Montana,5/1/2017,128
+Montana,4/1/2017,127
+Montana,3/1/2017,130
+Montana,2/1/2017,133
+Montana,1/1/2017,121
+Montana,12/1/2016,116
+Montana,11/1/2016,122
+Montana,10/1/2016,122
+Montana,9/1/2016,126
+Montana,8/1/2016,133
+Montana,7/1/2016,130
+Montana,6/1/2016,124
+Montana,5/1/2016,125
+Montana,4/1/2016,130
+Montana,3/1/2016,127
+Montana,2/1/2016,122
+Montana,1/1/2016,128
+Montana,12/1/2015,133
+Montana,11/1/2015,130
+Montana,10/1/2015,128
+Montana,9/1/2015,127
+Montana,8/1/2015,123
+Montana,7/1/2015,131
+Montana,6/1/2015,135
+Montana,5/1/2015,138
+Montana,4/1/2015,129
+Montana,3/1/2015,132
+Montana,2/1/2015,128
+Montana,1/1/2015,124
+Nebraska,5/1/2020,177
+Nebraska,4/1/2020,165
+Nebraska,3/1/2020,150
+Nebraska,2/1/2020,143
+Nebraska,1/1/2020,146
+Nebraska,12/1/2019,148
+Nebraska,11/1/2019,151
+Nebraska,10/1/2019,151
+Nebraska,9/1/2019,151
+Nebraska,8/1/2019,146
+Nebraska,7/1/2019,140
+Nebraska,6/1/2019,137
+Nebraska,5/1/2019,141
+Nebraska,4/1/2019,147
+Nebraska,3/1/2019,152
+Nebraska,2/1/2019,150
+Nebraska,1/1/2019,147
+Nebraska,12/1/2018,140
+Nebraska,11/1/2018,139
+Nebraska,10/1/2018,144
+Nebraska,9/1/2018,153
+Nebraska,8/1/2018,158
+Nebraska,7/1/2018,166
+Nebraska,6/1/2018,165
+Nebraska,5/1/2018,165
+Nebraska,4/1/2018,166
+Nebraska,3/1/2018,163
+Nebraska,2/1/2018,150
+Nebraska,1/1/2018,152
+Nebraska,12/1/2017,157
+Nebraska,11/1/2017,154
+Nebraska,10/1/2017,144
+Nebraska,9/1/2017,131
+Nebraska,8/1/2017,124
+Nebraska,7/1/2017,121
+Nebraska,6/1/2017,120
+Nebraska,5/1/2017,113
+Nebraska,4/1/2017,108
+Nebraska,3/1/2017,110
+Nebraska,2/1/2017,116
+Nebraska,1/1/2017,114
+Nebraska,12/1/2016,113
+Nebraska,11/1/2016,114
+Nebraska,10/1/2016,108
+Nebraska,9/1/2016,113
+Nebraska,8/1/2016,118
+Nebraska,7/1/2016,118
+Nebraska,6/1/2016,118
+Nebraska,5/1/2016,123
+Nebraska,4/1/2016,127
+Nebraska,3/1/2016,125
+Nebraska,2/1/2016,126
+Nebraska,1/1/2016,122
+Nebraska,12/1/2015,123
+Nebraska,11/1/2015,126
+Nebraska,10/1/2015,135
+Nebraska,9/1/2015,135
+Nebraska,8/1/2015,131
+Nebraska,7/1/2015,132
+Nebraska,6/1/2015,130
+Nebraska,5/1/2015,129
+Nebraska,4/1/2015,125
+Nebraska,3/1/2015,131
+Nebraska,2/1/2015,129
+Nebraska,1/1/2015,121
+Nevada,5/1/2020,764
+Nevada,4/1/2020,732
+Nevada,3/1/2020,710
+Nevada,2/1/2020,700
+Nevada,1/1/2020,704
+Nevada,12/1/2019,714
+Nevada,11/1/2019,728
+Nevada,10/1/2019,735
+Nevada,9/1/2019,756
+Nevada,8/1/2019,752
+Nevada,7/1/2019,766
+Nevada,6/1/2019,780
+Nevada,5/1/2019,792
+Nevada,4/1/2019,773
+Nevada,3/1/2019,770
+Nevada,2/1/2019,773
+Nevada,1/1/2019,767
+Nevada,12/1/2018,761
+Nevada,11/1/2018,744
+Nevada,10/1/2018,736
+Nevada,9/1/2018,747
+Nevada,8/1/2018,742
+Nevada,7/1/2018,732
+Nevada,6/1/2018,721
+Nevada,5/1/2018,732
+Nevada,4/1/2018,755
+Nevada,3/1/2018,751
+Nevada,2/1/2018,766
+Nevada,1/1/2018,763
+Nevada,12/1/2017,760
+Nevada,11/1/2017,748
+Nevada,10/1/2017,749
+Nevada,9/1/2017,736
+Nevada,8/1/2017,736
+Nevada,7/1/2017,736
+Nevada,6/1/2017,736
+Nevada,5/1/2017,728
+Nevada,4/1/2017,713
+Nevada,3/1/2017,707
+Nevada,2/1/2017,698
+Nevada,1/1/2017,705
+Nevada,12/1/2016,707
+Nevada,11/1/2016,729
+Nevada,10/1/2016,739
+Nevada,9/1/2016,731
+Nevada,8/1/2016,732
+Nevada,7/1/2016,723
+Nevada,6/1/2016,691
+Nevada,5/1/2016,679
+Nevada,4/1/2016,683
+Nevada,3/1/2016,689
+Nevada,2/1/2016,685
+Nevada,1/1/2016,669
+Nevada,12/1/2015,665
+Nevada,11/1/2015,634
+Nevada,10/1/2015,628
+Nevada,9/1/2015,633
+Nevada,8/1/2015,632
+Nevada,7/1/2015,616
+Nevada,6/1/2015,619
+Nevada,5/1/2015,598
+Nevada,4/1/2015,584
+Nevada,3/1/2015,579
+Nevada,2/1/2015,576
+Nevada,1/1/2015,578
+New Hampshire,5/1/2020,420
+New Hampshire,4/1/2020,405
+New Hampshire,3/1/2020,392
+New Hampshire,2/1/2020,387
+New Hampshire,1/1/2020,392
+New Hampshire,12/1/2019,395
+New Hampshire,11/1/2019,385
+New Hampshire,10/1/2019,396
+New Hampshire,9/1/2019,401
+New Hampshire,8/1/2019,400
+New Hampshire,7/1/2019,407
+New Hampshire,6/1/2019,437
+New Hampshire,5/1/2019,429
+New Hampshire,4/1/2019,438
+New Hampshire,3/1/2019,441
+New Hampshire,2/1/2019,449
+New Hampshire,1/1/2019,446
+New Hampshire,12/1/2018,447
+New Hampshire,11/1/2018,450
+New Hampshire,10/1/2018,437
+New Hampshire,9/1/2018,438
+New Hampshire,8/1/2018,449
+New Hampshire,7/1/2018,455
+New Hampshire,6/1/2018,451
+New Hampshire,5/1/2018,472
+New Hampshire,4/1/2018,473
+New Hampshire,3/1/2018,490
+New Hampshire,2/1/2018,480
+New Hampshire,1/1/2018,473
+New Hampshire,12/1/2017,478
+New Hampshire,11/1/2017,472
+New Hampshire,10/1/2017,478
+New Hampshire,9/1/2017,470
+New Hampshire,8/1/2017,471
+New Hampshire,7/1/2017,464
+New Hampshire,6/1/2017,459
+New Hampshire,5/1/2017,448
+New Hampshire,4/1/2017,449
+New Hampshire,3/1/2017,441
+New Hampshire,2/1/2017,448
+New Hampshire,1/1/2017,460
+New Hampshire,12/1/2016,460
+New Hampshire,11/1/2016,445
+New Hampshire,10/1/2016,444
+New Hampshire,9/1/2016,447
+New Hampshire,8/1/2016,450
+New Hampshire,7/1/2016,442
+New Hampshire,6/1/2016,429
+New Hampshire,5/1/2016,439
+New Hampshire,4/1/2016,430
+New Hampshire,3/1/2016,435
+New Hampshire,2/1/2016,428
+New Hampshire,1/1/2016,420
+New Hampshire,12/1/2015,420
+New Hampshire,11/1/2015,449
+New Hampshire,10/1/2015,454
+New Hampshire,9/1/2015,454
+New Hampshire,8/1/2015,430
+New Hampshire,7/1/2015,428
+New Hampshire,6/1/2015,420
+New Hampshire,5/1/2015,406
+New Hampshire,4/1/2015,398
+New Hampshire,3/1/2015,370
+New Hampshire,2/1/2015,363
+New Hampshire,1/1/2015,351
+New Jersey,5/1/2020,3001
+New Jersey,4/1/2020,2946
+New Jersey,3/1/2020,2920
+New Jersey,2/1/2020,2866
+New Jersey,1/1/2020,2863
+New Jersey,12/1/2019,2805
+New Jersey,11/1/2019,2778
+New Jersey,10/1/2019,2750
+New Jersey,9/1/2019,2779
+New Jersey,8/1/2019,2806
+New Jersey,7/1/2019,2795
+New Jersey,6/1/2019,2782
+New Jersey,5/1/2019,2813
+New Jersey,4/1/2019,2832
+New Jersey,3/1/2019,2863
+New Jersey,2/1/2019,2915
+New Jersey,1/1/2019,2860
+New Jersey,12/1/2018,2911
+New Jersey,11/1/2018,2941
+New Jersey,10/1/2018,2923
+New Jersey,9/1/2018,2815
+New Jersey,8/1/2018,2803
+New Jersey,7/1/2018,2753
+New Jersey,6/1/2018,2707
+New Jersey,5/1/2018,2687
+New Jersey,4/1/2018,2661
+New Jersey,3/1/2018,2665
+New Jersey,2/1/2018,2662
+New Jersey,1/1/2018,2654
+New Jersey,12/1/2017,2670
+New Jersey,11/1/2017,2633
+New Jersey,10/1/2017,2614
+New Jersey,9/1/2017,2651
+New Jersey,8/1/2017,2556
+New Jersey,7/1/2017,2473
+New Jersey,6/1/2017,2466
+New Jersey,5/1/2017,2379
+New Jersey,4/1/2017,2298
+New Jersey,3/1/2017,2277
+New Jersey,2/1/2017,2201
+New Jersey,1/1/2017,2175
+New Jersey,12/1/2016,2063
+New Jersey,11/1/2016,1961
+New Jersey,10/1/2016,1874
+New Jersey,9/1/2016,1789
+New Jersey,8/1/2016,1779
+New Jersey,7/1/2016,1792
+New Jersey,6/1/2016,1737
+New Jersey,5/1/2016,1715
+New Jersey,4/1/2016,1699
+New Jersey,3/1/2016,1601
+New Jersey,2/1/2016,1542
+New Jersey,1/1/2016,1488
+New Jersey,12/1/2015,1478
+New Jersey,11/1/2015,1458
+New Jersey,10/1/2015,1449
+New Jersey,9/1/2015,1441
+New Jersey,8/1/2015,1399
+New Jersey,7/1/2015,1361
+New Jersey,6/1/2015,1334
+New Jersey,5/1/2015,1308
+New Jersey,4/1/2015,1271
+New Jersey,3/1/2015,1257
+New Jersey,2/1/2015,1254
+New Jersey,1/1/2015,1243
+New Mexico,5/1/2020,663
+New Mexico,4/1/2020,649
+New Mexico,3/1/2020,652
+New Mexico,2/1/2020,645
+New Mexico,1/1/2020,638
+New Mexico,12/1/2019,613
+New Mexico,11/1/2019,619
+New Mexico,10/1/2019,602
+New Mexico,9/1/2019,585
+New Mexico,8/1/2019,577
+New Mexico,7/1/2019,581
+New Mexico,6/1/2019,563
+New Mexico,5/1/2019,564
+New Mexico,4/1/2019,549
+New Mexico,3/1/2019,533
+New Mexico,2/1/2019,537
+New Mexico,1/1/2019,521
+New Mexico,12/1/2018,537
+New Mexico,11/1/2018,516
+New Mexico,10/1/2018,523
+New Mexico,9/1/2018,529
+New Mexico,8/1/2018,517
+New Mexico,7/1/2018,498
+New Mexico,6/1/2018,508
+New Mexico,5/1/2018,487
+New Mexico,4/1/2018,489
+New Mexico,3/1/2018,492
+New Mexico,2/1/2018,494
+New Mexico,1/1/2018,497
+New Mexico,12/1/2017,502
+New Mexico,11/1/2017,504
+New Mexico,10/1/2017,515
+New Mexico,9/1/2017,509
+New Mexico,8/1/2017,511
+New Mexico,7/1/2017,519
+New Mexico,6/1/2017,510
+New Mexico,5/1/2017,513
+New Mexico,4/1/2017,507
+New Mexico,3/1/2017,497
+New Mexico,2/1/2017,495
+New Mexico,1/1/2017,507
+New Mexico,12/1/2016,495
+New Mexico,11/1/2016,485
+New Mexico,10/1/2016,479
+New Mexico,9/1/2016,493
+New Mexico,8/1/2016,497
+New Mexico,7/1/2016,500
+New Mexico,6/1/2016,495
+New Mexico,5/1/2016,501
+New Mexico,4/1/2016,501
+New Mexico,3/1/2016,502
+New Mexico,2/1/2016,489
+New Mexico,1/1/2016,477
+New Mexico,12/1/2015,500
+New Mexico,11/1/2015,514
+New Mexico,10/1/2015,520
+New Mexico,9/1/2015,515
+New Mexico,8/1/2015,519
+New Mexico,7/1/2015,521
+New Mexico,6/1/2015,519
+New Mexico,5/1/2015,524
+New Mexico,4/1/2015,537
+New Mexico,3/1/2015,545
+New Mexico,2/1/2015,547
+New Mexico,1/1/2015,549
+New York,5/1/2020,2639
+New York,4/1/2020,2536
+New York,3/1/2020,2437
+New York,2/1/2020,2384
+New York,1/1/2020,2328
+New York,12/1/2019,2264
+New York,11/1/2019,2281
+New York,10/1/2019,2260
+New York,9/1/2019,2277
+New York,8/1/2019,2290
+New York,7/1/2019,2276
+New York,6/1/2019,2246
+New York,5/1/2019,2269
+New York,4/1/2019,2288
+New York,3/1/2019,2300
+New York,2/1/2019,2260
+New York,1/1/2019,2254
+New York,12/1/2018,2357
+New York,11/1/2018,2368
+New York,10/1/2018,2344
+New York,9/1/2018,2296
+New York,8/1/2018,2343
+New York,7/1/2018,2349
+New York,6/1/2018,2360
+New York,5/1/2018,2381
+New York,4/1/2018,2440
+New York,3/1/2018,2472
+New York,2/1/2018,2553
+New York,1/1/2018,2593
+New York,12/1/2017,2587
+New York,11/1/2017,2591
+New York,10/1/2017,2640
+New York,9/1/2017,2662
+New York,8/1/2017,2616
+New York,7/1/2017,2612
+New York,6/1/2017,2593
+New York,5/1/2017,2552
+New York,4/1/2017,2488
+New York,3/1/2017,2489
+New York,2/1/2017,2446
+New York,1/1/2017,2447
+New York,12/1/2016,2406
+New York,11/1/2016,2361
+New York,10/1/2016,2320
+New York,9/1/2016,2277
+New York,8/1/2016,2246
+New York,7/1/2016,2202
+New York,6/1/2016,2167
+New York,5/1/2016,2125
+New York,4/1/2016,2101
+New York,3/1/2016,2071
+New York,2/1/2016,2002
+New York,1/1/2016,1926
+New York,12/1/2015,1885
+New York,11/1/2015,1869
+New York,10/1/2015,1840
+New York,9/1/2015,1834
+New York,8/1/2015,1798
+New York,7/1/2015,1754
+New York,6/1/2015,1715
+New York,5/1/2015,1678
+New York,4/1/2015,1651
+New York,3/1/2015,1586
+New York,2/1/2015,1568
+New York,1/1/2015,1555
+New York City,5/1/2020,1713
+New York City,4/1/2020,1679
+New York City,3/1/2020,1658
+New York City,2/1/2020,1621
+New York City,1/1/2020,1588
+New York City,12/1/2019,1557
+New York City,11/1/2019,1516
+New York City,10/1/2019,1491
+New York City,9/1/2019,1459
+New York City,8/1/2019,1454
+New York City,7/1/2019,1471
+New York City,6/1/2019,1442
+New York City,5/1/2019,1450
+New York City,4/1/2019,1441
+New York City,3/1/2019,1475
+New York City,2/1/2019,1476
+New York City,1/1/2019,1456
+New York City,12/1/2018,1485
+New York City,11/1/2018,1484
+New York City,10/1/2018,1501
+New York City,9/1/2018,1511
+New York City,8/1/2018,1545
+New York City,7/1/2018,1514
+New York City,6/1/2018,1525
+New York City,5/1/2018,1530
+New York City,4/1/2018,1546
+New York City,3/1/2018,1521
+New York City,2/1/2018,1496
+New York City,1/1/2018,1489
+New York City,12/1/2017,1495
+New York City,11/1/2017,1510
+New York City,10/1/2017,1507
+New York City,9/1/2017,1514
+New York City,8/1/2017,1497
+New York City,7/1/2017,1503
+New York City,6/1/2017,1509
+New York City,5/1/2017,1488
+New York City,4/1/2017,1469
+New York City,3/1/2017,1467
+New York City,2/1/2017,1495
+New York City,1/1/2017,1483
+New York City,12/1/2016,1425
+New York City,11/1/2016,1371
+New York City,10/1/2016,1344
+New York City,9/1/2016,1311
+New York City,8/1/2016,1279
+New York City,7/1/2016,1252
+New York City,6/1/2016,1193
+New York City,5/1/2016,1148
+New York City,4/1/2016,1118
+New York City,3/1/2016,1076
+New York City,2/1/2016,1019
+New York City,1/1/2016,988
+New York City,12/1/2015,960
+New York City,11/1/2015,945
+New York City,10/1/2015,919
+New York City,9/1/2015,886
+New York City,8/1/2015,858
+New York City,7/1/2015,826
+New York City,6/1/2015,814
+New York City,5/1/2015,810
+New York City,4/1/2015,796
+New York City,3/1/2015,781
+New York City,2/1/2015,800
+New York City,1/1/2015,794
+North Carolina,5/1/2020,2515
+North Carolina,4/1/2020,2460
+North Carolina,3/1/2020,2435
+North Carolina,2/1/2020,2441
+North Carolina,1/1/2020,2440
+North Carolina,12/1/2019,2419
+North Carolina,11/1/2019,2412
+North Carolina,10/1/2019,2410
+North Carolina,9/1/2019,2400
+North Carolina,8/1/2019,2400
+North Carolina,7/1/2019,2407
+North Carolina,6/1/2019,2391
+North Carolina,5/1/2019,2398
+North Carolina,4/1/2019,2417
+North Carolina,3/1/2019,2403
+North Carolina,2/1/2019,2338
+North Carolina,1/1/2019,2286
+North Carolina,12/1/2018,2319
+North Carolina,11/1/2018,2355
+North Carolina,10/1/2018,2323
+North Carolina,9/1/2018,2311
+North Carolina,8/1/2018,2307
+North Carolina,7/1/2018,2362
+North Carolina,6/1/2018,2379
+North Carolina,5/1/2018,2381
+North Carolina,4/1/2018,2375
+North Carolina,3/1/2018,2392
+North Carolina,2/1/2018,2433
+North Carolina,1/1/2018,2463
+North Carolina,12/1/2017,2475
+North Carolina,11/1/2017,2426
+North Carolina,10/1/2017,2419
+North Carolina,9/1/2017,2402
+North Carolina,8/1/2017,2338
+North Carolina,7/1/2017,2274
+North Carolina,6/1/2017,2228
+North Carolina,5/1/2017,2168
+North Carolina,4/1/2017,2142
+North Carolina,3/1/2017,2104
+North Carolina,2/1/2017,2073
+North Carolina,1/1/2017,2027
+North Carolina,12/1/2016,1984
+North Carolina,11/1/2016,1956
+North Carolina,10/1/2016,1950
+North Carolina,9/1/2016,1925
+North Carolina,8/1/2016,1910
+North Carolina,7/1/2016,1858
+North Carolina,6/1/2016,1835
+North Carolina,5/1/2016,1780
+North Carolina,4/1/2016,1738
+North Carolina,3/1/2016,1696
+North Carolina,2/1/2016,1636
+North Carolina,1/1/2016,1631
+North Carolina,12/1/2015,1577
+North Carolina,11/1/2015,1551
+North Carolina,10/1/2015,1511
+North Carolina,9/1/2015,1499
+North Carolina,8/1/2015,1474
+North Carolina,7/1/2015,1481
+North Carolina,6/1/2015,1465
+North Carolina,5/1/2015,1446
+North Carolina,4/1/2015,1419
+North Carolina,3/1/2015,1412
+North Carolina,2/1/2015,1411
+North Carolina,1/1/2015,1411
+North Dakota,5/1/2020,99
+North Dakota,4/1/2020,95
+North Dakota,3/1/2020,96
+North Dakota,2/1/2020,96
+North Dakota,1/1/2020,99
+North Dakota,12/1/2019,93
+North Dakota,11/1/2019,90
+North Dakota,10/1/2019,82
+North Dakota,9/1/2019,85
+North Dakota,8/1/2019,89
+North Dakota,7/1/2019,87
+North Dakota,6/1/2019,77
+North Dakota,5/1/2019,75
+North Dakota,4/1/2019,76
+North Dakota,3/1/2019,77
+North Dakota,2/1/2019,71
+North Dakota,1/1/2019,64
+North Dakota,12/1/2018,71
+North Dakota,11/1/2018,72
+North Dakota,10/1/2018,75
+North Dakota,9/1/2018,74
+North Dakota,8/1/2018,69
+North Dakota,7/1/2018,71
+North Dakota,6/1/2018,74
+North Dakota,5/1/2018,75
+North Dakota,4/1/2018,78
+North Dakota,3/1/2018,78
+North Dakota,2/1/2018,80
+North Dakota,1/1/2018,83
+North Dakota,12/1/2017,78
+North Dakota,11/1/2017,76
+North Dakota,10/1/2017,77
+North Dakota,9/1/2017,79
+North Dakota,8/1/2017,84
+North Dakota,7/1/2017,86
+North Dakota,6/1/2017,83
+North Dakota,5/1/2017,82
+North Dakota,4/1/2017,80
+North Dakota,3/1/2017,83
+North Dakota,2/1/2017,87
+North Dakota,1/1/2017,84
+North Dakota,12/1/2016,83
+North Dakota,11/1/2016,81
+North Dakota,10/1/2016,75
+North Dakota,9/1/2016,74
+North Dakota,8/1/2016,69
+North Dakota,7/1/2016,66
+North Dakota,6/1/2016,67
+North Dakota,5/1/2016,68
+North Dakota,4/1/2016,74
+North Dakota,3/1/2016,68
+North Dakota,2/1/2016,60
+North Dakota,1/1/2016,63
+North Dakota,12/1/2015,67
+North Dakota,11/1/2015,65
+North Dakota,10/1/2015,70
+North Dakota,9/1/2015,74
+North Dakota,8/1/2015,73
+North Dakota,7/1/2015,71
+North Dakota,6/1/2015,74
+North Dakota,5/1/2015,69
+North Dakota,4/1/2015,63
+North Dakota,3/1/2015,66
+North Dakota,2/1/2015,67
+North Dakota,1/1/2015,67
+Ohio,5/1/2020,4647
+Ohio,4/1/2020,4411
+Ohio,3/1/2020,4349
+Ohio,2/1/2020,4365
+Ohio,1/1/2020,4302
+Ohio,12/1/2019,4279
+Ohio,11/1/2019,4260
+Ohio,10/1/2019,4165
+Ohio,9/1/2019,4117
+Ohio,8/1/2019,4129
+Ohio,7/1/2019,4159
+Ohio,6/1/2019,4147
+Ohio,5/1/2019,4117
+Ohio,4/1/2019,4110
+Ohio,3/1/2019,4062
+Ohio,2/1/2019,4011
+Ohio,1/1/2019,4036
+Ohio,12/1/2018,4004
+Ohio,11/1/2018,4001
+Ohio,10/1/2018,4058
+Ohio,9/1/2018,4099
+Ohio,8/1/2018,4144
+Ohio,7/1/2018,4117
+Ohio,6/1/2018,4148
+Ohio,5/1/2018,4273
+Ohio,4/1/2018,4418
+Ohio,3/1/2018,4636
+Ohio,2/1/2018,4739
+Ohio,1/1/2018,4934
+Ohio,12/1/2017,5138
+Ohio,11/1/2017,5210
+Ohio,10/1/2017,5225
+Ohio,9/1/2017,5258
+Ohio,8/1/2017,5262
+Ohio,7/1/2017,5290
+Ohio,6/1/2017,5293
+Ohio,5/1/2017,5144
+Ohio,4/1/2017,4974
+Ohio,3/1/2017,4788
+Ohio,2/1/2017,4710
+Ohio,1/1/2017,4502
+Ohio,12/1/2016,4326
+Ohio,11/1/2016,4211
+Ohio,10/1/2016,4121
+Ohio,9/1/2016,4000
+Ohio,8/1/2016,3857
+Ohio,7/1/2016,3763
+Ohio,6/1/2016,3652
+Ohio,5/1/2016,3606
+Ohio,4/1/2016,3575
+Ohio,3/1/2016,3542
+Ohio,2/1/2016,3452
+Ohio,1/1/2016,3398
+Ohio,12/1/2015,3336
+Ohio,11/1/2015,3298
+Ohio,10/1/2015,3222
+Ohio,9/1/2015,3196
+Ohio,8/1/2015,3153
+Ohio,7/1/2015,3128
+Ohio,6/1/2015,3051
+Ohio,5/1/2015,3054
+Ohio,4/1/2015,2955
+Ohio,3/1/2015,2843
+Ohio,2/1/2015,2828
+Ohio,1/1/2015,2829
+Oklahoma,5/1/2020,688
+Oklahoma,4/1/2020,667
+Oklahoma,3/1/2020,652
+Oklahoma,2/1/2020,622
+Oklahoma,1/1/2020,619
+Oklahoma,12/1/2019,620
+Oklahoma,11/1/2019,619
+Oklahoma,10/1/2019,608
+Oklahoma,9/1/2019,611
+Oklahoma,8/1/2019,591
+Oklahoma,7/1/2019,603
+Oklahoma,6/1/2019,605
+Oklahoma,5/1/2019,618
+Oklahoma,4/1/2019,636
+Oklahoma,3/1/2019,643
+Oklahoma,2/1/2019,665
+Oklahoma,1/1/2019,675
+Oklahoma,12/1/2018,706
+Oklahoma,11/1/2018,713
+Oklahoma,10/1/2018,712
+Oklahoma,9/1/2018,703
+Oklahoma,8/1/2018,713
+Oklahoma,7/1/2018,701
+Oklahoma,6/1/2018,723
+Oklahoma,5/1/2018,732
+Oklahoma,4/1/2018,714
+Oklahoma,3/1/2018,724
+Oklahoma,2/1/2018,732
+Oklahoma,1/1/2018,757
+Oklahoma,12/1/2017,770
+Oklahoma,11/1/2017,791
+Oklahoma,10/1/2017,791
+Oklahoma,9/1/2017,821
+Oklahoma,8/1/2017,817
+Oklahoma,7/1/2017,847
+Oklahoma,6/1/2017,848
+Oklahoma,5/1/2017,828
+Oklahoma,4/1/2017,847
+Oklahoma,3/1/2017,844
+Oklahoma,2/1/2017,833
+Oklahoma,1/1/2017,830
+Oklahoma,12/1/2016,803
+Oklahoma,11/1/2016,776
+Oklahoma,10/1/2016,776
+Oklahoma,9/1/2016,761
+Oklahoma,8/1/2016,768
+Oklahoma,7/1/2016,752
+Oklahoma,6/1/2016,727
+Oklahoma,5/1/2016,734
+Oklahoma,4/1/2016,712
+Oklahoma,3/1/2016,698
+Oklahoma,2/1/2016,710
+Oklahoma,1/1/2016,696
+Oklahoma,12/1/2015,722
+Oklahoma,11/1/2015,727
+Oklahoma,10/1/2015,723
+Oklahoma,9/1/2015,718
+Oklahoma,8/1/2015,727
+Oklahoma,7/1/2015,733
+Oklahoma,6/1/2015,738
+Oklahoma,5/1/2015,752
+Oklahoma,4/1/2015,766
+Oklahoma,3/1/2015,771
+Oklahoma,2/1/2015,773
+Oklahoma,1/1/2015,794
+Oregon,5/1/2020,708
+Oregon,4/1/2020,654
+Oregon,3/1/2020,643
+Oregon,2/1/2020,633
+Oregon,1/1/2020,630
+Oregon,12/1/2019,619
+Oregon,11/1/2019,610
+Oregon,10/1/2019,603
+Oregon,9/1/2019,598
+Oregon,8/1/2019,590
+Oregon,7/1/2019,580
+Oregon,6/1/2019,566
+Oregon,5/1/2019,560
+Oregon,4/1/2019,573
+Oregon,3/1/2019,568
+Oregon,2/1/2019,557
+Oregon,1/1/2019,548
+Oregon,12/1/2018,557
+Oregon,11/1/2018,544
+Oregon,10/1/2018,543
+Oregon,9/1/2018,555
+Oregon,8/1/2018,563
+Oregon,7/1/2018,573
+Oregon,6/1/2018,575
+Oregon,5/1/2018,567
+Oregon,4/1/2018,555
+Oregon,3/1/2018,545
+Oregon,2/1/2018,535
+Oregon,1/1/2018,544
+Oregon,12/1/2017,535
+Oregon,11/1/2017,549
+Oregon,10/1/2017,548
+Oregon,9/1/2017,531
+Oregon,8/1/2017,519
+Oregon,7/1/2017,506
+Oregon,6/1/2017,496
+Oregon,5/1/2017,503
+Oregon,4/1/2017,510
+Oregon,3/1/2017,507
+Oregon,2/1/2017,514
+Oregon,1/1/2017,507
+Oregon,12/1/2016,499
+Oregon,11/1/2016,486
+Oregon,10/1/2016,485
+Oregon,9/1/2016,490
+Oregon,8/1/2016,496
+Oregon,7/1/2016,512
+Oregon,6/1/2016,522
+Oregon,5/1/2016,526
+Oregon,4/1/2016,510
+Oregon,3/1/2016,503
+Oregon,2/1/2016,495
+Oregon,1/1/2016,491
+Oregon,12/1/2015,497
+Oregon,11/1/2015,504
+Oregon,10/1/2015,510
+Oregon,9/1/2015,523
+Oregon,8/1/2015,515
+Oregon,7/1/2015,502
+Oregon,6/1/2015,506
+Oregon,5/1/2015,501
+Oregon,4/1/2015,517
+Oregon,3/1/2015,515
+Oregon,2/1/2015,519
+Oregon,1/1/2015,520
+Pennsylvania,5/1/2020,4909
+Pennsylvania,4/1/2020,4779
+Pennsylvania,3/1/2020,4679
+Pennsylvania,2/1/2020,4616
+Pennsylvania,1/1/2020,4528
+Pennsylvania,12/1/2019,4494
+Pennsylvania,11/1/2019,4408
+Pennsylvania,10/1/2019,4341
+Pennsylvania,9/1/2019,4329
+Pennsylvania,8/1/2019,4348
+Pennsylvania,7/1/2019,4330
+Pennsylvania,6/1/2019,4351
+Pennsylvania,5/1/2019,4420
+Pennsylvania,4/1/2019,4461
+Pennsylvania,3/1/2019,4492
+Pennsylvania,2/1/2019,4480
+Pennsylvania,1/1/2019,4462
+Pennsylvania,12/1/2018,4500
+Pennsylvania,11/1/2018,4566
+Pennsylvania,10/1/2018,4661
+Pennsylvania,9/1/2018,4681
+Pennsylvania,8/1/2018,4728
+Pennsylvania,7/1/2018,4835
+Pennsylvania,6/1/2018,4899
+Pennsylvania,5/1/2018,4927
+Pennsylvania,4/1/2018,5011
+Pennsylvania,3/1/2018,5084
+Pennsylvania,2/1/2018,5243
+Pennsylvania,1/1/2018,5414
+Pennsylvania,12/1/2017,5545
+Pennsylvania,11/1/2017,5698
+Pennsylvania,10/1/2017,5775
+Pennsylvania,9/1/2017,5839
+Pennsylvania,8/1/2017,5844
+Pennsylvania,7/1/2017,5731
+Pennsylvania,6/1/2017,5668
+Pennsylvania,5/1/2017,5538
+Pennsylvania,4/1/2017,5370
+Pennsylvania,3/1/2017,5261
+Pennsylvania,2/1/2017,5108
+Pennsylvania,1/1/2017,5028
+Pennsylvania,12/1/2016,4793
+Pennsylvania,11/1/2016,4500
+Pennsylvania,10/1/2016,4288
+Pennsylvania,9/1/2016,4151
+Pennsylvania,8/1/2016,4005
+Pennsylvania,7/1/2016,3903
+Pennsylvania,6/1/2016,3758
+Pennsylvania,5/1/2016,3735
+Pennsylvania,4/1/2016,3702
+Pennsylvania,3/1/2016,3622
+Pennsylvania,2/1/2016,3509
+Pennsylvania,1/1/2016,3361
+Pennsylvania,12/1/2015,3359
+Pennsylvania,11/1/2015,3351
+Pennsylvania,10/1/2015,3300
+Pennsylvania,9/1/2015,3225
+Pennsylvania,8/1/2015,3164
+Pennsylvania,7/1/2015,3098
+Pennsylvania,6/1/2015,3051
+Pennsylvania,5/1/2015,2962
+Pennsylvania,4/1/2015,2949
+Pennsylvania,3/1/2015,2919
+Pennsylvania,2/1/2015,2896
+Pennsylvania,1/1/2015,2865
+Rhode Island,5/1/2020,351
+Rhode Island,4/1/2020,348
+Rhode Island,3/1/2020,335
+Rhode Island,2/1/2020,333
+Rhode Island,1/1/2020,323
+Rhode Island,12/1/2019,323
+Rhode Island,11/1/2019,322
+Rhode Island,10/1/2019,328
+Rhode Island,9/1/2019,334
+Rhode Island,8/1/2019,342
+Rhode Island,7/1/2019,345
+Rhode Island,6/1/2019,341
+Rhode Island,5/1/2019,349
+Rhode Island,4/1/2019,345
+Rhode Island,3/1/2019,348
+Rhode Island,2/1/2019,345
+Rhode Island,1/1/2019,344
+Rhode Island,12/1/2018,331
+Rhode Island,11/1/2018,335
+Rhode Island,10/1/2018,336
+Rhode Island,9/1/2018,331
+Rhode Island,8/1/2018,332
+Rhode Island,7/1/2018,333
+Rhode Island,6/1/2018,335
+Rhode Island,5/1/2018,332
+Rhode Island,4/1/2018,316
+Rhode Island,3/1/2018,312
+Rhode Island,2/1/2018,321
+Rhode Island,1/1/2018,325
+Rhode Island,12/1/2017,336
+Rhode Island,11/1/2017,328
+Rhode Island,10/1/2017,333
+Rhode Island,9/1/2017,331
+Rhode Island,8/1/2017,328
+Rhode Island,7/1/2017,323
+Rhode Island,6/1/2017,322
+Rhode Island,5/1/2017,326
+Rhode Island,4/1/2017,341
+Rhode Island,3/1/2017,349
+Rhode Island,2/1/2017,342
+Rhode Island,1/1/2017,352
+Rhode Island,12/1/2016,348
+Rhode Island,11/1/2016,345
+Rhode Island,10/1/2016,331
+Rhode Island,9/1/2016,330
+Rhode Island,8/1/2016,337
+Rhode Island,7/1/2016,333
+Rhode Island,6/1/2016,338
+Rhode Island,5/1/2016,329
+Rhode Island,4/1/2016,328
+Rhode Island,3/1/2016,322
+Rhode Island,2/1/2016,322
+Rhode Island,1/1/2016,320
+Rhode Island,12/1/2015,319
+Rhode Island,11/1/2015,323
+Rhode Island,10/1/2015,322
+Rhode Island,9/1/2015,326
+Rhode Island,8/1/2015,308
+Rhode Island,7/1/2015,308
+Rhode Island,6/1/2015,296
+Rhode Island,5/1/2015,283
+Rhode Island,4/1/2015,268
+Rhode Island,3/1/2015,263
+Rhode Island,2/1/2015,255
+Rhode Island,1/1/2015,251
+South Carolina,5/1/2020,1387
+South Carolina,4/1/2020,1304
+South Carolina,3/1/2020,1249
+South Carolina,2/1/2020,1178
+South Carolina,1/1/2020,1148
+South Carolina,12/1/2019,1137
+South Carolina,11/1/2019,1140
+South Carolina,10/1/2019,1118
+South Carolina,9/1/2019,1114
+South Carolina,8/1/2019,1092
+South Carolina,7/1/2019,1065
+South Carolina,6/1/2019,1065
+South Carolina,5/1/2019,1072
+South Carolina,4/1/2019,1076
+South Carolina,3/1/2019,1111
+South Carolina,2/1/2019,1121
+South Carolina,1/1/2019,1116
+South Carolina,12/1/2018,1112
+South Carolina,11/1/2018,1069
+South Carolina,10/1/2018,1069
+South Carolina,9/1/2018,1052
+South Carolina,8/1/2018,1057
+South Carolina,7/1/2018,1061
+South Carolina,6/1/2018,1043
+South Carolina,5/1/2018,1049
+South Carolina,4/1/2018,1061
+South Carolina,3/1/2018,1026
+South Carolina,2/1/2018,995
+South Carolina,1/1/2018,995
+South Carolina,12/1/2017,1004
+South Carolina,11/1/2017,1030
+South Carolina,10/1/2017,1013
+South Carolina,9/1/2017,1021
+South Carolina,8/1/2017,1000
+South Carolina,7/1/2017,982
+South Carolina,6/1/2017,979
+South Carolina,5/1/2017,965
+South Carolina,4/1/2017,934
+South Carolina,3/1/2017,924
+South Carolina,2/1/2017,934
+South Carolina,1/1/2017,904
+South Carolina,12/1/2016,871
+South Carolina,11/1/2016,845
+South Carolina,10/1/2016,849
+South Carolina,9/1/2016,834
+South Carolina,8/1/2016,824
+South Carolina,7/1/2016,824
+South Carolina,6/1/2016,806
+South Carolina,5/1/2016,777
+South Carolina,4/1/2016,774
+South Carolina,3/1/2016,736
+South Carolina,2/1/2016,725
+South Carolina,1/1/2016,733
+South Carolina,12/1/2015,738
+South Carolina,11/1/2015,739
+South Carolina,10/1/2015,748
+South Carolina,9/1/2015,735
+South Carolina,8/1/2015,745
+South Carolina,7/1/2015,726
+South Carolina,6/1/2015,730
+South Carolina,5/1/2015,726
+South Carolina,4/1/2015,709
+South Carolina,3/1/2015,710
+South Carolina,2/1/2015,699
+South Carolina,1/1/2015,692
+South Dakota,5/1/2020,92
+South Dakota,4/1/2020,96
+South Dakota,3/1/2020,93
+South Dakota,2/1/2020,87
+South Dakota,1/1/2020,88
+South Dakota,12/1/2019,88
+South Dakota,11/1/2019,89
+South Dakota,10/1/2019,85
+South Dakota,9/1/2019,84
+South Dakota,8/1/2019,78
+South Dakota,7/1/2019,71
+South Dakota,6/1/2019,72
+South Dakota,5/1/2019,69
+South Dakota,4/1/2019,65
+South Dakota,3/1/2019,62
+South Dakota,2/1/2019,64
+South Dakota,1/1/2019,56
+South Dakota,12/1/2018,57
+South Dakota,11/1/2018,55
+South Dakota,10/1/2018,58
+South Dakota,9/1/2018,55
+South Dakota,8/1/2018,58
+South Dakota,7/1/2018,62
+South Dakota,6/1/2018,62
+South Dakota,5/1/2018,61
+South Dakota,4/1/2018,64
+South Dakota,3/1/2018,67
+South Dakota,2/1/2018,64
+South Dakota,1/1/2018,69
+South Dakota,12/1/2017,75
+South Dakota,11/1/2017,76
+South Dakota,10/1/2017,75
+South Dakota,9/1/2017,75
+South Dakota,8/1/2017,76
+South Dakota,7/1/2017,75
+South Dakota,6/1/2017,75
+South Dakota,5/1/2017,75
+South Dakota,4/1/2017,70
+South Dakota,3/1/2017,70
+South Dakota,2/1/2017,74
+South Dakota,1/1/2017,75
+South Dakota,12/1/2016,69
+South Dakota,11/1/2016,71
+South Dakota,10/1/2016,69
+South Dakota,9/1/2016,70
+South Dakota,8/1/2016,65
+South Dakota,7/1/2016,63
+South Dakota,6/1/2016,68
+South Dakota,5/1/2016,70
+South Dakota,4/1/2016,70
+South Dakota,3/1/2016,66
+South Dakota,2/1/2016,65
+South Dakota,1/1/2016,63
+South Dakota,12/1/2015,62
+South Dakota,11/1/2015,60
+South Dakota,10/1/2015,62
+South Dakota,9/1/2015,63
+South Dakota,8/1/2015,65
+South Dakota,7/1/2015,67
+South Dakota,6/1/2015,60
+South Dakota,5/1/2015,56
+South Dakota,4/1/2015,58
+South Dakota,3/1/2015,62
+South Dakota,2/1/2015,60
+South Dakota,1/1/2015,61
+Tennessee,5/1/2020,2563
+Tennessee,4/1/2020,2391
+Tennessee,3/1/2020,2313
+Tennessee,2/1/2020,2233
+Tennessee,1/1/2020,2182
+Tennessee,12/1/2019,2164
+Tennessee,11/1/2019,2162
+Tennessee,10/1/2019,2140
+Tennessee,9/1/2019,2096
+Tennessee,8/1/2019,2075
+Tennessee,7/1/2019,2069
+Tennessee,6/1/2019,2052
+Tennessee,5/1/2019,2010
+Tennessee,4/1/2019,1995
+Tennessee,3/1/2019,1977
+Tennessee,2/1/2019,1951
+Tennessee,1/1/2019,1964
+Tennessee,12/1/2018,1929
+Tennessee,11/1/2018,1933
+Tennessee,10/1/2018,1913
+Tennessee,9/1/2018,1904
+Tennessee,8/1/2018,1901
+Tennessee,7/1/2018,1888
+Tennessee,6/1/2018,1868
+Tennessee,5/1/2018,1858
+Tennessee,4/1/2018,1841
+Tennessee,3/1/2018,1839
+Tennessee,2/1/2018,1842
+Tennessee,1/1/2018,1813
+Tennessee,12/1/2017,1830
+Tennessee,11/1/2017,1807
+Tennessee,10/1/2017,1814
+Tennessee,9/1/2017,1803
+Tennessee,8/1/2017,1770
+Tennessee,7/1/2017,1775
+Tennessee,6/1/2017,1786
+Tennessee,5/1/2017,1763
+Tennessee,4/1/2017,1747
+Tennessee,3/1/2017,1714
+Tennessee,2/1/2017,1675
+Tennessee,1/1/2017,1665
+Tennessee,12/1/2016,1665
+Tennessee,11/1/2016,1660
+Tennessee,10/1/2016,1618
+Tennessee,9/1/2016,1621
+Tennessee,8/1/2016,1619
+Tennessee,7/1/2016,1594
+Tennessee,6/1/2016,1557
+Tennessee,5/1/2016,1569
+Tennessee,4/1/2016,1555
+Tennessee,3/1/2016,1548
+Tennessee,2/1/2016,1561
+Tennessee,1/1/2016,1535
+Tennessee,12/1/2015,1501
+Tennessee,11/1/2015,1468
+Tennessee,10/1/2015,1476
+Tennessee,9/1/2015,1443
+Tennessee,8/1/2015,1416
+Tennessee,7/1/2015,1401
+Tennessee,6/1/2015,1372
+Tennessee,5/1/2015,1355
+Tennessee,4/1/2015,1325
+Tennessee,3/1/2015,1334
+Tennessee,2/1/2015,1300
+Tennessee,1/1/2015,1316
+Texas,5/1/2020,3551
+Texas,4/1/2020,3444
+Texas,3/1/2020,3348
+Texas,2/1/2020,3305
+Texas,1/1/2020,3223
+Texas,12/1/2019,3167
+Texas,11/1/2019,3103
+Texas,10/1/2019,3069
+Texas,9/1/2019,3018
+Texas,8/1/2019,3043
+Texas,7/1/2019,3020
+Texas,6/1/2019,3011
+Texas,5/1/2019,3045
+Texas,4/1/2019,3024
+Texas,3/1/2019,3022
+Texas,2/1/2019,2970
+Texas,1/1/2019,3015
+Texas,12/1/2018,3033
+Texas,11/1/2018,3067
+Texas,10/1/2018,3084
+Texas,9/1/2018,3080
+Texas,8/1/2018,3068
+Texas,7/1/2018,3012
+Texas,6/1/2018,3033
+Texas,5/1/2018,2990
+Texas,4/1/2018,3015
+Texas,3/1/2018,2999
+Texas,2/1/2018,3005
+Texas,1/1/2018,2983
+Texas,12/1/2017,2962
+Texas,11/1/2017,2947
+Texas,10/1/2017,2902
+Texas,9/1/2017,2893
+Texas,8/1/2017,2883
+Texas,7/1/2017,2910
+Texas,6/1/2017,2872
+Texas,5/1/2017,2866
+Texas,4/1/2017,2835
+Texas,3/1/2017,2855
+Texas,2/1/2017,2854
+Texas,1/1/2017,2855
+Texas,12/1/2016,2859
+Texas,11/1/2016,2819
+Texas,10/1/2016,2796
+Texas,9/1/2016,2809
+Texas,8/1/2016,2788
+Texas,7/1/2016,2776
+Texas,6/1/2016,2772
+Texas,5/1/2016,2743
+Texas,4/1/2016,2730
+Texas,3/1/2016,2686
+Texas,2/1/2016,2687
+Texas,1/1/2016,2634
+Texas,12/1/2015,2623
+Texas,11/1/2015,2633
+Texas,10/1/2015,2669
+Texas,9/1/2015,2660
+Texas,8/1/2015,2633
+Texas,7/1/2015,2607
+Texas,6/1/2015,2558
+Texas,5/1/2015,2582
+Texas,4/1/2015,2577
+Texas,3/1/2015,2589
+Texas,2/1/2015,2565
+Texas,1/1/2015,2623
+Utah,5/1/2020,579
+Utah,4/1/2020,569
+Utah,3/1/2020,557
+Utah,2/1/2020,565
+Utah,1/1/2020,570
+Utah,12/1/2019,579
+Utah,11/1/2019,577
+Utah,10/1/2019,565
+Utah,9/1/2019,553
+Utah,8/1/2019,551
+Utah,7/1/2019,569
+Utah,6/1/2019,576
+Utah,5/1/2019,585
+Utah,4/1/2019,611
+Utah,3/1/2019,625
+Utah,2/1/2019,632
+Utah,1/1/2019,640
+Utah,12/1/2018,640
+Utah,11/1/2018,654
+Utah,10/1/2018,665
+Utah,9/1/2018,677
+Utah,8/1/2018,679
+Utah,7/1/2018,679
+Utah,6/1/2018,677
+Utah,5/1/2018,677
+Utah,4/1/2018,664
+Utah,3/1/2018,656
+Utah,2/1/2018,652
+Utah,1/1/2018,653
+Utah,12/1/2017,662
+Utah,11/1/2017,650
+Utah,10/1/2017,644
+Utah,9/1/2017,661
+Utah,8/1/2017,669
+Utah,7/1/2017,677
+Utah,6/1/2017,673
+Utah,5/1/2017,673
+Utah,4/1/2017,682
+Utah,3/1/2017,690
+Utah,2/1/2017,716
+Utah,1/1/2017,715
+Utah,12/1/2016,726
+Utah,11/1/2016,744
+Utah,10/1/2016,754
+Utah,9/1/2016,756
+Utah,8/1/2016,771
+Utah,7/1/2016,764
+Utah,6/1/2016,758
+Utah,5/1/2016,759
+Utah,4/1/2016,747
+Utah,3/1/2016,744
+Utah,2/1/2016,719
+Utah,1/1/2016,697
+Utah,12/1/2015,672
+Utah,11/1/2015,677
+Utah,10/1/2015,677
+Utah,9/1/2015,640
+Utah,8/1/2015,627
+Utah,7/1/2015,619
+Utah,6/1/2015,626
+Utah,5/1/2015,620
+Utah,4/1/2015,635
+Utah,3/1/2015,628
+Utah,2/1/2015,629
+Utah,1/1/2015,643
+Vermont,5/1/2020,136
+Vermont,4/1/2020,123
+Vermont,3/1/2020,114
+Vermont,2/1/2020,110
+Vermont,1/1/2020,116
+Vermont,12/1/2019,118
+Vermont,11/1/2019,123
+Vermont,10/1/2019,123
+Vermont,9/1/2019,130
+Vermont,8/1/2019,138
+Vermont,7/1/2019,128
+Vermont,6/1/2019,132
+Vermont,5/1/2019,135
+Vermont,4/1/2019,147
+Vermont,3/1/2019,144
+Vermont,2/1/2019,150
+Vermont,1/1/2019,147
+Vermont,12/1/2018,144
+Vermont,11/1/2018,136
+Vermont,10/1/2018,146
+Vermont,9/1/2018,142
+Vermont,8/1/2018,136
+Vermont,7/1/2018,137
+Vermont,6/1/2018,134
+Vermont,5/1/2018,134
+Vermont,4/1/2018,123
+Vermont,3/1/2018,126
+Vermont,2/1/2018,127
+Vermont,1/1/2018,129
+Vermont,12/1/2017,128
+Vermont,11/1/2017,135
+Vermont,10/1/2017,126
+Vermont,9/1/2017,130
+Vermont,8/1/2017,132
+Vermont,7/1/2017,141
+Vermont,6/1/2017,138
+Vermont,5/1/2017,141
+Vermont,4/1/2017,143
+Vermont,3/1/2017,143
+Vermont,2/1/2017,139
+Vermont,1/1/2017,137
+Vermont,12/1/2016,136
+Vermont,11/1/2016,128
+Vermont,10/1/2016,129
+Vermont,9/1/2016,118
+Vermont,8/1/2016,115
+Vermont,7/1/2016,110
+Vermont,6/1/2016,107
+Vermont,5/1/2016,104
+Vermont,4/1/2016,107
+Vermont,3/1/2016,104
+Vermont,2/1/2016,105
+Vermont,1/1/2016,100
+Vermont,12/1/2015,99
+Vermont,11/1/2015,99
+Vermont,10/1/2015,96
+Vermont,9/1/2015,100
+Vermont,8/1/2015,100
+Vermont,7/1/2015,95
+Vermont,6/1/2015,94
+Vermont,5/1/2015,91
+Vermont,4/1/2015,85
+Vermont,3/1/2015,82
+Vermont,2/1/2015,77
+Vermont,1/1/2015,76
+Virginia,5/1/2020,1737
+Virginia,4/1/2020,1639
+Virginia,3/1/2020,1588
+Virginia,2/1/2020,1570
+Virginia,1/1/2020,1562
+Virginia,12/1/2019,1539
+Virginia,11/1/2019,1498
+Virginia,10/1/2019,1476
+Virginia,9/1/2019,1452
+Virginia,8/1/2019,1476
+Virginia,7/1/2019,1490
+Virginia,6/1/2019,1499
+Virginia,5/1/2019,1497
+Virginia,4/1/2019,1490
+Virginia,3/1/2019,1476
+Virginia,2/1/2019,1474
+Virginia,1/1/2019,1464
+Virginia,12/1/2018,1434
+Virginia,11/1/2018,1474
+Virginia,10/1/2018,1484
+Virginia,9/1/2018,1460
+Virginia,8/1/2018,1417
+Virginia,7/1/2018,1403
+Virginia,6/1/2018,1404
+Virginia,5/1/2018,1416
+Virginia,4/1/2018,1410
+Virginia,3/1/2018,1410
+Virginia,2/1/2018,1407
+Virginia,1/1/2018,1436
+Virginia,12/1/2017,1455
+Virginia,11/1/2017,1424
+Virginia,10/1/2017,1424
+Virginia,9/1/2017,1439
+Virginia,8/1/2017,1453
+Virginia,7/1/2017,1440
+Virginia,6/1/2017,1428
+Virginia,5/1/2017,1415
+Virginia,4/1/2017,1407
+Virginia,3/1/2017,1394
+Virginia,2/1/2017,1403
+Virginia,1/1/2017,1392
+Virginia,12/1/2016,1356
+Virginia,11/1/2016,1340
+Virginia,10/1/2016,1287
+Virginia,9/1/2016,1260
+Virginia,8/1/2016,1229
+Virginia,7/1/2016,1214
+Virginia,6/1/2016,1186
+Virginia,5/1/2016,1160
+Virginia,4/1/2016,1131
+Virginia,3/1/2016,1107
+Virginia,2/1/2016,1051
+Virginia,1/1/2016,1006
+Virginia,12/1/2015,1002
+Virginia,11/1/2015,992
+Virginia,10/1/2015,1017
+Virginia,9/1/2015,1010
+Virginia,8/1/2015,995
+Virginia,7/1/2015,977
+Virginia,6/1/2015,985
+Virginia,5/1/2015,974
+Virginia,4/1/2015,967
+Virginia,3/1/2015,969
+Virginia,2/1/2015,981
+Virginia,1/1/2015,959
+Washington,5/1/2020,1454
+Washington,4/1/2020,1385
+Washington,3/1/2020,1320
+Washington,2/1/2020,1276
+Washington,1/1/2020,1262
+Washington,12/1/2019,1252
+Washington,11/1/2019,1245
+Washington,10/1/2019,1231
+Washington,9/1/2019,1235
+Washington,8/1/2019,1230
+Washington,7/1/2019,1220
+Washington,6/1/2019,1206
+Washington,5/1/2019,1200
+Washington,4/1/2019,1199
+Washington,3/1/2019,1198
+Washington,2/1/2019,1193
+Washington,1/1/2019,1190
+Washington,12/1/2018,1178
+Washington,11/1/2018,1190
+Washington,10/1/2018,1196
+Washington,9/1/2018,1181
+Washington,8/1/2018,1178
+Washington,7/1/2018,1174
+Washington,6/1/2018,1189
+Washington,5/1/2018,1168
+Washington,4/1/2018,1166
+Washington,3/1/2018,1171
+Washington,2/1/2018,1175
+Washington,1/1/2018,1172
+Washington,12/1/2017,1175
+Washington,11/1/2017,1138
+Washington,10/1/2017,1115
+Washington,9/1/2017,1097
+Washington,8/1/2017,1068
+Washington,7/1/2017,1063
+Washington,6/1/2017,1070
+Washington,5/1/2017,1094
+Washington,4/1/2017,1097
+Washington,3/1/2017,1120
+Washington,2/1/2017,1108
+Washington,1/1/2017,1105
+Washington,12/1/2016,1117
+Washington,11/1/2016,1127
+Washington,10/1/2016,1155
+Washington,9/1/2016,1171
+Washington,8/1/2016,1183
+Washington,7/1/2016,1177
+Washington,6/1/2016,1162
+Washington,5/1/2016,1163
+Washington,4/1/2016,1165
+Washington,3/1/2016,1137
+Washington,2/1/2016,1139
+Washington,1/1/2016,1134
+Washington,12/1/2015,1109
+Washington,11/1/2015,1110
+Washington,10/1/2015,1099
+Washington,9/1/2015,1090
+Washington,8/1/2015,1066
+Washington,7/1/2015,1068
+Washington,6/1/2015,1050
+Washington,5/1/2015,1020
+Washington,4/1/2015,1017
+Washington,3/1/2015,1018
+Washington,2/1/2015,1000
+Washington,1/1/2015,996
+West Virginia,5/1/2020,1090
+West Virginia,4/1/2020,983
+West Virginia,3/1/2020,960
+West Virginia,2/1/2020,946
+West Virginia,1/1/2020,918
+West Virginia,12/1/2019,902
+West Virginia,11/1/2019,896
+West Virginia,10/1/2019,865
+West Virginia,9/1/2019,859
+West Virginia,8/1/2019,870
+West Virginia,7/1/2019,879
+West Virginia,6/1/2019,870
+West Virginia,5/1/2019,890
+West Virginia,4/1/2019,905
+West Virginia,3/1/2019,902
+West Virginia,2/1/2019,911
+West Virginia,1/1/2019,932
+West Virginia,12/1/2018,934
+West Virginia,11/1/2018,951
+West Virginia,10/1/2018,973
+West Virginia,9/1/2018,974
+West Virginia,8/1/2018,957
+West Virginia,7/1/2018,931
+West Virginia,6/1/2018,942
+West Virginia,5/1/2018,944
+West Virginia,4/1/2018,938
+West Virginia,3/1/2018,968
+West Virginia,2/1/2018,981
+West Virginia,1/1/2018,1001
+West Virginia,12/1/2017,1035
+West Virginia,11/1/2017,1035
+West Virginia,10/1/2017,1045
+West Virginia,9/1/2017,1036
+West Virginia,8/1/2017,1054
+West Virginia,7/1/2017,1050
+West Virginia,6/1/2017,1028
+West Virginia,5/1/2017,1009
+West Virginia,4/1/2017,1000
+West Virginia,3/1/2017,965
+West Virginia,2/1/2017,942
+West Virginia,1/1/2017,925
+West Virginia,12/1/2016,892
+West Virginia,11/1/2016,865
+West Virginia,10/1/2016,831
+West Virginia,9/1/2016,844
+West Virginia,8/1/2016,829
+West Virginia,7/1/2016,817
+West Virginia,6/1/2016,810
+West Virginia,5/1/2016,788
+West Virginia,4/1/2016,772
+West Virginia,3/1/2016,766
+West Virginia,2/1/2016,764
+West Virginia,1/1/2016,741
+West Virginia,12/1/2015,738
+West Virginia,11/1/2015,730
+West Virginia,10/1/2015,730
+West Virginia,9/1/2015,700
+West Virginia,8/1/2015,696
+West Virginia,7/1/2015,698
+West Virginia,6/1/2015,696
+West Virginia,5/1/2015,692
+West Virginia,4/1/2015,694
+West Virginia,3/1/2015,681
+West Virginia,2/1/2015,664
+West Virginia,1/1/2015,654
+Wisconsin,5/1/2020,1369
+Wisconsin,4/1/2020,1308
+Wisconsin,3/1/2020,1289
+Wisconsin,2/1/2020,1288
+Wisconsin,1/1/2020,1232
+Wisconsin,12/1/2019,1203
+Wisconsin,11/1/2019,1205
+Wisconsin,10/1/2019,1188
+Wisconsin,9/1/2019,1176
+Wisconsin,8/1/2019,1163
+Wisconsin,7/1/2019,1149
+Wisconsin,6/1/2019,1122
+Wisconsin,5/1/2019,1126
+Wisconsin,4/1/2019,1127
+Wisconsin,3/1/2019,1094
+Wisconsin,2/1/2019,1075
+Wisconsin,1/1/2019,1082
+Wisconsin,12/1/2018,1094
+Wisconsin,11/1/2018,1088
+Wisconsin,10/1/2018,1083
+Wisconsin,9/1/2018,1104
+Wisconsin,8/1/2018,1117
+Wisconsin,7/1/2018,1131
+Wisconsin,6/1/2018,1172
+Wisconsin,5/1/2018,1193
+Wisconsin,4/1/2018,1174
+Wisconsin,3/1/2018,1183
+Wisconsin,2/1/2018,1162
+Wisconsin,1/1/2018,1177
+Wisconsin,12/1/2017,1196
+Wisconsin,11/1/2017,1184
+Wisconsin,10/1/2017,1182
+Wisconsin,9/1/2017,1156
+Wisconsin,8/1/2017,1158
+Wisconsin,7/1/2017,1156
+Wisconsin,6/1/2017,1141
+Wisconsin,5/1/2017,1105
+Wisconsin,4/1/2017,1104
+Wisconsin,3/1/2017,1106
+Wisconsin,2/1/2017,1115
+Wisconsin,1/1/2017,1110
+Wisconsin,12/1/2016,1089
+Wisconsin,11/1/2016,1079
+Wisconsin,10/1/2016,1081
+Wisconsin,9/1/2016,1076
+Wisconsin,8/1/2016,1075
+Wisconsin,7/1/2016,1024
+Wisconsin,6/1/2016,991
+Wisconsin,5/1/2016,988
+Wisconsin,4/1/2016,954
+Wisconsin,3/1/2016,943
+Wisconsin,2/1/2016,931
+Wisconsin,1/1/2016,914
+Wisconsin,12/1/2015,892
+Wisconsin,11/1/2015,880
+Wisconsin,10/1/2015,895
+Wisconsin,9/1/2015,887
+Wisconsin,8/1/2015,842
+Wisconsin,7/1/2015,855
+Wisconsin,6/1/2015,865
+Wisconsin,5/1/2015,867
+Wisconsin,4/1/2015,875
+Wisconsin,3/1/2015,875
+Wisconsin,2/1/2015,876
+Wisconsin,1/1/2015,852
+Wyoming,5/1/2020,88
+Wyoming,4/1/2020,83
+Wyoming,3/1/2020,81
+Wyoming,2/1/2020,80
+Wyoming,1/1/2020,78
+Wyoming,12/1/2019,72
+Wyoming,11/1/2019,65
+Wyoming,10/1/2019,68
+Wyoming,9/1/2019,70
+Wyoming,8/1/2019,73
+Wyoming,7/1/2019,75
+Wyoming,6/1/2019,72
+Wyoming,5/1/2019,64
+Wyoming,4/1/2019,63
+Wyoming,3/1/2019,65
+Wyoming,2/1/2019,59
+Wyoming,1/1/2019,60
+Wyoming,12/1/2018,61
+Wyoming,11/1/2018,59
+Wyoming,10/1/2018,66
+Wyoming,9/1/2018,68
+Wyoming,8/1/2018,64
+Wyoming,7/1/2018,60
+Wyoming,6/1/2018,64
+Wyoming,5/1/2018,65
+Wyoming,4/1/2018,67
+Wyoming,3/1/2018,66
+Wyoming,2/1/2018,65
+Wyoming,1/1/2018,63
+Wyoming,12/1/2017,66
+Wyoming,11/1/2017,71
+Wyoming,10/1/2017,66
+Wyoming,9/1/2017,62
+Wyoming,8/1/2017,64
+Wyoming,7/1/2017,62
+Wyoming,6/1/2017,64
+Wyoming,5/1/2017,73
+Wyoming,4/1/2017,80
+Wyoming,3/1/2017,82
+Wyoming,2/1/2017,90
+Wyoming,1/1/2017,91
+Wyoming,12/1/2016,93
+Wyoming,11/1/2016,94
+Wyoming,10/1/2016,94
+Wyoming,9/1/2016,93
+Wyoming,8/1/2016,95
+Wyoming,7/1/2016,99
+Wyoming,6/1/2016,101
+Wyoming,5/1/2016,95
+Wyoming,4/1/2016,94
+Wyoming,3/1/2016,99
+Wyoming,2/1/2016,91
+Wyoming,1/1/2016,95
+Wyoming,12/1/2015,93
+Wyoming,11/1/2015,94
+Wyoming,10/1/2015,96
+Wyoming,9/1/2015,101
+Wyoming,8/1/2015,103
+Wyoming,7/1/2015,106
+Wyoming,6/1/2015,104
+Wyoming,5/1/2015,113
+Wyoming,4/1/2015,112
+Wyoming,3/1/2015,104
+Wyoming,2/1/2015,104
+Wyoming,1/1/2015,105
+Alabama,6/1/2020,906
+Alaska,6/1/2020,133
+Arizona,6/1/2020,2386
+Arkansas,6/1/2020,434
+California,6/1/2020,7647
+Colorado,6/1/2020,1322
+Connecticut,6/1/2020,1351
+Delaware,6/1/2020,478
+District of Columbia,6/1/2020,487
+Florida,6/1/2020,6856
+Georgia,6/1/2020,1631
+Hawaii,6/1/2020,272
+Idaho,6/1/2020,252
+Illinois,6/1/2020,3427
+Indiana,6/1/2020,2030
+Iowa,6/1/2020,414
+Kansas,6/1/2020,394
+Kentucky,6/1/2020,1704
+Louisiana,6/1/2020,1640
+Maine,6/1/2020,442
+Maryland,6/1/2020,2498
+Massachusetts,6/1/2020,2348
+Michigan,6/1/2020,2638
+Minnesota,6/1/2020,920
+Mississippi,6/1/2020,446
+Missouri,6/1/2020,1892
+Montana,6/1/2020,150
+Nebraska,6/1/2020,183
+Nevada,6/1/2020,772
+New Hampshire,6/1/2020,416
+New Jersey,6/1/2020,3021
+New Mexico,6/1/2020,686
+New York,6/1/2020,2709
+New York City,6/1/2020,1772
+North Carolina,6/1/2020,2374
+North Dakota,6/1/2020,97
+Ohio,6/1/2020,4821
+Oklahoma,6/1/2020,695
+Oregon,6/1/2020,704
+Pennsylvania,6/1/2020,5015
+Rhode Island,6/1/2020,354
+South Carolina,6/1/2020,1462
+South Dakota,6/1/2020,92
+Tennessee,6/1/2020,2684
+Texas,6/1/2020,3665
+Utah,6/1/2020,581
+Vermont,6/1/2020,141
+Virginia,6/1/2020,1797
+Washington,6/1/2020,1493
+West Virginia,6/1/2020,1163
+Wisconsin,6/1/2020,1426
+Wyoming,6/1/2020,84
+Alabama,7/1/2020,928
+Alaska,7/1/2020,136
+Arizona,7/1/2020,2499
+Arkansas,7/1/2020,461
+California,7/1/2020,8007
+Colorado,7/1/2020,1374
+Connecticut,7/1/2020,1367
+Delaware,7/1/2020,476
+District of Columbia,7/1/2020,494
+Florida,7/1/2020,7098
+Georgia,7/1/2020,1703
+Hawaii,7/1/2020,277
+Idaho,7/1/2020,270
+Illinois,7/1/2020,3504
+Indiana,7/1/2020,2084
+Iowa,7/1/2020,412
+Kansas,7/1/2020,405
+Kentucky,7/1/2020,1794
+Louisiana,7/1/2020,1719
+Maine,7/1/2020,454
+Maryland,7/1/2020,2538
+Massachusetts,7/1/2020,2378
+Michigan,7/1/2020,2695
+Minnesota,7/1/2020,938
+Mississippi,7/1/2020,455
+Missouri,7/1/2020,1916
+Montana,7/1/2020,143
+Nebraska,7/1/2020,183
+Nevada,7/1/2020,788
+New Hampshire,7/1/2020,434
+New Jersey,7/1/2020,3009
+New Mexico,7/1/2020,694
+New York,7/1/2020,2745
+New York City,7/1/2020,1843
+North Carolina,7/1/2020,2647
+North Dakota,7/1/2020,93
+Ohio,7/1/2020,4947
+Oklahoma,7/1/2020,720
+Oregon,7/1/2020,717
+Pennsylvania,7/1/2020,5144
+Rhode Island,7/1/2020,368
+South Carolina,7/1/2020,1532
+South Dakota,7/1/2020,92
+Tennessee,7/1/2020,2782
+Texas,7/1/2020,3798
+Utah,7/1/2020,609
+Vermont,7/1/2020,146
+Virginia,7/1/2020,1904
+Washington,7/1/2020,1538
+West Virginia,7/1/2020,1190
+Wisconsin,7/1/2020,1457
+Wyoming,7/1/2020,88
+Alaska,8/1/2020,141
+Alaska,9/1/2020,143
+Alabama,8/1/2020,956
+Alabama,9/1/2020,975
+Arkansas,8/1/2020,483
+Arkansas,9/1/2020,494
+Arizona,8/1/2020,2623
+Arizona,9/1/2020,2635
+California,8/1/2020,8513
+California,9/1/2020,8821
+Colorado,8/1/2020,1443
+Colorado,9/1/2020,1489
+Connecticut,8/1/2020,1331
+Connecticut,9/1/2020,1368
+District of Columbia,8/1/2020,515
+District of Columbia,9/1/2020,524
+Delaware,8/1/2020,476
+Delaware,9/1/2020,479
+Florida,8/1/2020,7318
+Florida,9/1/2020,7524
+Georgia,8/1/2020,1731
+Georgia,9/1/2020,1757
+Hawaii,8/1/2020,270
+Hawaii,9/1/2020,277
+Iowa,8/1/2020,412
+Iowa,9/1/2020,421
+Idaho,8/1/2020,281
+Idaho,9/1/2020,284
+Illinois,8/1/2020,3559
+Illinois,9/1/2020,3611
+Indiana,8/1/2020,2126
+Indiana,9/1/2020,2169
+Kansas,8/1/2020,425
+Kansas,9/1/2020,425
+Kentucky,8/1/2020,1884
+Kentucky,9/1/2020,1956
+Louisiana,8/1/2020,1769
+Louisiana,9/1/2020,1826
+Massachusetts,8/1/2020,2368
+Massachusetts,9/1/2020,2378
+Maryland,8/1/2020,2575
+Maryland,9/1/2020,2641
+Maine,8/1/2020,455
+Maine,9/1/2020,465
+Michigan,8/1/2020,2749
+Michigan,9/1/2020,2753
+Minnesota,8/1/2020,979
+Minnesota,9/1/2020,1000
+Missouri,8/1/2020,1914
+Missouri,9/1/2020,1914
+Mississippi,8/1/2020,481
+Mississippi,9/1/2020,485
+Montana,8/1/2020,145
+Montana,9/1/2020,150
+North Carolina,8/1/2020,2727
+North Carolina,9/1/2020,2732
+North Dakota,8/1/2020,93
+North Dakota,9/1/2020,102
+Nebraska,8/1/2020,194
+Nebraska,9/1/2020,204
+New Hampshire,8/1/2020,421
+New Hampshire,9/1/2020,417
+New Jersey,8/1/2020,2975
+New Jersey,9/1/2020,2990
+New Mexico,8/1/2020,734
+New Mexico,9/1/2020,752
+Nevada,8/1/2020,832
+Nevada,9/1/2020,829
+New York,8/1/2020,2838
+New York,9/1/2020,2898
+Ohio,8/1/2020,5006
+Ohio,9/1/2020,5107
+Oklahoma,8/1/2020,739
+Oklahoma,9/1/2020,725
+Oregon,8/1/2020,736
+Oregon,9/1/2020,750
+Pennsylvania,8/1/2020,5207
+Pennsylvania,9/1/2020,5300
+Rhode Island,8/1/2020,386
+Rhode Island,9/1/2020,402
+South Carolina,8/1/2020,1583
+South Carolina,9/1/2020,1625
+South Dakota,8/1/2020,85
+South Dakota,9/1/2020,81
+Tennessee,8/1/2020,2899
+Tennessee,9/1/2020,2980
+Texas,8/1/2020,3951
+Texas,9/1/2020,4063
+United States,8/1/2020,88400
+United States,9/1/2020,90237
+Utah,8/1/2020,632
+Utah,9/1/2020,631
+Virginia,8/1/2020,1991
+Virginia,9/1/2020,2060
+Vermont,8/1/2020,149
+Vermont,9/1/2020,155
+Washington,8/1/2020,1577
+Washington,9/1/2020,1595
+Wisconsin,8/1/2020,1481
+Wisconsin,9/1/2020,1512
+West Virginia,8/1/2020,1226
+West Virginia,9/1/2020,1287
+Wyoming,8/1/2020,89
+Wyoming,9/1/2020,97
+New York City,8/1/2020,1932
+New York City,9/1/2020,1983
+Alabama,10/1/2020,971
+Alaska,10/1/2020,137
+Arizona,10/1/2020,2667
+Arkansas,10/1/2020,501
+California,10/1/2020,9145
+Colorado,10/1/2020,1502
+Connecticut,10/1/2020,1391
+Delaware,10/1/2020,481
+District of Columbia,10/1/2020,529
+Florida,10/1/2020,7555
+Georgia,10/1/2020,1810
+Hawaii,10/1/2020,276
+Idaho,10/1/2020,284
+Illinois,10/1/2020,3627
+Indiana,10/1/2020,2200
+Iowa,10/1/2020,430
+Kansas,10/1/2020,450
+Kentucky,10/1/2020,2012
+Louisiana,10/1/2020,1837
+Maine,10/1/2020,452
+Maryland,10/1/2020,2727
+Massachusetts,10/1/2020,2370
+Michigan,10/1/2020,2789
+Minnesota,10/1/2020,1023
+Mississippi,10/1/2020,510
+Missouri,10/1/2020,1936
+Montana,10/1/2020,154
+Nebraska,10/1/2020,211
+Nevada,10/1/2020,873
+New Hampshire,10/1/2020,411
+New Jersey,10/1/2020,2953
+New Mexico,10/1/2020,778
+New York,10/1/2020,2943
+New York City,10/1/2020,2035
+North Carolina,10/1/2020,2981
+North Dakota,10/1/2020,108
+Ohio,10/1/2020,5175
+Oklahoma,10/1/2020,748
+Oregon,10/1/2020,775
+Pennsylvania,10/1/2020,5339
+Rhode Island,10/1/2020,400
+South Carolina,10/1/2020,1648
+South Dakota,10/1/2020,76
+Tennessee,10/1/2020,3057
+Texas,10/1/2020,4107
+Utah,10/1/2020,634
+Vermont,10/1/2020,168
+Virginia,10/1/2020,2126
+Washington,10/1/2020,1646
+West Virginia,10/1/2020,1306
+Wisconsin,10/1/2020,1526
+Wyoming,10/1/2020,100
+Alabama,11/1/2020,988
+Alaska,11/1/2020,142
+Arizona,11/1/2020,2690
+Arkansas,11/1/2020,509
+California,11/1/2020,9328
+Colorado,11/1/2020,1525
+Connecticut,11/1/2020,1388
+Delaware,11/1/2020,468
+District of Columbia,11/1/2020,530
+Florida,11/1/2020,7584
+Georgia,11/1/2020,1835
+Hawaii,11/1/2020,277
+Idaho,11/1/2020,283
+Illinois,11/1/2020,3647
+Indiana,11/1/2020,2220
+Iowa,11/1/2020,429
+Kansas,11/1/2020,446
+Kentucky,11/1/2020,2055
+Louisiana,11/1/2020,1850
+Maine,11/1/2020,468
+Maryland,11/1/2020,2741
+Massachusetts,11/1/2020,2344
+Michigan,11/1/2020,2751
+Minnesota,11/1/2020,1043
+Mississippi,11/1/2020,519
+Missouri,11/1/2020,1936
+Montana,11/1/2020,154
+Nebraska,11/1/2020,204
+Nevada,11/1/2020,895
+New Hampshire,11/1/2020,409
+New Jersey,11/1/2020,2916
+New Mexico,11/1/2020,798
+New York,11/1/2020,2981
+New York City,11/1/2020,2101
+North Carolina,11/1/2020,3196
+North Dakota,11/1/2020,116
+Ohio,11/1/2020,5141
+Oklahoma,11/1/2020,744
+Oregon,11/1/2020,793
+Pennsylvania,11/1/2020,5344
+Rhode Island,11/1/2020,399
+South Carolina,11/1/2020,1688
+South Dakota,11/1/2020,71
+Tennessee,11/1/2020,3090
+Texas,11/1/2020,4140
+Utah,11/1/2020,623
+Vermont,11/1/2020,178
+Virginia,11/1/2020,2160
+Washington,11/1/2020,1685
+West Virginia,11/1/2020,1329
+Wisconsin,11/1/2020,1535
+Wyoming,11/1/2020,110
+Alabama,12/1/2020,1009
+Alaska,12/1/2020,146
+Arizona,12/1/2020,2660
+Arkansas,12/1/2020,515
+California,12/1/2020,9538
+Colorado,12/1/2020,1512
+Connecticut,12/1/2020,1385
+Delaware,12/1/2020,449
+District of Columbia,12/1/2020,511
+Florida,12/1/2020,7579
+Georgia,12/1/2020,1863
+Hawaii,12/1/2020,274
+Idaho,12/1/2020,283
+Illinois,12/1/2020,3573
+Indiana,12/1/2020,2268
+Iowa,12/1/2020,419
+Kansas,12/1/2020,471
+Kentucky,12/1/2020,2104
+Louisiana,12/1/2020,1925
+Maine,12/1/2020,490
+Maryland,12/1/2020,2761
+Massachusetts,12/1/2020,2318
+Michigan,12/1/2020,2770
+Minnesota,12/1/2020,1066
+Mississippi,12/1/2020,522
+Missouri,12/1/2020,1921
+Montana,12/1/2020,157
+Nebraska,12/1/2020,210
+Nevada,12/1/2020,916
+New Hampshire,12/1/2020,393
+New Jersey,12/1/2020,2841
+New Mexico,12/1/2020,813
+New York,12/1/2020,3000
+New York City,12/1/2020,2132
+North Carolina,12/1/2020,3260
+North Dakota,12/1/2020,123
+Ohio,12/1/2020,5215
+Oklahoma,12/1/2020,753
+Oregon,12/1/2020,799
+Pennsylvania,12/1/2020,5278
+Rhode Island,12/1/2020,396
+South Carolina,12/1/2020,1730
+South Dakota,12/1/2020,74
+Tennessee,12/1/2020,3128
+Texas,12/1/2020,4192
+Utah,12/1/2020,623
+Vermont,12/1/2020,186
+Virginia,12/1/2020,2187
+Washington,12/1/2020,1724
+West Virginia,12/1/2020,1377
+Wisconsin,12/1/2020,1539
+Wyoming,12/1/2020,101
+Alaska,1/1/21,143
+Alabama,1/1/21,1045
+Arkansas,1/1/21,513
+Arizona,1/1/21,2676
+California,1/1/21,9910
+Colorado,1/1/21,1557
+Connecticut,1/1/21,1385
+District of Columbia,1/1/21,513
+Delaware,1/1/21,456
+Florida,1/1/21,7655
+Georgia,1/1/21,1915
+Hawaii,1/1/21,275
+Iowa,1/1/21,429
+Idaho,1/1/21,286
+Illinois,1/1/21,3549
+Indiana,1/1/21,2333
+Kansas,1/1/21,477
+Kentucky,1/1/21,2188
+Louisiana,1/1/21,2022
+Massachusetts,1/1/21,2346
+Maryland,1/1/21,2832
+Maine,1/1/21,502
+Michigan,1/1/21,2836
+Minnesota,1/1/21,1106
+Missouri,1/1/21,1950
+Mississippi,1/1/21,566
+Montana,1/1/21,164
+North Carolina,1/1/21,3411
+North Dakota,1/1/21,125
+Nebraska,1/1/21,213
+New Hampshire,1/1/21,389
+New Jersey,1/1/21,2836
+New Mexico,1/1/21,827
+Nevada,1/1/21,941
+New York,1/1/21,3060
+Ohio,1/1/21,5316
+Oklahoma,1/1/21,781
+Oregon,1/1/21,836
+Pennsylvania,1/1/21,5315
+Rhode Island,1/1/21,402
+South Carolina,1/1/21,1774
+South Dakota,1/1/21,76
+Tennessee,1/1/21,3246
+Texas,1/1/21,4280
+United States,1/1/21,95381
+Utah,1/1/21,634
+Virginia,1/1/21,2248
+Vermont,1/1/21,191
+Washington,1/1/21,1772
+Wisconsin,1/1/21,1546
+West Virginia,1/1/21,1430
+Wyoming,1/1/21,97
+New York City,1/1/21,2215
+Alaska,2/1/21,149
+Alabama,2/1/21,1056
+Arkansas,2/1/21,525
+Arizona,2/1/21,2705
+California,2/1/21,10128
+Colorado,2/1/21,1583
+Connecticut,2/1/21,1407
+District of Columbia,2/1/21,513
+Delaware,2/1/21,449
+Florida,2/1/21,7722
+Georgia,2/1/21,1987
+Hawaii,2/1/21,288
+Iowa,2/1/21,423
+Idaho,2/1/21,282
+Illinois,2/1/21,3525
+Indiana,2/1/21,2356
+Kansas,2/1/21,494
+Kentucky,2/1/21,2218
+Louisiana,2/1/21,2096
+Massachusetts,2/1/21,2360
+Maryland,2/1/21,2828
+Maine,2/1/21,503
+Michigan,2/1/21,2849
+Minnesota,2/1/21,1139
+Missouri,2/1/21,1954
+Mississippi,2/1/21,596
+Montana,2/1/21,165
+North Carolina,2/1/21,3468
+North Dakota,2/1/21,121
+Nebraska,2/1/21,219
+New Hampshire,2/1/21,382
+New Jersey,2/1/21,2857
+New Mexico,2/1/21,847
+Nevada,2/1/21,968
+New York,2/1/21,3101
+Ohio,2/1/21,5361
+Oklahoma,2/1/21,787
+Oregon,2/1/21,861
+Pennsylvania,2/1/21,5404
+Rhode Island,2/1/21,409
+South Carolina,2/1/21,1798
+South Dakota,2/1/21,81
+Tennessee,2/1/21,3365
+Texas,2/1/21,4402
+United States,2/1/21,96928
+Utah,2/1/21,643
+Virginia,2/1/21,2299
+Vermont,2/1/21,194
+Washington,2/1/21,1807
+Wisconsin,2/1/21,1544
+West Virginia,2/1/21,1488
+Wyoming,2/1/21,99
+New York City,2/1/21,2242
+Alaska,3/1/21,164
+Alabama,3/1/21,1094
+Arkansas,3/1/21,535
+Arizona,3/1/21,2735
+California,3/1/21,10408
+Colorado,3/1/21,1633
+Connecticut,3/1/21,1422
+District of Columbia,3/1/21,518
+Delaware,3/1/21,458
+Florida,3/1/21,7805
+Georgia,3/1/21,2042
+Hawaii,3/1/21,282
+Iowa,3/1/21,429
+Idaho,3/1/21,280
+Illinois,3/1/21,3577
+Indiana,3/1/21,2438
+Kansas,3/1/21,531
+Kentucky,3/1/21,2273
+Louisiana,3/1/21,2168
+Massachusetts,3/1/21,2411
+Maryland,3/1/21,2838
+Maine,3/1/21,518
+Michigan,3/1/21,2924
+Minnesota,3/1/21,1177
+Missouri,3/1/21,1980
+Mississippi,3/1/21,623
+Montana,3/1/21,164
+North Carolina,3/1/21,3556
+North Dakota,3/1/21,121
+Nebraska,3/1/21,217
+New Hampshire,3/1/21,380
+New Jersey,3/1/21,2892
+New Mexico,3/1/21,871
+Nevada,3/1/21,992
+New York,3/1/21,3130
+Ohio,3/1/21,5491
+Oklahoma,3/1/21,798
+Oregon,3/1/21,893
+Pennsylvania,3/1/21,5462
+Rhode Island,3/1/21,407
+South Carolina,3/1/21,1827
+South Dakota,3/1/21,77
+Tennessee,3/1/21,3476
+Texas,3/1/21,4593
+United States,3/1/21,99106
+Utah,3/1/21,656
+Virginia,3/1/21,2332
+Vermont,3/1/21,211
+Washington,3/1/21,1857
+Wisconsin,3/1/21,1559
+West Virginia,3/1/21,1564
+Wyoming,3/1/21,93
+New York City,3/1/21,2307

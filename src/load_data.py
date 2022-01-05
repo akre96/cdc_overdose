@@ -1,4 +1,6 @@
 import pandas as pd
+import requests
+
 
 
 def load_data():
@@ -6,11 +8,14 @@ def load_data():
     gt = pd.read_csv('output/ground_truth_states_imputation.csv')\
         .rename(columns={'State_Name': 'location'})
     gt['timestamp'] = pd.to_datetime(gt['Month Code'], format='%Y/%m')
-    cdc_overdose = pd.read_csv('input/CDC_ts.csv')
-    cdc_overdose['timestamp'] = pd.to_datetime(
-        cdc_overdose.end_date,
-        format='%m/%d/%Y'
-    )
+
+    # Get provisional data from CDC API
+    response = requests.get('https://data.cdc.gov/resource/xkb8-kh2a.json?$limit=1000000')
+    raw_data = response.text
+    cdc_data = pd.read_json(raw_data)
+    cdc_overdose = cdc_data[cdc_data.indicator == 'Number of Drug Overdose Deaths']
+    cdc_overdose['timestamp'] = pd.to_datetime(cdc_overdose['year'].astype(str)  + cdc_overdose['month'], format='%Y%B')
+    cdc_overdose = cdc_overdose.rename(columns={'predicted_value': 'predicted_val', 'state_name': 'location'})
 
     # Merge NYC with New York State
     nyc = cdc_overdose.loc[
